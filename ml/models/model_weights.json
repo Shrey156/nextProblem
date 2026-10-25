@@ -1,0 +1,67 @@
+{
+  "modelType": "logistic_regression",
+  "version": "1.0.0",
+  "trainedAt": "2026-10-25T10:19:27.636049+00:00",
+  "featureNames": [
+    "user_rating",
+    "problem_rating",
+    "rating_gap",
+    "tag_solve_rate",
+    "tag_attempts"
+  ],
+  "weights": [
+    0.278943,
+    -0.166351,
+    0.454332,
+    0.537347,
+    -0.332824
+  ],
+  "bias": 2.848797,
+  "featureScaling": {
+    "means": [
+      1909.446735,
+      1386.082474,
+      523.364261,
+      0.773627,
+      24.450172
+    ],
+    "scales": [
+      675.885707,
+      628.363483,
+      645.040474,
+      0.126036,
+      22.799328
+    ]
+  },
+  "metrics": {
+    "auc": 0.7063,
+    "logLoss": 0.1466,
+    "brierScore": 0.0312
+  },
+  "baselineMetrics": {
+    "gapBaselineAuc": 0.7148,
+    "gapBaselineLogLoss": 0.5712,
+    "eloLogisticAuc": 0.7254,
+    "eloLogisticLogLoss": 0.6328
+  },
+  "calibration": {
+    "predicted_probabilities": [
+      0.7424,
+      0.9272
+    ],
+    "empirical_probabilities": [
+      0.625,
+      0.9789
+    ]
+  },
+  "comparisonVerdict": {
+    "beats_linear_auc": false,
+    "beats_elo_auc": false,
+    "beats_linear_log_loss": true,
+    "beats_elo_log_loss": true,
+    "delta_auc_vs_linear": -0.0085,
+    "delta_auc_vs_elo": -0.0191,
+    "delta_loss_vs_linear": -0.4246,
+    "delta_loss_vs_elo": -0.4862
+  }
+}

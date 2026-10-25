@@ -1,0 +1,23 @@
+{
+  "total_instances": 1456,
+  "train_instances": 1164,
+  "test_instances": 292,
+  "train_time_range": {
+    "min_timestamp": 1715928963,
+    "max_timestamp": 1791043638
+  },
+  "test_time_range": {
+    "min_timestamp": 1791046524,
+    "max_timestamp": 1792911933
+  },
+  "overall_positive_rate": 0.9347527472527473,
+  "train_positive_rate": 0.9261168384879725,
+  "test_positive_rate": 0.9691780821917808,
+  "feature_correlations_with_solved": {
+    "user_rating": 0.09516776300088174,
+    "problem_rating": -0.04949520612573718,
+    "rating_gap": 0.14551892221260557,
+    "tag_solve_rate": 0.15785263021255405,
+    "tag_attempts": 0.010852556556586221
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "test_sample_count": 292,
+  "linear_gap_baseline": {
+    "model_name": "Baseline A (Linear Gap)",
+    "auc": 0.7148,
+    "log_loss": 0.5712,
+    "brier_score": 0.172
+  },
+  "elo_logistic_baseline": {
+    "model_name": "Baseline B (Elo Logistic Gap)",
+    "auc": 0.7254,
+    "log_loss": 0.6328,
+    "brier_score": 0.1783
+  }
+}

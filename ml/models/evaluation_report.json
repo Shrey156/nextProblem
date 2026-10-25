@@ -1,0 +1,128 @@
+{
+  "dataset": {
+    "train_samples": 1164,
+    "test_samples": 292,
+    "features_used": [
+      "user_rating",
+      "problem_rating",
+      "rating_gap",
+      "tag_solve_rate",
+      "tag_attempts"
+    ]
+  },
+  "model_parameters": {
+    "model_type": "LogisticRegression",
+    "solver": "lbfgs",
+    "C": 1.0,
+    "intercept": 2.8488,
+    "feature_weights": [
+      {
+        "feature": "user_rating",
+        "standardized_weight": 0.2789,
+        "mean": 1909.4467,
+        "scale": 675.8857,
+        "interpretation": "Increases solve probability"
+      },
+      {
+        "feature": "problem_rating",
+        "standardized_weight": -0.1664,
+        "mean": 1386.0825,
+        "scale": 628.3635,
+        "interpretation": "Decreases solve probability"
+      },
+      {
+        "feature": "rating_gap",
+        "standardized_weight": 0.4543,
+        "mean": 523.3643,
+        "scale": 645.0405,
+        "interpretation": "Increases solve probability"
+      },
+      {
+        "feature": "tag_solve_rate",
+        "standardized_weight": 0.5373,
+        "mean": 0.7736,
+        "scale": 0.126,
+        "interpretation": "Increases solve probability"
+      },
+      {
+        "feature": "tag_attempts",
+        "standardized_weight": -0.3328,
+        "mean": 24.4502,
+        "scale": 22.7993,
+        "interpretation": "Decreases solve probability"
+      }
+    ]
+  },
+  "evaluation_metrics": {
+    "multi_feature_logistic": {
+      "model_name": "Multi-Feature Logistic Regression",
+      "auc": 0.7063,
+      "log_loss": 0.1466,
+      "brier_score": 0.0312,
+      "calibration": {
+        "predicted_probabilities": [
+          0.7424,
+          0.9272
+        ],
+        "empirical_probabilities": [
+          0.625,
+          0.9789
+        ]
+      }
+    },
+    "baseline_a_linear_gap": {
+      "model_name": "Baseline A (Linear Gap)",
+      "auc": 0.7148,
+      "log_loss": 0.5712,
+      "brier_score": 0.172,
+      "calibration": {
+        "predicted_probabilities": [
+          0.0563,
+          0.3061,
+          0.497,
+          0.6863,
+          0.9381
+        ],
+        "empirical_probabilities": [
+          0.9444,
+          0.9167,
+          0.95,
+          0.9683,
+          0.9921
+        ]
+      }
+    },
+    "baseline_b_elo_gap": {
+      "model_name": "Baseline B (Elo Logistic Gap)",
+      "auc": 0.7254,
+      "log_loss": 0.6328,
+      "brier_score": 0.1783,
+      "calibration": {
+        "predicted_probabilities": [
+          0.0548,
+          0.2937,
+          0.4877,
+          0.7106,
+          0.9547
+        ],
+        "empirical_probabilities": [
+          0.9375,
+          0.8571,
+          0.973,
+          1.0,
+          0.9825
+        ]
+      }
+    }
+  },
+  "comparison_verdict": {
+    "beats_linear_auc": false,
+    "beats_elo_auc": false,
+    "beats_linear_log_loss": true,
+    "beats_elo_log_loss": true,
+    "delta_auc_vs_linear": -0.0085,
+    "delta_auc_vs_elo": -0.0191,
+    "delta_loss_vs_linear": -0.4246,
+    "delta_loss_vs_elo": -0.4862
+  }
+}

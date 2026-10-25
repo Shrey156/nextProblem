@@ -1,0 +1,1165 @@
+timestamp,handle,problem_id,problem_name,tags,user_rating,problem_rating,rating_gap,tag_solve_rate,tag_attempts,solved
+1715928963,SecondThread,1971_A,My First Sorting Problem,"implementation,sortings",2412,800,1612,0.5,0.0,1
+1716013711,SecondThread,1958_D,Staircase,*special,2412,1600,812,0.5,0.0,1
+1716096608,SecondThread,1958_E,Yet Another Permutation Constructive,"*special,constructive algorithms",2412,1900,512,0.5833333333333333,1.0,1
+1716172693,SecondThread,733_F,Drivers Dissatisfaction,"data structures,dsu,graphs,trees",2412,2200,212,0.5,0.0,1
+1716259537,SecondThread,1788_A,One and Two,"brute force,implementation,math",2412,800,1612,0.5555555555555555,1.0,1
+1716347477,SecondThread,1974_A,Phone Desktop,"greedy,math",2412,800,1612,0.5833333333333333,1.0,1
+1716445761,SecondThread,1974_B,Symmetric Encoding,"implementation,sortings,strings",2412,800,1612,0.6388888888888888,3.0,1
+1716520447,SecondThread,1974_C,Beautiful Triple Pairs,"combinatorics,data structures",2412,1400,1012,0.5833333333333333,1.0,1
+1716620259,SecondThread,1974_D,Ingenuity-2,"constructive algorithms,greedy,implementation",2412,1400,1012,0.7111111111111111,5.0,1
+1716776233,SecondThread,1977_A,Little Nikita,math,2412,800,1612,0.75,2.0,1
+1716859817,SecondThread,1977_B,Binary Colouring,"bitmasks,constructive algorithms,greedy,math",2412,1100,1312,0.7,7.0,1
+1716951714,SecondThread,1_A,Theatre Square,math,2412,1000,1412,0.8333333333333334,4.0,1
+1717045595,SecondThread,282_A,Bit++,implementation,2412,800,1612,0.8333333333333334,4.0,1
+1717138478,SecondThread,1976_A,Verify Password,"implementation,sortings,strings",2412,800,1612,0.7579365079365079,8.0,1
+1717221058,SecondThread,1976_B,Increase/Decrease/Copy,"greedy,implementation",2412,1100,1312,0.8375,9.0,1
+1717306998,SecondThread,1981_A,Turtle and Piggy Are Playing a Game,"brute force,greedy,math",2412,800,1612,0.7857142857142857,10.0,1
+1717361611,SecondThread,1976_D,Invertible Bracket Sequences,"binary search,combinatorics,data structures,divide and conquer,implementation,two pointers",2412,2000,412,0.6342592592592592,10.0,1
+1718332243,SecondThread,1985_F,Final Boss,"binary search,data structures",2412,1500,912,0.7333333333333334,4.0,1
+1718858454,SecondThread,404_E,Maze 1D,"binary search,greedy,implementation",2412,2200,212,0.8357142857142857,15.0,0
+1721004295,SecondThread,731_E,Funny Game,"dp,games",2412,2200,212,0.5,0.0,1
+1723166701,SecondThread,1946_E,Girl Permutation,"combinatorics,dp,math,number theory",2412,2200,212,0.6979166666666666,9.0,1
+1723241980,SecondThread,1117_E,Decypher the String,"bitmasks,chinese remainder theorem,constructive algorithms,interactive,math",2412,2200,212,0.6711111111111111,11.0,1
+1723387304,SecondThread,2002_A,Distanced Coloring,"constructive algorithms,implementation,math",2412,800,1612,0.8505050505050505,21.0,1
+1723388079,SecondThread,2002_C,Black Circles,"brute force,geometry,greedy,math",2412,1200,1212,0.7272727272727273,17.0,1
+1723388460,SecondThread,2002_B,Removals Game,"constructive algorithms,games",2412,1000,1412,0.7619047619047619,6.0,1
+1723390033,SecondThread,2002_E,Cosmic Rays,"brute force,data structures,dp",2412,2300,112,0.7944444444444444,9.0,1
+1723392674,SecondThread,2002_F1,Court Blue (Easy Version),"brute force,dfs and similar,dp,math,number theory",2412,2600,-188,0.7433333333333334,18.0,1
+1723394658,SecondThread,2002_F2,Court Blue (Hard Version),"brute force,dp,math,number theory",2412,2800,-388,0.8408882783882784,22.0,1
+1723396852,SecondThread,2002_D1,DFS Checker (Easy Version),"brute force,data structures,dfs and similar,graphs,hashing,trees",2412,1900,512,0.7053571428571428,14.0,1
+1723660303,SecondThread,402_E,Strictly Positive Matrix,"graphs,math",2412,2200,212,0.8392857142857143,14.0,1
+1727444629,1703056,2019_A,Max Plus Size,"brute force,dp,greedy",1544,800,744,0.5,0.0,1
+1727624673,1703056,2020_A,Find Minimum Operations,"bitmasks,brute force,greedy,math,number theory",1544,800,744,0.5666666666666667,2.0,1
+1727626927,1703056,2020_B,Brightness Begins,"binary search,math",1544,1200,344,0.5833333333333333,1.0,1
+1727629877,1703056,2020_C,Bitwise Balancing,"bitmasks,hashing,implementation,math,schedules,ternary search",1544,1400,144,0.5694444444444444,3.0,1
+1729965027,SecondThread,2027_B,Stalin Sort,"brute force,greedy",2412,1100,1312,0.8333333333333333,14.0,1
+1730049341,SecondThread,980_E,The Number Games,"data structures,greedy,trees",2412,2200,212,0.8083333333333332,16.0,0
+1731253723,1703056,2028_A,Alice's Adventures in ''Chess'',"brute force,implementation,math",1544,900,644,0.7388888888888889,6.0,1
+1731257937,1703056,2028_C,Alice's Adventures in Cutting Cake,"binary search,dp,greedy,two pointers",1544,1600,-56,0.6458333333333333,4.0,0
+1735514093,SecondThread,1249_F,Maximum Weight Subset,"dp,trees",2412,2200,212,0.7285714285714285,8.0,1
+1735595416,SecondThread,1537_F,Figure Fixing,"constructive algorithms,dfs and similar,dsu,graphs,greedy,math",2412,2200,212,0.7920454545454546,34.0,1
+1735663221,SecondThread,1303_E,Erase Subsequences,"dp,strings",2412,2200,212,0.8125,8.0,1
+1735760297,SecondThread,1993_D,Med-imize,"binary search,dp,greedy",2412,2200,212,0.7462962962962963,20.0,1
+1735858840,SecondThread,1238_E,Keyboard Purchase,"bitmasks,dp",2412,2200,212,0.825,10.0,1
+1735976614,SecondThread,2053_A,Tender Carpenter,"dp,geometry,greedy,math",2412,800,1612,0.8206220862470862,35.0,1
+1736062676,SecondThread,2044_A,Easy Problem,"brute force,math",2412,800,1612,0.9205882352941177,23.0,1
+1736740072,SecondThread,1985_H2,Maximize the Largest Component (Hard Version),"data structures,dfs and similar,dp,dsu,implementation",2412,2200,212,0.8155555555555555,32.0,1
+1737125729,1703056,2056_A,Shape Perimeter,"constructive algorithms,math",1544,800,744,0.6666666666666667,4.0,1
+1737129124,1703056,2056_B,Find the Permutation,"brute force,dfs and similar,graphs,implementation,sortings",1544,1300,244,0.61,5.0,1
+1737130441,1703056,2056_C,Palindromic Subsequences,"brute force,constructive algorithms,math",1544,1200,344,0.7857142857142857,10.0,1
+1737312529,SecondThread,920_G,List Of Integers,"binary search,bitmasks,brute force,combinatorics,math,number theory",2412,2200,212,0.82003367003367,38.0,1
+1737547978,1703056,2063_A,Minimal Coprime,"math,number theory",1544,800,744,0.7708333333333333,7.0,1
+1737550665,1703056,2063_B,Subsequence Update,"constructive algorithms,data structures,greedy,sortings",1544,1100,444,0.6291666666666667,6.0,1
+1737552844,1703056,2063_C,Remove Exactly Two,"brute force,data structures,dfs and similar,dp,graphs,greedy,sortings,trees",1544,1600,-56,0.6592261904761905,16.0,0
+1737902383,1703056,2062_A,String,"constructive algorithms,greedy,math,strings",1544,800,744,0.6900793650793651,15.0,1
+1737905241,1703056,2062_B,Clockwork,"greedy,math",1544,900,644,0.7625,14.0,1
+1737906795,1703056,2062_C,Cirno and Operations,"brute force,math",1544,1200,344,0.8295454545454546,15.0,1
+1738508379,1703056,2059_A,Milya and Two Arrays,"constructive algorithms,greedy,sortings",1544,800,744,0.7000000000000001,14.0,1
+1738513786,1703056,2059_B,Cost of the Array,"brute force,constructive algorithms,greedy,math",1544,1300,244,0.8128968253968253,30.0,1
+1739285135,1703056,2067_A,Adjacent Digit Sums,"brute force,constructive algorithms,math",1544,800,744,0.8660256410256411,25.0,1
+1739716929,1703056,2064_A,Brogramming Contest,"greedy,strings",1544,800,744,0.696969696969697,10.0,1
+1739719193,1703056,2064_B,Variety is Discouraged,"binary search,constructive algorithms,greedy,two pointers",1544,1100,444,0.6180555555555556,20.0,1
+1739722689,1703056,2064_C,Remove the Ends,"brute force,constructive algorithms,dp,greedy",1544,1300,244,0.7218531468531468,31.0,1
+1739889890,1703056,2069_A,Was there an Array?,"graph matchings,greedy",1544,800,744,0.6428571428571428,12.0,1
+1739894186,1703056,2069_C,Beautiful Sequence,"combinatorics,dp,greedy,two pointers",1544,1500,44,0.575,19.0,0
+1739932092,SecondThread,110_A,Nearly Lucky Number,implementation,2412,800,1612,0.8461538461538461,11.0,0
+1740065220,SecondThread,2036_B,Startup,"greedy,sortings",2412,800,1612,0.7928571428571429,15.0,1
+1740065470,SecondThread,2036_E,Reverse the Rivers,"binary search,constructive algorithms,data structures,greedy",2412,1600,812,0.8007936507936508,33.0,0
+1740065607,SecondThread,2033_D,Kousuke's Assignment,"data structures,dp,dsu,greedy,math",2412,1300,1112,0.8295436142804565,54.0,0
+1740494586,1703056,2072_A,"New World, New Me, New Array","greedy,implementation,math",1544,800,744,0.8261904761904763,29.0,1
+1740494988,1703056,2072_B,"Having Been a Treasurer in the Past, I Help Goblins Deceive","combinatorics,constructive algorithms,strings",1544,900,644,0.6641414141414141,12.0,1
+1740497188,1703056,2072_C,Creating Keys for StORages Has Become My Main Skill,"bitmasks,constructive algorithms,greedy",1544,1200,344,0.8104575163398692,27.0,1
+1740498583,1703056,2072_D,"For Wizards, the Exam Is Easy, but I Couldn't Handle It","brute force,greedy,implementation",1544,1300,244,0.8148148148148149,30.0,1
+1741216368,SecondThread,1907_A,Rook,implementation,2412,800,1612,0.7857142857142857,12.0,1
+1747493622,1703056,2109_A,It's Time To Duel,implementation,1544,800,744,0.8571428571428571,5.0,1
+1747499115,1703056,2109_B,Slice to Survive,"bitmasks,greedy,math",1544,1200,344,0.84093567251462,33.0,0
+1748270754,1703056,2114_A,Square Year,"binary search,brute force,math",1544,800,744,0.7737179487179487,28.0,1
+1748273051,1703056,2114_B,Not Quite a Palindromic String,"greedy,math",1544,900,644,0.8161764705882353,33.0,1
+1748275472,1703056,2114_C,Need More Arrays,"dp,greedy",1544,1000,544,0.5952380952380952,24.0,1
+1748278589,1703056,2114_D,Come a Little Closer,"brute force,greedy,implementation,math",1544,1400,144,0.8484397546897546,54.0,1
+1748703098,1703056,2116_A,Gellyfish and Tricolor Pansy,"games,greedy",1544,800,744,0.6413043478260869,21.0,1
+1748704255,1703056,2116_B,Gellyfish and Baby's Breath,"greedy,math,sortings",1544,1300,244,0.7843567251461988,43.0,0
+1748964852,1703056,2111_A,Energy Crystals,"greedy,implementation,math",1544,800,744,0.8329629629629629,48.0,1
+1749393710,1703056,2117_A,False Alarm,"greedy,implementation",1544,800,744,0.8346153846153846,32.0,1
+1749394070,1703056,2117_B,Shrink,constructive algorithms,1544,800,744,0.9230769230769231,11.0,1
+1749396854,1703056,2117_C,Cool Partition,"data structures,greedy",1544,1200,344,0.6388888888888888,27.0,1
+1749399633,1703056,2117_D,Retaliation,"binary search,math,number theory",1544,1200,344,0.7579365079365079,25.0,1
+1750171392,1703056,2121_A,Letter Home,"brute force,math",1544,800,744,0.8651515151515152,33.0,1
+1750172087,1703056,2121_B,Above the Clouds,"constructive algorithms,greedy,strings",1544,800,744,0.8380952380952381,41.0,1
+1750176339,1703056,2121_C,Those Who Are With Us,"greedy,implementation",1544,1200,344,0.8510971786833856,36.0,0
+1750689749,1703056,2112_A,Race,"implementation,math",1544,800,744,0.8514492753623188,31.0,1
+1750692562,1703056,2112_B,Shrinking Array,"brute force,greedy",1544,1100,444,0.8208333333333333,42.0,0
+1751116079,Errichto,2115_A,Gellyfish and Flaming Peony,"constructive algorithms,dp,math,number theory",2642,1500,1142,0.5,0.0,1
+1751188223,Errichto,2112_A,Race,"implementation,math",2642,800,1842,0.5833333333333333,1.0,1
+1751189101,Errichto,2112_C,Coloring Game,"binary search,brute force,greedy,two pointers",2642,1300,1342,0.5,0.0,1
+1751189984,Errichto,2112_D,Reachability and Tree,"constructive algorithms,dfs and similar,graphs,trees",2642,1700,942,0.5416666666666666,1.0,1
+1751192540,Errichto,2112_E,Tree Colorings,"combinatorics,dfs and similar,dp,graphs,math,number theory,trees",2642,2200,442,0.6547619047619048,7.0,1
+1751208117,SecondThread,2112_A,Race,"implementation,math",2412,800,1612,0.8500000000000001,31.0,1
+1751278893,Errichto,2101_A,Mex in the Grid,"constructive algorithms,implementation",2642,1300,1342,0.7083333333333333,3.0,1
+1751279915,Errichto,2077_B,Finding OR Sum,"bitmasks,constructive algorithms,implementation,interactive,math",2642,1900,742,0.6699999999999999,8.0,1
+1751282736,Errichto,2109_C2,Hacking Numbers (Medium Version),"constructive algorithms,interactive,math,number theory",2642,1700,942,0.7708333333333334,11.0,1
+1751282760,Errichto,2109_C1,Hacking Numbers (Easy Version),"bitmasks,constructive algorithms,interactive,math,number theory",2642,1500,1142,0.7861904761904762,16.0,1
+1751290831,SecondThread,2112_B,Shrinking Array,"brute force,greedy",2412,1100,1312,0.8112745098039216,25.0,1
+1751427533,SecondThread,2112_C,Coloring Game,"binary search,brute force,greedy,two pointers",2412,1300,1112,0.7342414529914529,34.0,1
+1751726987,1703056,2119_A,Add or XOR,"bitmasks,greedy,math",1544,800,744,0.7612007168458782,55.0,1
+1751727537,1703056,2119_B,Line Segments,"geometry,greedy,math",1544,1200,344,0.71,53.0,1
+1751807740,Errichto,2119_A,Add or XOR,"bitmasks,greedy,math",2642,800,1842,0.7638888888888888,9.0,1
+1751808463,Errichto,2119_B,Line Segments,"geometry,greedy,math",2642,1200,1442,0.7129629629629629,9.0,1
+1751810245,Errichto,2123_B,Tournament,greedy,2642,800,1842,0.8,3.0,1
+1751811722,Errichto,2123_E,MEX Count,"binary search,data structures,greedy,sortings,two pointers",2642,1400,1242,0.6333333333333333,6.0,1
+1751873570,Errichto,2119_D,Token Removing,"combinatorics,dp,math",2642,2100,542,0.7722222222222221,11.0,1
+1751875120,Errichto,2124_C,Subset Multiplication,"constructive algorithms,greedy,math,number theory",2642,1300,1342,0.868641774891775,24.0,1
+1751876264,Errichto,2124_D,Make a Palindrome,"greedy,sortings,two pointers",2642,1700,942,0.7638888888888888,9.0,1
+1751878072,Errichto,2124_E,Make it Zero,"constructive algorithms,greedy,math",2642,2100,542,0.898148148148148,24.0,1
+1751979263,Errichto,2123_D,Binary String Battle,"constructive algorithms,games,greedy",2642,1200,1442,0.7666666666666666,16.0,1
+1751979687,Errichto,2123_A,Blackboard Game,math,2642,800,1842,0.9230769230769231,11.0,1
+1751979967,Errichto,2123_C,Prefix Min and Suffix Max,"brute force,data structures",2642,1000,1642,0.6666666666666666,2.0,1
+1751981343,Errichto,2123_F,Minimize Fixed Points,"constructive algorithms,number theory",2642,1700,942,0.8831168831168831,14.0,1
+1751982513,Errichto,2123_G,Modular Sorting,"brute force,data structures,greedy,math,number theory,sortings",2642,2100,542,0.8271103896103896,33.0,1
+1752585280,Errichto,2119_C,A Good Problem,"bitmasks,constructive algorithms,math",2642,1300,1342,0.8833333333333334,26.0,1
+1752588408,Errichto,2119_E,And Constraint,"bitmasks,dp,greedy",2642,2600,42,0.85,17.0,1
+1752672151,Errichto,2111_A,Energy Crystals,"greedy,implementation,math",2642,800,1842,0.8868589743589744,28.0,1
+1752672622,Errichto,2111_B,Fibonacci Cubes,"brute force,dp,implementation,math",2642,1100,1542,0.8519607843137256,26.0,1
+1752673373,Errichto,2111_C,Equal Values,"brute force,greedy,two pointers",2642,1100,1542,0.8539682539682539,19.0,1
+1752674031,Errichto,2111_D,Creating a Schedule,"constructive algorithms,data structures,greedy,implementation,sortings",2642,1400,1242,0.8627106227106228,35.0,1
+1752676580,Errichto,2124_A,Deranged Deletions,"greedy,sortings",2642,800,1842,0.8854166666666667,18.0,1
+1752677236,Errichto,2124_B,Minimise Sum,greedy,2642,1000,1642,0.9411764705882353,15.0,1
+1752677799,Errichto,2112_B,Shrinking Array,"brute force,greedy",2642,1100,1542,0.9007936507936507,21.0,1
+1753621845,Errichto,2125_A,Difficult Contest,"constructive algorithms,implementation,sortings,strings",2642,800,1842,0.7901785714285714,23.0,1
+1753622199,Errichto,2125_B,Left and Down,"math,number theory",2642,900,1742,0.9166666666666666,23.0,1
+1753622699,Errichto,2125_C,Count Good Numbers,"bitmasks,combinatorics,math,number theory",2642,1100,1542,0.8636278195488721,32.0,1
+1753623908,Errichto,2125_D,Segments Covering,"dp,math,probabilities",2642,1600,1042,0.769047619047619,23.0,1
+1754793361,SecondThread,2127_C,Trip Shopping,"games,greedy,sortings",2412,1400,1012,0.7733918128654972,23.0,1
+1755137945,ningjingzhiyuan1216,1_A,Theatre Square,math,1335,1000,335,0.5,0.0,1
+1756788909,SecondThread,2132_A,Homework,"brute force,implementation,strings",2412,800,1612,0.8470238095238095,29.0,1
+1756790750,SecondThread,2132_C1,The Cunning Seller (easy version),"greedy,math",2412,1000,1412,0.8273809523809523,37.0,1
+1756791625,SecondThread,2132_C2,The Cunning Seller (hard version),"binary search,greedy,math",2412,1400,1012,0.7792207792207791,46.0,1
+1756794817,SecondThread,1958_A,1-3-5,"*special,dp",2412,1100,1312,0.8035714285714286,14.0,1
+1756798946,SecondThread,1958_B,Clock in the Pool,"*special,math",2412,1400,1012,0.8565217391304347,24.0,1
+1756799426,SecondThread,1958_C,Firewood,*special,2412,1500,912,0.8333333333333334,4.0,1
+1756803679,SecondThread,2136_A,In the Dream,"greedy,math",2412,800,1612,0.8446969696969697,42.0,1
+1756804050,SecondThread,2136_B,Like the Bitset,"constructive algorithms,greedy,two pointers",2412,900,1512,0.7775362318840581,31.0,1
+1757428759,ningjingzhiyuan1216,2140_A,Shift Sort,"greedy,sortings",1335,800,535,0.5,0.0,0
+1757428934,ningjingzhiyuan1216,2140_B,Another Divisibility Problem,"constructive algorithms,math,number theory",1335,900,435,0.5555555555555555,1.0,0
+1757432315,ningjingzhiyuan1216,2140_C,Ultimate Value,"data structures,games,greedy",1335,1500,-165,0.4444444444444444,1.0,0
+1757690815,ningjingzhiyuan1216,2141_A,Furniture Store,"*special,implementation",1335,800,535,0.5,0.0,0
+1757690961,ningjingzhiyuan1216,2141_B,Games,"*special,greedy",1335,1200,135,0.29166666666666663,3.0,0
+1757774383,ningjingzhiyuan1216,2148_A,Sublime Sequence,"brute force,hashing,math",1335,800,535,0.5,2.0,1
+1757777076,ningjingzhiyuan1216,2148_B,Lasers,geometry,1335,800,535,0.5,0.0,1
+1757777925,ningjingzhiyuan1216,2148_C,Pacer,"greedy,math",1335,900,435,0.4,6.0,1
+1757950106,ningjingzhiyuan1216,2144_B,Maximum Cost Permutation,"constructive algorithms,greedy",1335,1000,335,0.3333333333333333,5.0,1
+1757950433,ningjingzhiyuan1216,2144_A,Cut the Array,"brute force,constructive algorithms,math,number theory",1335,800,535,0.5416666666666666,8.0,1
+1757951322,ningjingzhiyuan1216,2144_C,Non-Descending Arrays,"combinatorics,dp,math",1335,1300,35,0.5714285714285715,5.0,1
+1757951420,ningjingzhiyuan1216,2144_D,Price Tags,"brute force,dp,math",1335,1800,-465,0.7222222222222222,9.0,1
+1758120560,ningjingzhiyuan1216,2143_A,All Lengths Subtraction,"brute force,two pointers",1335,800,535,0.65,3.0,1
+1758121369,ningjingzhiyuan1216,2143_B,Discounts,"greedy,sortings,two pointers",1335,1000,335,0.4761904761904761,7.0,1
+1758122289,ningjingzhiyuan1216,2143_C,Max Tree,"constructive algorithms,dfs and similar,graphs,greedy",1335,1300,35,0.525,9.0,1
+1758126863,ningjingzhiyuan1216,2143_D1,Inversion Graph Coloring (Easy Version),"combinatorics,data structures,dp,greedy,two pointers",1335,1800,-465,0.611111111111111,13.0,0
+1758381748,ningjingzhiyuan1216,2147_B,Multiple Construction,constructive algorithms,1335,1000,335,0.6666666666666666,4.0,0
+1758381827,ningjingzhiyuan1216,2147_A,Shortest Increasing Path,"constructive algorithms,greedy",1335,800,535,0.5357142857142857,13.0,1
+1758716235,ningjingzhiyuan1216,2151_A,Incremental Subarray,"math,strings",1335,800,535,0.6388888888888888,7.0,1
+1758720096,ningjingzhiyuan1216,2151_C,Incremental Stay,"greedy,implementation,math",1335,1400,-65,0.5595959595959595,18.0,0
+1758889679,ningjingzhiyuan1216,2149_A,Be Positive,math,1335,800,535,0.7272727272727273,9.0,1
+1758890967,ningjingzhiyuan1216,2149_B,Unconventional Pairs,"greedy,sortings",1335,800,535,0.5,12.0,1
+1758892541,ningjingzhiyuan1216,2149_C,MEX rose,greedy,1335,900,435,0.5384615384615384,11.0,0
+1758895828,ningjingzhiyuan1216,2149_D,A and B,strings,1335,1200,135,0.6666666666666666,1.0,0
+1759072431,SecondThread,2149_E,Hidden Knowledge of the Ancients,"data structures,two pointers",2412,1500,912,0.7333333333333334,13.0,1
+1759502598,ningjingzhiyuan1216,2152_A,Increase or Smash,"greedy,implementation",1335,800,535,0.375,14.0,1
+1759503050,ningjingzhiyuan1216,2152_B,Catching the Krug,games,1335,1300,35,0.3333333333333333,1.0,0
+1759506087,ningjingzhiyuan1216,2152_C,Triple Removal,"data structures,greedy,math",1335,1400,-65,0.5111111111111111,25.0,0
+1759506859,ningjingzhiyuan1216,2152_D,Division Versus Addition,"games,greedy,math",1335,1700,-365,0.4807692307692308,27.0,0
+1759507185,ningjingzhiyuan1216,2152_F,Triple Attack,"data structures,greedy",1335,2600,-1265,0.33529411764705885,18.0,0
+1759682451,SecondThread,2155_A,El fucho,"implementation,math",2412,800,1612,0.871764705882353,38.0,1
+1759682860,SecondThread,2155_B,Abraham's Great Escape,"constructive algorithms,graphs",2412,1100,1312,0.8257575757575758,13.0,1
+1759684551,SecondThread,2155_E,Mimo & Yuyu,"games,greedy,math",2412,2200,212,0.8382478632478634,49.0,1
+1759687501,SecondThread,2155_C,The Ancient Wizards' Capes,"brute force,greedy,implementation",2412,1600,812,0.8555555555555556,52.0,1
+1759687801,SecondThread,2155_D,Batteries,"brute force,constructive algorithms,graph matchings,graphs,interactive,math",2412,1800,612,0.7867614638447972,55.0,1
+1759761844,ningjingzhiyuan1216,2145_A,Candies for Nephews,math,1335,800,535,0.6428571428571429,12.0,1
+1759763415,ningjingzhiyuan1216,2145_B,Deck of Cards,"greedy,implementation",1335,1000,335,0.4222222222222222,19.0,0
+1759767524,ningjingzhiyuan1216,2145_G,Cost of Coloring,"combinatorics,divide and conquer,dp,fft,math",1335,2900,-1565,0.5533333333333333,18.0,0
+1760107557,ningjingzhiyuan1216,2153_A,Circle of Apple Trees,"greedy,sortings",1335,800,535,0.5105263157894737,20.0,1
+1760108539,ningjingzhiyuan1216,2153_B,Bitwise Reversion,"bitmasks,greedy",1335,800,535,0.475,18.0,1
+1760110152,ningjingzhiyuan1216,2153_D,Not Alone,"dp,greedy",1335,1800,-465,0.4880952380952381,23.0,0
+1760284042,Petr,2159_D1,Inverse Minimum Partition (Easy Version),"binary search,brute force,dp,geometry,greedy,math,two pointers",2831,2500,331,0.5,0.0,1
+1760291933,Petr,2159_D2,Inverse Minimum Partition (Hard Version),"dp,greedy,math",2831,3200,-369,0.6666666666666666,3.0,1
+1761842304,Petr,2161_A,Round Trip,"games,greedy,implementation,math",2831,800,2031,0.625,4.0,1
+1761842673,Petr,2161_B,Make Connected,"brute force,implementation",2831,1700,1131,0.6666666666666666,2.0,1
+1761843039,Petr,2161_C,Loyalty,"constructive algorithms,greedy,sortings,two pointers",2831,1200,1631,0.6166666666666667,4.0,1
+1761843667,Petr,2161_D,Locked Out,"binary search,data structures,dp,greedy",2831,2100,731,0.6875,7.0,1
+1761844726,Petr,2161_E,Left is Always Right,"combinatorics,implementation,math",2831,2400,431,0.6833333333333332,5.0,1
+1761847167,Petr,2161_F,SubMST,"combinatorics,graphs,trees",2831,3000,-169,0.5555555555555555,1.0,1
+1761850409,Petr,2161_G,Bitwise And Equals,"bitmasks,greedy",2831,3500,-669,0.6785714285714286,5.0,1
+1762105652,SecondThread,2161_C,Loyalty,"constructive algorithms,greedy,sortings,two pointers",2412,1200,1212,0.8360805860805861,44.0,1
+1762439879,Petr,2164_A,Sequence Game,"brute force,sortings",2831,800,2031,0.7083333333333333,3.0,1
+1762440324,Petr,2164_B,Even Modulo Pair,"brute force,math,number theory",2831,1000,1831,0.7111111111111111,7.0,1
+1762440805,Petr,2164_C,Dungeon,"binary search,brute force,data structures,greedy,sortings",2831,1400,1431,0.775,15.0,1
+1762441373,Petr,2164_D,Copy String,"greedy,implementation,strings,two pointers",2831,1800,1031,0.7347222222222223,12.0,1
+1762442639,Petr,2164_E,Journey,"data structures,dfs and similar,dsu,graphs,greedy",2831,2300,531,0.6633333333333333,11.0,1
+1762443449,Petr,2164_F1,Chain Prefix Rank (Easy Version),"combinatorics,dfs and similar,dp,math,trees",2831,2600,231,0.7480952380952381,12.0,1
+1762446084,Petr,2164_F2,Chain Prefix Rank (Hard Version),"binary search,combinatorics,data structures,dfs and similar,dp,graphs,math,trees",2831,2900,-69,0.7947916666666668,25.0,1
+1762450170,Petr,2164_G,Pointless Machine,"constructive algorithms,graphs,interactive,trees",2831,3300,-469,0.6916666666666667,7.0,0
+1762461050,SecondThread,2164_B,Even Modulo Pair,"brute force,math,number theory",2412,1000,1412,0.9010270774976658,45.0,1
+1762547821,SecondThread,2164_C,Dungeon,"binary search,brute force,data structures,greedy,sortings",2412,1400,1012,0.8053133903133902,66.0,1
+1762788021,1703056,2163_A,Souvlaki VS. Kalamaki,"brute force,greedy,math,sortings",1544,800,744,0.7592872813461049,75.0,1
+1762791729,1703056,2163_B,Siga ta Kymata,"constructive algorithms,greedy,implementation,math",1544,1700,-156,0.8582704876822523,81.0,0
+1762833566,NickRodeo,2163_A,Souvlaki VS. Kalamaki,"brute force,greedy,math,sortings",1102,800,302,0.5,0.0,1
+1762835320,NickRodeo,2163_B,Siga ta Kymata,"constructive algorithms,greedy,implementation,math",1102,1700,-598,0.5833333333333333,2.0,0
+1763649748,NickRodeo,2171_A,Shizuku Hoshikawa and Farm Legs,"brute force,math",1102,800,302,0.5833333333333333,3.0,1
+1763651667,NickRodeo,2171_C1,Renako Amaori and XOR Game (easy version),"bitmasks,games,greedy",1102,1100,2,0.5,2.0,1
+1763657771,NickRodeo,2171_B,Yuu Koito and Minimum Absolute Sum,math,1102,900,202,0.6,3.0,1
+1764341197,ningjingzhiyuan1216,2170_A,Maximum Neighborhood,"bitmasks,brute force,greedy,implementation,math",1335,800,535,0.5825757575757576,43.0,0
+1764343597,ningjingzhiyuan1216,2170_B,Addition on a Segment,"greedy,math",1335,1200,135,0.5115089514066496,36.0,0
+1765110430,juruo123123,2158_B,Split,"constructive algorithms,greedy,math",1553,1200,353,0.5,0.0,1
+1765112084,juruo123123,2158_C,Annoying Game,"dp,games,greedy",1553,1400,153,0.5555555555555555,1.0,1
+1765378360,juruo123123,2173_A,Sleeping Through Classes,"greedy,implementation",1553,800,753,0.625,2.0,1
+1765379650,juruo123123,2173_B,Niko's Tactical Cards,"dp,greedy,math",1553,1100,453,0.7111111111111111,5.0,1
+1766155448,Petr,2180_A,Carnival Wheel,"brute force,number theory",2831,800,2031,0.7619047619047619,6.0,1
+1766155547,Petr,2180_B,Ashmal,"greedy,strings",2831,800,2031,0.7878787878787878,10.0,1
+1766156535,Petr,2180_C,XOR-factorization,"bitmasks,constructive algorithms,dp,greedy,number theory",2831,1900,931,0.738095238095238,20.0,1
+1766157513,Petr,2180_D,Insolvable Disks,"data structures,dp,greedy,math",2831,2000,831,0.8800747863247863,28.0,1
+1766159395,Petr,2180_E,No Effect XOR,"bitmasks,divide and conquer,dp,greedy,math",2831,2300,531,0.7934920634920635,29.0,1
+1766162194,Petr,2180_F1,Control Car (Easy Version),"combinatorics,dp,probabilities",2831,2800,31,0.7444444444444445,12.0,1
+1766502317,1703056,2179_B,Blackslex and Showering,"dp,greedy,implementation",1544,800,744,0.6761904761904761,51.0,1
+1766503145,1703056,2179_A,Blackslex and Password,"math,strings",1544,800,744,0.8452380952380952,30.0,1
+1766506209,1703056,2179_C,Blackslex and Number Theory,"implementation,math,number theory,sortings",1544,1100,444,0.7717672413793104,49.0,1
+1766846557,Petr,2178_A,Yes or Yes,"greedy,strings",2831,800,2031,0.8416666666666667,15.0,1
+1766846741,1703056,2178_A,Yes or Yes,"greedy,strings",1544,800,744,0.8035714285714286,39.0,1
+1766846748,Petr,2178_B,Impost or Sus,"dp,greedy,implementation,strings",2831,900,1931,0.8699810606060607,30.0,1
+1766847470,Petr,2178_C,First or Second,"dp,greedy,implementation",2831,1200,1631,0.9049953314659197,30.0,1
+1766847689,1703056,2178_B,Impost or Sus,"dp,greedy,implementation,strings",1544,900,644,0.7499530780780781,62.0,1
+1766848449,Petr,2178_D,Xmas or Hysteria,"constructive algorithms,greedy,implementation,math",2831,1700,1131,0.8321338383838384,34.0,1
+1766851327,Petr,2178_F,Conquer or of Forest,"combinatorics,math,trees",2831,2200,631,0.8134920634920634,19.0,1
+1766852752,1703056,2178_C,First or Second,"dp,greedy,implementation",1544,1200,344,0.7288957688338492,59.0,1
+1766854524,Petr,2178_G,deCH OR Dations,"bitmasks,data structures,dp,hashing,probabilities",2831,2800,31,0.7493772893772893,20.0,1
+1766854612,1703056,2178_D,Xmas or Hysteria,"constructive algorithms,greedy,implementation,math",1544,1700,-156,0.8360576923076923,95.0,0
+1767019397,1703056,2182_A,New Year String,"constructive algorithms,greedy,implementation,strings",1544,800,744,0.8129729962160303,77.0,1
+1767019949,1703056,2182_B,New Year Cake,brute force,1544,800,744,0.8333333333333334,16.0,1
+1767021444,1703056,2182_C,Production of Snowmen,"brute force,combinatorics,dp",1544,1200,344,0.6594896331738437,28.0,1
+1768229434,1703056,2184_A,Social Experiment,math,1544,800,744,0.8387096774193549,29.0,1
+1768231106,1703056,2184_C,Huge Pile,"binary search,dfs and similar,dp,graphs,math",1544,1100,444,0.6449404761904762,49.0,1
+1768231971,1703056,2184_B,Hourglass,math,1544,1100,444,0.8484848484848485,31.0,1
+1768640388,juruo123123,2176_A,Operations with Inversions,"greedy,implementation,math",1553,800,753,0.75,7.0,1
+1768660764,Petr,2190_A,Sorting Game,"constructive algorithms,games,greedy",2831,1200,1631,0.7602339181286549,22.0,1
+1768661003,Petr,2190_B1,Sub-RBS (Easy Version),"combinatorics,constructive algorithms,dp,greedy,strings,two pointers",2831,1400,1431,0.8501984126984127,48.0,1
+1768661444,Petr,2190_B2,Sub-RBS (Hard Version),"dp,games,implementation,strings",2831,1900,931,0.8573412698412698,27.0,1
+1768662872,Petr,2190_C,Comparable Permutations,"greedy,implementation,interactive,sortings,two pointers",2831,2300,531,0.7638095238095238,35.0,1
+1768664667,Petr,2190_D,Prufer Vertex,"combinatorics,dsu,number theory,probabilities,trees",2831,2500,331,0.763968253968254,18.0,1
+1768667041,Petr,2190_E,Median Permutation,combinatorics,2831,3200,-369,0.9,8.0,1
+1768747123,1703056,2185_A,Perfect Root,"constructive algorithms,math",1544,800,744,0.8431372549019608,48.0,1
+1768747342,1703056,2185_B,Prefix Max,greedy,1544,800,744,0.7560975609756098,39.0,1
+1768748744,1703056,2185_C,Shifted MEX,"implementation,sortings",1544,900,644,0.7333333333333334,25.0,1
+1768750745,1703056,2185_D,OutOfMemoryError,"data structures,implementation,math,two pointers",1544,1100,444,0.6666666666666666,58.0,1
+1768752237,1703056,2185_E,The Robotic Rush,"binary search,greedy,implementation,two pointers",1544,1500,44,0.707521645021645,70.0,0
+1768760304,Errichto,2181_C,Cacti Classification,"binary search,constructive algorithms,interactive,math",2642,3200,-558,0.8589285714285715,37.0,0
+1769259293,juruo123123,1009_F,Dominant Indices,"data structures,dsu,trees",1553,2300,-747,0.5,0.0,1
+1769520603,juruo123123,2175_A,Little Fairy's Painting,implementation,1553,800,753,0.75,2.0,1
+1769522122,juruo123123,2175_B,XOR Array,"constructive algorithms,math",1553,1300,253,0.7333333333333334,4.0,1
+1769605242,juruo123123,2182_A,New Year String,"constructive algorithms,greedy,implementation,strings",1553,800,753,0.7267857142857144,10.0,1
+1769606475,juruo123123,2182_B,New Year Cake,brute force,1553,800,753,0.5,0.0,1
+1769607542,juruo123123,2182_C,Production of Snowmen,"brute force,combinatorics,dp",1553,1200,353,0.6388888888888888,3.0,1
+1769697423,tourist,2187_A,Restricted Sorting,"greedy,sortings",3382,1300,2082,0.5,0.0,1
+1769698129,tourist,2187_B,Shortest Statement Ever,"bitmasks,constructive algorithms,dp,greedy",3382,1800,1582,0.5416666666666666,1.0,1
+1769698784,tourist,2187_C,Jerry and Tom,"data structures,dfs and similar,dsu,games,graphs,greedy,trees",3382,2300,1082,0.5357142857142857,2.0,1
+1769701007,tourist,2187_D,Cool Problem,"bitmasks,dp,math",3382,2600,782,0.611111111111111,2.0,1
+1769703290,tourist,2187_E,Doors and Keys,"brute force,data structures,dp",3382,3500,-118,0.6388888888888888,3.0,1
+1769704405,tourist,2187_F1,Al Fine (Maximizing Version),"binary search,data structures,divide and conquer,trees",3382,3100,282,0.6041666666666666,3.0,1
+1769933324,ningjingzhiyuan1216,816_B,Karen and Coffee,"binary search,data structures,implementation",1335,1400,-65,0.31746031746031744,9.0,1
+1769943543,rb_1218,371_C,Hamburgers,"binary search,brute force",1424,1600,-176,0.5,0.0,1
+1769945462,rb_1218,1605_C,Dominant Character,"brute force,greedy,implementation,strings",1424,1400,24,0.5416666666666666,1.0,1
+1769946058,rb_1218,189_A,Cut Ribbon,"brute force,dp",1424,1300,124,0.625,2.0,1
+1769946434,rb_1218,2193_E,Product Queries,"dp,math,number theory,shortest paths",1424,1300,124,0.5416666666666666,1.0,1
+1769946482,rb_1218,2193_C,Replace and Sum,"data structures,greedy",1424,1000,424,0.5833333333333333,1.0,1
+1769946499,rb_1218,2193_D,Monster Game,"binary search,sortings,two pointers",1424,1100,324,0.5555555555555555,1.0,1
+1769946515,rb_1218,2193_B,Reverse a Permutation,greedy,1424,800,624,0.75,2.0,1
+1769946531,rb_1218,2193_A,DBMB and the Array,"brute force,math",1424,800,624,0.7333333333333334,4.0,1
+1770138417,rb_1218,1169_B,Pairs,"graphs,implementation",1424,1500,-76,0.5833333333333333,1.0,1
+1770198263,rb_1218,813_C,The Tag Game,"dfs and similar,graphs",1424,1700,-276,0.5833333333333333,1.0,1
+1770199910,rb_1218,1485_B,Replace and Keep Sorted,"dp,implementation,math",1424,1200,224,0.75,6.0,1
+1770206990,rb_1218,1006_C,Three Parts of the Array,"binary search,data structures,two pointers",1424,1200,224,0.6944444444444443,4.0,1
+1770286202,rb_1218,1000_C,Covered Points Count,"data structures,implementation,sortings",1424,1700,-276,0.7388888888888889,6.0,1
+1770293512,rb_1218,580_C,Kefa and Park,"dfs and similar,graphs,trees",1424,1500,-76,0.6388888888888888,3.0,1
+1770490830,rb_1218,1490_F,Equalize the Array,"binary search,data structures,greedy,math,sortings",1424,1500,-76,0.79,14.0,1
+1770529987,rb_1218,1339_A,Filling Diamonds,"brute force,dp,implementation,math",1424,900,524,0.8250000000000001,15.0,0
+1770530009,rb_1218,1399_A,Remove Smallest,"greedy,sortings",1424,800,624,0.8166666666666667,7.0,1
+1770531349,rb_1218,433_B,Kuriyama Mirai's Stones,"dp,implementation,sortings",1424,1200,224,0.7380952380952381,13.0,1
+1770531756,rb_1218,1509_A,Average Height,constructive algorithms,1424,800,624,0.5,0.0,1
+1770532770,rb_1218,1613_C,Poisoned Dagger,binary search,1424,1200,224,0.8333333333333334,4.0,1
+1770541994,rb_1218,2194_A,Lawn Mower,"greedy,math",1424,800,624,0.7857142857142857,10.0,1
+1770543286,rb_1218,2194_B,Offshores,"greedy,implementation,math",1424,1000,424,0.7916666666666666,18.0,1
+1770546652,rb_1218,2194_C,Secret message,"bitmasks,brute force,dp,math,number theory",1424,1300,124,0.6746031746031746,18.0,1
+1770609680,NickRodeo,2194_A,Lawn Mower,"greedy,math",1102,800,302,0.6333333333333333,7.0,1
+1770637598,NickRodeo,2185_A,Perfect Root,"constructive algorithms,math",1102,800,302,0.5238095238095238,6.0,1
+1770637821,NickRodeo,2185_B,Prefix Max,greedy,1102,800,302,0.6666666666666666,4.0,1
+1770638333,NickRodeo,2185_C,Shifted MEX,"implementation,sortings",1102,900,202,0.5,2.0,1
+1770646549,NickRodeo,2185_D,OutOfMemoryError,"data structures,implementation,math,two pointers",1102,1100,2,0.5625,8.0,1
+1770729266,NickRodeo,2185_E,The Robotic Rush,"binary search,greedy,implementation,two pointers",1102,1500,-398,0.6202380952380953,9.0,1
+1770820752,1703056,2197_A,Friendly Numbers,"binary search,brute force,expression parsing,math,schedules",1544,800,744,0.7088888888888889,60.0,1
+1770820813,tourist,2196_A,Game with a Fraction,"games,math",3382,1200,2182,0.6666666666666666,2.0,1
+1770820978,tourist,2196_B,Another Problem about Beautiful Pairs,"brute force,math,two pointers",3382,1600,1782,0.6388888888888888,3.0,1
+1770821955,tourist,2196_C1,Interactive Graph (Simple Version),"binary search,combinatorics,dfs and similar,dp,graphs,interactive",3382,1800,1582,0.6333333333333332,6.0,1
+1770821993,tourist,2196_C2,Interactive Graph (Hard Version),"combinatorics,dfs and similar,dp,graphs,interactive",3382,2000,1382,0.7333333333333333,10.0,1
+1770822573,NickRodeo,2197_A,Friendly Numbers,"binary search,brute force,expression parsing,math,schedules",1102,800,302,0.6388888888888888,10.0,1
+1770823578,tourist,2196_E1,Fuzzy Concatenation (Easy Version),"binary search,bitmasks,brute force,data structures,greedy,string suffix structures",3382,2900,482,0.725,12.0,1
+1770825038,tourist,2196_D,Double Bracket Sequence,"data structures,dp,expression parsing,flows,greedy,strings",3382,2500,882,0.6706349206349206,13.0,1
+1770825125,NickRodeo,2197_B,Array and Permutation,"implementation,schedules,sortings,two pointers",1102,1100,2,0.7083333333333333,9.0,1
+1770825475,1703056,2197_B,Array and Permutation,"implementation,schedules,sortings,two pointers",1544,1100,444,0.6652950310559006,36.0,0
+1770826233,tourist,2196_E2,Fuzzy Concatenation (Hard version),"binary search,bitmasks,data structures,dp,greedy,string suffix structures",3382,3000,382,0.8093253968253968,23.0,1
+1770831039,tourist,2196_F,Indivisible,"brute force,constructive algorithms,graphs",3382,3300,82,0.7555555555555555,7.0,1
+1770915093,tourist,3_C,Tic-tac-toe,"brute force,games,implementation",3382,1800,1582,0.6944444444444445,6.0,0
+1770918332,Petr,34_E,Collisions,"brute force,implementation,math",2831,2000,831,0.9023892773892775,26.0,0
+1771167109,1703056,2195_A,Sieve of Erato67henes,"math,number theory",1544,800,744,0.8490990990990992,39.0,1
+1771167466,1703056,2195_B,Heapify 1,"implementation,sortings",1544,900,644,0.6931818181818181,31.0,1
+1771169013,1703056,2195_C,Dice Roll Sequence,"dp,greedy",1544,1100,444,0.7182468694096601,52.0,1
+1771171564,1703056,2195_D,Absolute Cinema,math,1544,1300,244,0.868421052631579,36.0,1
+1771481545,NickRodeo,2195_A,Sieve of Erato67henes,"math,number theory",1102,800,302,0.65,8.0,1
+1771482809,NickRodeo,2195_B,Heapify 1,"implementation,sortings",1102,900,202,0.7571428571428571,8.0,1
+1771857551,tourist,2201_A1,Lost Civilization (Easy Version),data structures,3382,1300,2082,0.875,6.0,1
+1771857607,tourist,2201_A2,Lost Civilization (Hard Version),"data structures,dp",3382,1700,1682,0.8888888888888888,14.0,1
+1771857926,tourist,2201_B,Recollect Numbers,constructive algorithms,3382,1700,1682,0.75,2.0,1
+1771858497,tourist,2201_C,Rigged Bracket Sequence,"combinatorics,dp,greedy",3382,2000,1382,0.8416666666666667,16.0,1
+1771859354,tourist,2201_E,ABBA Counting,"fft,math,number theory,strings",3382,2900,482,0.6166666666666667,4.0,1
+1771860153,tourist,2201_D,Binary Not Search and Queries,"data structures,greedy,implementation",3382,2500,882,0.7074074074074074,16.0,1
+1771861030,tourist,2201_F1,Monotone Monochrome Matrices (Medium Version),"data structures,hashing",3382,2900,482,0.7045454545454546,9.0,1
+1771861071,tourist,2201_F2,Monotone Monochrome Matrices (Hard Version),"constructive algorithms,data structures,hashing,math",3382,2800,582,0.8041666666666667,18.0,1
+1771866170,tourist,2201_G,Codeforces Heuristic Contest 1001,constructive algorithms,3382,3500,-118,0.8333333333333334,4.0,1
+1772109676,Petr,1373_E,Sum of Digits,"brute force,constructive algorithms,dp,greedy",2831,2200,631,0.8549558080808081,47.0,1
+1772368820,tourist,1607_G,Banquet Preparations 1,greedy,3382,2200,1182,0.9,8.0,0
+1772368828,tourist,1607_H,Banquet Preparations 2,"greedy,sortings,two pointers",3382,2200,1182,0.7171717171717171,11.0,0
+1772689205,rb_1218,276_C,Little Girl and Maximum Sum,"data structures,greedy,implementation,sortings",1424,1500,-76,0.8392857142857143,23.0,1
+1772693620,rb_1218,545_C,Woodcutters,"dp,greedy",1424,1500,-76,0.825,14.0,1
+1772705336,rb_1218,510_C,Fox And Names,"dfs and similar,graphs,sortings",1424,1600,-176,0.8083333333333332,11.0,1
+1772707826,rb_1218,1201_C,Maximum Median,"binary search,greedy,math,sortings",1424,1400,24,0.8637806637806638,29.0,1
+1772714513,rb_1218,474_D,Flowers,dp,1424,1700,-276,0.7777777777777778,7.0,1
+1772727141,NickRodeo,2200_A,Eating Game,greedy,1102,800,302,0.75,6.0,1
+1772776786,rb_1218,266_B,Queue at the School,"constructive algorithms,graph matchings,implementation,shortest paths",1424,800,624,0.6583333333333333,10.0,1
+1772778166,rb_1218,455_A,Boredom,dp,1424,1500,-76,0.8,8.0,1
+1772785060,juruo123123,2188_A,Divisible Permutation,constructive algorithms,1553,800,753,0.8,3.0,1
+1772785886,juruo123123,2188_B,Seats,greedy,1553,1000,553,0.875,6.0,1
+1772786624,rb_1218,520_B,Two Buttons,"dfs and similar,graphs,greedy,implementation,math,shortest paths",1424,1400,24,0.8227272727272728,37.0,1
+1772787285,rb_1218,459_B,Pashmak and Flowers,"combinatorics,implementation,sortings",1424,1300,124,0.7444444444444445,18.0,1
+1772787705,rb_1218,230_B,T-primes,"binary search,implementation,math,number theory",1424,1300,124,0.8261217948717949,29.0,1
+1772788162,rb_1218,580_A,Kefa and First Steps,"brute force,dp,implementation",1424,900,524,0.8084415584415585,27.0,1
+1772789075,rb_1218,1462_C,Unique Number,"brute force,greedy,math",1424,900,524,0.8490028490028491,29.0,1
+1772791187,NickRodeo,2200_B,Deletion Sort,"bitmasks,brute force,greedy,sortings",1102,800,302,0.7694444444444445,15.0,1
+1772806523,NickRodeo,2200_C,Specialty String,"brute force,greedy,strings",1102,900,202,0.7111111111111111,12.0,1
+1772859719,NickRodeo,2200_D,Portal,"greedy,sortings",1102,1300,-198,0.8376623376623377,14.0,1
+1772859741,rb_1218,698_A,Vacations,dp,1424,1400,24,0.8333333333333334,10.0,1
+1772861330,rb_1218,1195_C,Basketball Exercise,dp,1424,1400,24,0.8461538461538461,11.0,1
+1772862126,rb_1218,1215_B,The Number of Products,"combinatorics,dp,implementation",1424,1400,24,0.7968253968253968,26.0,1
+1772862901,rb_1218,149_A,Business trip,"greedy,implementation,sortings",1424,900,524,0.9042207792207791,35.0,1
+1772865221,rb_1218,1141_C,Polycarp Restores Permutation,math,1424,1500,-76,0.8571428571428571,12.0,1
+1772880381,rb_1218,448_D,Multiplication Table,"binary search,brute force",1424,1800,-376,0.8444444444444444,15.0,1
+1772881051,rb_1218,1374_C,Move Brackets,"greedy,strings",1424,1000,424,0.8,14.0,1
+1772882355,rb_1218,706_C,Hard problem,"dp,strings",1424,1600,-176,0.8083333333333333,15.0,1
+1772949235,rb_1218,450_A,Jzzhu and Children,implementation,1424,1000,424,0.8823529411764706,15.0,1
+1772969533,juruo123123,2194_A,Lawn Mower,"greedy,math",1553,800,753,0.8611111111111112,11.0,1
+1772980707,tourist,2207_A,1-1,"greedy,strings",3382,800,2582,0.75,12.0,1
+1772981151,tourist,2207_B,One Night At Freddy's,"games,greedy,sortings",3382,1600,1782,0.6230769230769231,16.0,1
+1772981546,tourist,2207_C,Where's My Water?,"data structures,divide and conquer,dp,math",3382,1600,1782,0.8389943389943391,26.0,1
+1772982330,tourist,2207_D,Boxed Like a Fish,"dfs and similar,dp,games,shortest paths,trees",3382,2200,1182,0.7266666666666667,19.0,1
+1772982763,tourist,2207_E1,N-MEX (Constructive Version),"constructive algorithms,greedy",3382,2200,1182,0.8214285714285714,17.0,1
+1772983759,tourist,2207_E2,N-MEX (Counting Version),"combinatorics,constructive algorithms,math",3382,2400,982,0.85,15.0,1
+1772984301,tourist,2207_F,Hanabi,"binary search,data structures,dp,dsu,flows,graph matchings,graphs,greedy",3382,3000,382,0.7689560439560439,46.0,1
+1772984652,muzermat,2207_C,Where's My Water?,"data structures,divide and conquer,dp,math",2226,1600,626,0.5,0.0,1
+1772986834,muzermat,2207_D,Boxed Like a Fish,"dfs and similar,dp,games,shortest paths,trees",2226,2200,26,0.5333333333333333,1.0,1
+1772988854,muzermat,2207_B,One Night At Freddy's,"games,greedy,sortings",2226,1600,626,0.5555555555555555,1.0,1
+1772990219,tourist,2207_G,Toothless,"constructive algorithms,dfs and similar,dsu",3382,3300,82,0.8240740740740741,13.0,1
+1773292590,muzermat,2156_A,Pizza Time,"brute force,constructive algorithms,greedy",2226,800,1426,0.5555555555555555,1.0,1
+1773292882,muzermat,2156_B,Strange Machine,"binary search,brute force,greedy,implementation",2226,1000,1226,0.6041666666666666,3.0,1
+1773295566,muzermat,2156_C,Maximum GCD on Whiteboard,"greedy,math,number theory",2226,1400,826,0.6555555555555556,4.0,1
+1773297252,muzermat,2156_D,Find the Last Number,"binary search,bitmasks,constructive algorithms,interactive",2226,1900,326,0.5833333333333333,2.0,1
+1773315402,muzermat,2184_F,Cherry Tree,"dfs and similar,dp,graphs,trees",2226,1900,326,0.6458333333333333,4.0,1
+1773367868,muzermat,2154_A,Notelock,"greedy,two pointers",2226,800,1426,0.6666666666666667,4.0,1
+1773368550,muzermat,2154_B,Make it Zigzag,"constructive algorithms,greedy",2226,1000,1226,0.8035714285714286,7.0,1
+1773490916,rb_1218,263_A,Beautiful Matrix,implementation,1424,800,624,0.8888888888888888,16.0,1
+1773491221,rb_1218,50_A,Domino piling,"greedy,math",1424,800,624,0.9020833333333333,27.0,1
+1773491380,rb_1218,158_A,Next Round,"*special,implementation",1424,800,624,0.6973684210526316,17.0,1
+1773493115,rb_1218,279_B,Books,"binary search,brute force,implementation,two pointers",1424,1400,24,0.8420454545454545,37.0,1
+1774139699,SecondThread,62_A,A Student's Dream,"greedy,math",2412,1300,1112,0.8762315270935961,53.0,0
+1774142751,SecondThread,1512_D,Corrupted Array,"constructive algorithms,data structures,greedy",2412,1200,1212,0.7881773399014778,51.0,1
+1774709243,tourist,2211_A,Antimedian Deletion,"implementation,math",3382,800,2582,0.6944444444444444,9.0,1
+1774709436,tourist,2211_B,Mickey Mouse Constructive,"constructive algorithms,dp,greedy,math",3382,1100,2282,0.8852678571428572,42.0,1
+1774709625,tourist,2211_D,AND-array,"bitmasks,combinatorics,math",3382,1900,1482,0.8585858585858586,17.0,1
+1774710171,tourist,2211_C1,Equal Multisets (Easy Version),"binary search,brute force,greedy,two pointers",3382,1300,2082,0.7237394957983193,27.0,1
+1774710231,tourist,2211_C2,Equal Multisets (Hard Version),"constructive algorithms,dsu,greedy",3382,1800,1582,0.8474747474747475,28.0,1
+1774711036,tourist,2211_E,Minimum Path Cover,"brute force,dp,greedy,interactive,math,number theory,trees",3382,2500,882,0.8083959899749374,52.0,1
+1774711616,tourist,2211_F,Learning Binary Search,"combinatorics,divide and conquer,dp,math",3382,2400,982,0.866929945054945,32.0,1
+1774712655,tourist,2211_G,Rational Bubble Sort,"constructive algorithms,geometry,greedy",3382,3100,282,0.7555555555555555,28.0,1
+1774795206,1703056,2210_A,A Simple Sequence,"constructive algorithms,dp,greedy,number theory",1544,800,744,0.7908834586466166,76.0,1
+1774797426,1703056,2210_B,Simply Sitting on Chairs,"data structures,greedy",1544,900,644,0.711111111111111,47.0,1
+1774799825,1703056,2210_C1,A Simple GCD Problem (Easy Version),"greedy,number theory",1544,1200,344,0.8179347826086957,50.0,1
+1774817088,SecondThread,2210_A,A Simple Sequence,"constructive algorithms,dp,greedy,number theory",2412,800,1612,0.8476190476190476,59.0,1
+1775159259,Pritam_19,2211_A,Antimedian Deletion,"implementation,math",2004,800,1204,0.5,0.0,1
+1775159700,Pritam_19,2211_B,Mickey Mouse Constructive,"constructive algorithms,dp,greedy,math",2004,1100,904,0.5416666666666666,1.0,1
+1775161980,Pritam_19,2211_C1,Equal Multisets (Easy Version),"binary search,brute force,greedy,two pointers",2004,1300,704,0.5416666666666666,1.0,1
+1775313431,1703056,2218_A,The 67th Integer Problem,"brute force,games,implementation,math",1544,800,744,0.7889010989010988,80.0,0
+1775313763,1703056,2218_B,The 67th 6-7 Integer Problem,"greedy,math",1544,800,744,0.8079787234042553,83.0,0
+1775314644,1703056,2218_C,The 67th Permutation Problem,"constructive algorithms,greedy,math",1544,800,744,0.8097560975609756,103.0,0
+1775315916,1703056,2218_D,The 67th OEIS Problem,"constructive algorithms,greedy,math,number theory",1544,1100,444,0.8106575963718822,113.0,0
+1775317478,1703056,2218_E,The 67th XOR Problem,"binary search,bitmasks,brute force",1544,1200,344,0.7441558441558441,33.0,0
+1775319658,1703056,2218_F,The 67th Tree Problem,"constructive algorithms,implementation,trees",1544,1500,44,0.6122766122766122,45.0,0
+1775573039,1703056,2217_A,The Equalizer,math,1544,800,744,0.7906976744186046,41.0,1
+1775574478,1703056,2217_B,Flip the Bit (Easy Version),"greedy,implementation",1544,1000,544,0.7118518518518518,73.0,1
+1775575404,1703056,2217_C,Grid Covering,"chinese remainder theorem,math,number theory",1544,1300,244,0.6984848484848486,50.0,1
+1775649211,Pritam_19,2217_A,The Equalizer,math,2004,800,1204,0.75,2.0,1
+1775651252,Pritam_19,2217_B,Flip the Bit (Easy Version),"greedy,implementation",2004,1000,1004,0.7083333333333333,3.0,1
+1775653456,Pritam_19,2217_C,Grid Covering,"chinese remainder theorem,math,number theory",2004,1300,704,0.6,3.0,1
+1776091202,tourist,2219_A,Grid L,"brute force,constructive algorithms,math,number theory",3382,1400,1982,0.8448565323565325,32.0,1
+1776091388,Petr,2219_A,Grid L,"brute force,constructive algorithms,math,number theory",2831,1400,1431,0.8170634920634922,31.0,1
+1776092356,tourist,2219_B1,Unique Values (Easy version),"binary search,constructive algorithms,divide and conquer,interactive,math",3382,1900,1482,0.8673809523809524,37.0,1
+1776092502,Petr,2219_B1,Unique Values (Easy version),"binary search,constructive algorithms,divide and conquer,interactive,math",2831,1900,931,0.7333333333333333,28.0,1
+1776094544,Petr,2219_C,Coloring a Red Black Tree,"dfs and similar,dp,greedy,math,probabilities,trees",2831,2300,531,0.8537830349531116,62.0,1
+1776094913,tourist,2219_C,Coloring a Red Black Tree,"dfs and similar,dp,greedy,math,probabilities,trees",3382,2300,1082,0.821049253034547,57.0,1
+1776096171,tourist,2219_E,Weird Chessboard,"constructive algorithms,math",3382,3500,-118,0.9372549019607843,28.0,1
+1776098101,tourist,2219_D,MEX Replacement on Tree,"data structures,implementation,math,trees",3382,2700,682,0.8337301587301588,37.0,1
+1776102924,Petr,2219_B2,Unique Values (Hard version),"binary search,bitmasks,constructive algorithms,interactive",2831,2000,831,0.7771645021645022,21.0,1
+1776461423,Pritam_19,2219_A,Grid L,"brute force,constructive algorithms,math,number theory",2004,1400,604,0.7083333333333333,7.0,1
+1776464089,Pritam_19,2219_B1,Unique Values (Easy version),"binary search,constructive algorithms,divide and conquer,interactive,math",2004,1900,104,0.6547619047619048,8.0,1
+1776464325,Pritam_19,2219_B2,Unique Values (Hard version),"binary search,bitmasks,constructive algorithms,interactive",2004,2000,4,0.6791666666666666,6.0,1
+1776466810,Pritam_19,2219_C,Coloring a Red Black Tree,"dfs and similar,dp,greedy,math,probabilities,trees",2004,2300,-296,0.6402777777777778,10.0,1
+1776782197,muzermat,2225_A,A Number Between Two Others,"greedy,math",2226,800,1426,0.8125,8.0,1
+1776782468,1703056,2225_A,A Number Between Two Others,"greedy,math",1544,800,744,0.7627450980392156,92.0,1
+1776782870,muzermat,2225_B,Alternating String,"brute force,greedy",2226,900,1326,0.8194444444444444,9.0,1
+1776783288,muzermat,2225_C,Red-Black Pairs,"dp,greedy",2226,1100,1126,0.8500000000000001,11.0,1
+1776783836,1703056,2225_B,Alternating String,"brute force,greedy",1544,900,644,0.7566889632107023,71.0,1
+1776783992,muzermat,2225_D,Exceptional Segments,"bitmasks,brute force,math",2226,1500,726,0.7555555555555555,7.0,1
+1776784941,1703056,2225_C,Red-Black Pairs,"dp,greedy",1544,1100,444,0.7345911949685534,64.0,1
+1776785849,muzermat,2225_E,Covering Points with Circles,"constructive algorithms,geometry,math",2226,2200,26,0.7111111111111111,7.0,1
+1776787894,muzermat,2225_G,Simple Problem,"brute force,graphs,greedy,number theory",2226,2900,-674,0.7689393939393939,15.0,0
+1776965142,Pritam_19,2225_A,A Number Between Two Others,"greedy,math",2004,800,1204,0.8611111111111112,11.0,1
+1776965904,Pritam_19,2225_B,Alternating String,"brute force,greedy",2004,900,1104,0.8035714285714286,7.0,1
+1776966510,Pritam_19,2225_C,Red-Black Pairs,"dp,greedy",2004,1100,904,0.8125,8.0,1
+1776967769,Pritam_19,2225_D,Exceptional Segments,"bitmasks,brute force,math",2004,1500,504,0.7888888888888889,12.0,1
+1777127787,tourist,2222_A,A Wonderful Contest,"brute force,dp,math",3382,800,2582,0.897270955165692,41.0,1
+1777127835,Petr,2222_A,A Wonderful Contest,"brute force,dp,math",2831,800,2031,0.8816597346009111,40.0,1
+1777127836,Errichto,2222_A,A Wonderful Contest,"brute force,dp,math",2642,800,1842,0.8863636363636364,32.0,1
+1777128129,Petr,2222_B,Artistic Balance Tree,"greedy,sortings",2831,1100,1731,0.8958333333333334,26.0,1
+1777128129,Errichto,2222_B,Artistic Balance Tree,"greedy,sortings",2642,1100,1542,0.9111842105263157,23.0,1
+1777128397,Errichto,2222_C,Median Partition,"dp,math",2642,1500,1142,0.9009661835748792,28.0,1
+1777128405,tourist,2222_B,Artistic Balance Tree,"greedy,sortings",3382,1100,2282,0.7318181818181818,23.0,1
+1777128409,Petr,2222_D,Permutation Construction,"constructive algorithms,data structures,sortings",2831,1800,1031,0.8551587301587302,21.0,1
+1777128508,tourist,2222_C,Median Partition,"dp,math",3382,1500,1882,0.9486842105263158,35.0,1
+1777128704,Petr,2222_C,Median Partition,"dp,math",2831,1500,1331,0.9181286549707601,33.0,1
+1777128817,tourist,2222_D,Permutation Construction,"constructive algorithms,data structures,sortings",3382,1800,1582,0.8472222222222222,32.0,1
+1777129222,Errichto,2222_D,Permutation Construction,"constructive algorithms,data structures,sortings",2642,1800,842,0.8657407407407408,25.0,1
+1777129417,Petr,2222_E,Seek the Truth,"binary search,bitmasks,constructive algorithms,interactive",2831,2000,831,0.8112408424908425,26.0,1
+1777130082,tourist,2222_E,Seek the Truth,"binary search,bitmasks,constructive algorithms,interactive",3382,2000,1382,0.8801353874883288,31.0,1
+1777131624,Petr,2222_F,Building Tree,"data structures,divide and conquer,dsu,graphs,implementation",2831,2600,231,0.7777777777777778,25.0,1
+1777131789,tourist,2222_F,Building Tree,"data structures,divide and conquer,dsu,graphs,implementation",3382,2600,782,0.8263305322128852,32.0,1
+1777132057,Errichto,2222_E,Seek the Truth,"binary search,bitmasks,constructive algorithms,interactive",2642,2000,642,0.7560049019607843,28.0,1
+1777134658,tourist,2222_H,Counting Sort?,"brute force,combinatorics,dp",3382,3500,-118,0.8810606060606062,33.0,1
+1777134740,Petr,2222_G,Statistics on Tree,"binary search,brute force,dfs and similar,divide and conquer,graphs,trees",2831,3100,-269,0.8079365079365081,36.0,1
+1777145072,Errichto,2222_F,Building Tree,"data structures,divide and conquer,dsu,graphs,implementation",2642,2600,42,0.6992063492063492,14.0,1
+1777388030,1703056,2226_A,Disturbing Distribution,"greedy,math",1544,800,744,0.7725442834138486,96.0,1
+1777389007,1703056,2226_B,Everything Everywhere,"greedy,math,number theory",1544,900,644,0.790715667311412,107.0,1
+1777390137,1703056,2226_C,Mental Monumental (Easy Version),"binary search,data structures,greedy,math,two pointers",1544,1500,44,0.6576298701298702,120.0,1
+1777506261,Pritam_19,2222_A,A Wonderful Contest,"brute force,dp,math",2004,800,1204,0.8474747474747475,16.0,1
+1777507357,Pritam_19,2222_B,Artistic Balance Tree,"greedy,sortings",2004,1100,904,0.6944444444444444,7.0,1
+1777507969,Pritam_19,2222_C,Median Partition,"dp,math",2004,1500,504,0.875,14.0,1
+1777641363,Pritam_19,2222_D,Permutation Construction,"constructive algorithms,data structures,sortings",2004,1800,204,0.6666666666666666,5.0,1
+1777780498,tourist,1883_A,Morning,math,3382,800,2582,0.9523809523809523,19.0,0
+1777881134,Errichto,920_E,Connected Components?,"data structures,dfs and similar,dsu,graphs",2642,2100,542,0.7729166666666667,12.0,1
+1778311001,muzermat,2220_A,Blocked,"greedy,sortings",2226,800,1426,0.75,11.0,1
+1778312762,muzermat,2220_B,OIE Excursion,greedy,2226,1200,1026,0.8461538461538461,11.0,1
+1778824370,muzermat,2226_A,Disturbing Distribution,"greedy,math",2226,800,1426,0.8571428571428571,17.0,1
+1778824577,muzermat,2226_B,Everything Everywhere,"greedy,math,number theory",2226,900,1326,0.7472222222222222,21.0,1
+1778825837,muzermat,2226_C,Mental Monumental (Easy Version),"binary search,data structures,greedy,math,two pointers",2226,1500,726,0.7694444444444444,25.0,1
+1778827882,muzermat,2226_D,Reserved Reversals,"constructive algorithms,dp,greedy,math",2226,1900,326,0.8622549019607842,31.0,1
+1778829400,muzermat,2226_E,Mental Monumental (Hard Version),"data structures,greedy,math,two pointers",2226,2300,-74,0.8244949494949495,29.0,1
+1778869048,Pritam_19,2222_E,Seek the Truth,"binary search,bitmasks,constructive algorithms,interactive",2004,2000,4,0.7892857142857143,12.0,1
+1778942370,1703056,2228_A,Marisa Steals Reimu's Takeout,"greedy,implementation",1544,800,744,0.7343358395989975,81.0,1
+1778942398,muzermat,2228_A,Marisa Steals Reimu's Takeout,"greedy,implementation",2226,800,1426,0.7807017543859649,18.0,1
+1778943064,muzermat,2228_B,Remilia Plays Soku,"games,implementation",2226,1100,1126,0.75,4.0,1
+1778944022,muzermat,2228_C1,Cirno and Number (Easy Version),"binary search,brute force,dp,greedy,implementation",2226,1500,726,0.8142857142857143,34.0,1
+1778944059,muzermat,2228_C2,Cirno and Number (Hard Version),"binary search,dfs and similar,dp,greedy,implementation",2226,1600,626,0.8392857142857142,35.0,1
+1778944083,1703056,2228_B,Remilia Plays Soku,"games,implementation",1544,1100,444,0.6120689655172413,29.0,1
+1778945358,muzermat,2228_D,"Sanae, Cross and Color","binary search,data structures,implementation",2226,1900,326,0.8380952380952381,13.0,1
+1778947832,1703056,2228_C1,Cirno and Number (Easy Version),"binary search,brute force,dp,greedy,implementation",1544,1500,44,0.7400574712643678,130.0,1
+1778949011,muzermat,2228_E1,Amanojaku and Sequence (Easy Version),"combinatorics,math",2226,2400,-174,0.7083333333333333,10.0,1
+1778949018,muzermat,2228_E2,Amanojaku and Sequence (Hard Version),"combinatorics,data structures,implementation,math",2226,2500,-274,0.8245192307692308,22.0,1
+1779115044,muzermat,2230_A,Optimal Purchase,"implementation,math",2226,800,1426,0.9087301587301587,19.0,1
+1779115604,muzermat,2230_B,Digit String,"greedy,implementation,math",2226,1000,1226,0.914141414141414,41.0,1
+1779116704,muzermat,2230_C,Arrange the Numbers in a Circle,"constructive algorithms,implementation,math",2226,1300,926,0.9012445887445887,28.0,1
+1779118029,muzermat,2230_D,Good Schedule,"dp,greedy",2226,1700,526,0.9009661835748792,28.0,1
+1779120279,muzermat,2230_E,Minimum Influence,"binary search,data structures,greedy,implementation,math,sortings,two pointers",2226,2200,26,0.865236094437775,63.0,0
+1779262072,muzermat,2210_C2,A Simple GCD Problem (Hard Version),"dp,greedy,number theory",2226,2100,126,0.7933333333333333,34.0,1
+1779374259,muzermat,2231_A,Construct an Array,constructive algorithms,2226,800,1426,0.875,6.0,1
+1779374882,muzermat,2231_B,Another Sorting Problem,constructive algorithms,2226,1100,1126,0.8888888888888888,7.0,1
+1779375463,muzermat,2231_C,Chipmunk Theo and Equality,"implementation,sortings",2226,1400,826,0.7230769230769231,14.0,1
+1779376896,muzermat,2231_D,Maximum Prefix Sums,"constructive algorithms,greedy,implementation,two pointers",2226,1900,326,0.827106227106227,48.0,1
+1779428392,rb_1218,1541_A,Pretty Permutations,"constructive algorithms,greedy,implementation",1424,800,624,0.86531279178338,36.0,1
+1779430931,rb_1218,1294_B,Collecting Packages,"implementation,sortings",1424,1200,224,0.9128787878787878,30.0,1
+1779432082,rb_1218,1520_C,Not Adjacent Matrix,constructive algorithms,1424,1000,424,0.8,3.0,1
+1779443529,rb_1218,1368_B,Codeforces Subsequences,"brute force,constructive algorithms,greedy,math,strings",1424,1500,-76,0.8572222222222223,47.0,1
+1779448474,plsmakeme1600,1690_D,Black and White Stripe,"implementation,two pointers",1177,1000,177,0.5,0.0,1
+1779473174,plsmakeme1600,2150_A,Incremental Path,"data structures,hashing,implementation",1177,1300,-123,0.5555555555555555,1.0,0
+1779515974,plsmakeme1600,1360_D,Buying Shovels,"math,number theory",1177,1300,-123,0.5,0.0,1
+1779525314,plsmakeme1600,2231_C,Chipmunk Theo and Equality,"implementation,sortings",1177,1400,-223,0.5,2.0,1
+1779546938,tourist,2229_A,Slimes on a Line,"brute force,greedy,math",3382,800,2582,0.870663153271849,51.0,1
+1779546985,Petr,2229_A,Slimes on a Line,"brute force,greedy,math",2831,800,2031,0.9002968960863699,51.0,1
+1779546997,tourist,2229_B,Absolute Cinema,"greedy,math",3382,800,2582,0.8940217391304348,43.0,1
+1779547077,tourist,2229_C1,We Be Flipping (Easy Version),"constructive algorithms,greedy",3382,900,2482,0.9122222222222223,39.0,1
+1779547101,Petr,2229_B,Absolute Cinema,"greedy,math",2831,800,2031,0.9307692307692308,42.0,1
+1779547253,tourist,2229_C2,We Be Flipping (Hard Version),"constructive algorithms,dp,greedy",3382,1400,1982,0.9281215860163229,60.0,1
+1779547302,Petr,2229_C1,We Be Flipping (Easy Version),"constructive algorithms,greedy",2831,900,1931,0.91005291005291,37.0,1
+1779547453,muzermat,2229_A,Slimes on a Line,"brute force,greedy,math",2226,800,1426,0.8425925925925926,47.0,1
+1779547484,Petr,2229_C2,We Be Flipping (Hard Version),"constructive algorithms,dp,greedy",2831,1400,1431,0.9269841269841269,57.0,1
+1779547534,plsmakeme1600,2229_A,Slimes on a Line,"brute force,greedy,math",1177,800,377,0.5555555555555555,1.0,1
+1779547912,plsmakeme1600,2229_B,Absolute Cinema,"greedy,math",1177,800,377,0.7083333333333333,3.0,1
+1779547912,muzermat,2229_B,Absolute Cinema,"greedy,math",2226,800,1426,0.893796992481203,43.0,1
+1779547976,Petr,2229_D,Me When Median Problem,"binary search,greedy",2831,1700,1131,0.9327586206896552,35.0,1
+1779548095,tourist,2229_D,Me When Median Problem,"binary search,greedy",3382,1700,1682,0.8944444444444444,33.0,1
+1779548658,tourist,2229_E,Deconstruction Tree,"combinatorics,data structures,dp,graphs,trees",3382,2100,1282,0.9075757575757576,55.0,1
+1779548710,Petr,2229_E,Deconstruction Tree,"combinatorics,data structures,dp,graphs,trees",2831,2100,731,0.8622943722943722,50.0,1
+1779549189,muzermat,2229_C2,We Be Flipping (Hard Version),"constructive algorithms,dp,greedy",2226,1400,826,0.9049111807732496,45.0,1
+1779549346,muzermat,2229_C1,We Be Flipping (Easy Version),"constructive algorithms,greedy",2226,900,1326,0.9083333333333333,38.0,1
+1779549384,plsmakeme1600,2229_C1,We Be Flipping (Easy Version),"constructive algorithms,greedy",1177,900,277,0.625,2.0,0
+1779549697,muzermat,2229_D,Me When Median Problem,"binary search,greedy",2226,1700,526,0.8405017921146953,36.0,1
+1779549999,Petr,2229_F,Load Unbalancing,"binary search,bitmasks,dp,greedy",2831,2400,431,0.9263257575757576,63.0,1
+1779550211,tourist,2229_F,Load Unbalancing,"binary search,bitmasks,dp,greedy",3382,2400,982,0.9083674477696216,62.0,1
+1779552180,Petr,2229_G,Roadworks,"binary search,data structures,dp,greedy,two pointers",2831,3000,-169,0.9214328215029477,74.0,1
+1779552304,muzermat,2229_E,Deconstruction Tree,"combinatorics,data structures,dp,graphs,trees",2226,2100,126,0.7333333333333333,22.0,1
+1779555204,tourist,2229_H,Wowee Binary String,"combinatorics,dp,strings",3382,3300,82,0.8861111111111111,33.0,1
+1779557270,Petr,2229_I,The Endians,"dp,trees",2831,3500,-669,0.8882575757575758,31.0,0
+1779616000,muzermat,2229_G,Roadworks,"binary search,data structures,dp,greedy,two pointers",2226,3000,-774,0.824278083028083,61.0,1
+1779637953,muzermat,2209_C,Find the Zero,"constructive algorithms,interactive",2226,1400,826,0.7948717948717949,12.0,1
+1779701908,plsmakeme1600,1285_B,Just Eat It!,"dp,greedy,implementation",1177,1300,-123,0.5666666666666668,6.0,1
+1779706582,plsmakeme1600,1294_C,Product of Three Numbers,"greedy,math,number theory",1177,1300,-123,0.7111111111111111,8.0,1
+1779799852,plsmakeme1600,1704_C,Virus,"greedy,implementation,sortings",1177,1200,-23,0.6825396825396824,10.0,1
+1779893714,plsmakeme1600,1692_E,Binary Deque,"binary search,implementation,two pointers",1177,1200,-23,0.626984126984127,6.0,1
+1779956897,plsmakeme1600,2218_E,The 67th XOR Problem,"binary search,bitmasks,brute force",1177,1200,-23,0.611111111111111,2.0,1
+1779972827,Pritam_19,2231_A,Construct an Array,constructive algorithms,2004,800,1204,0.875,6.0,1
+1779973044,Pritam_19,2231_B,Another Sorting Problem,constructive algorithms,2004,1100,904,0.8888888888888888,7.0,1
+1780232530,plsmakeme1600,2232_A,Convergence,"greedy,sortings",1177,800,377,0.75,8.0,1
+1780243716,plsmakeme1600,2232_B,Cake Leveling,"binary search,greedy,math",1177,900,277,0.7870370370370371,13.0,1
+1780385383,plsmakeme1600,1458_A,Row GCD,"math,number theory",1177,1600,-423,0.8035714285714286,7.0,1
+1780472820,plsmakeme1600,123_A,Prime Permutation,"implementation,number theory,strings",1177,1300,-123,0.6833333333333332,9.0,1
+1780702574,Pritam_19,2231_C,Chipmunk Theo and Equality,"implementation,sortings",2004,1400,604,0.75,4.0,1
+1780707312,Pritam_19,2231_D,Maximum Prefix Sums,"constructive algorithms,greedy,implementation,two pointers",2004,1900,104,0.8166666666666667,20.0,1
+1780765343,plsmakeme1600,1904_C,Array Game,"binary search,brute force,data structures,sortings,two pointers",1177,1400,-223,0.6866666666666668,11.0,1
+1780812889,plsmakeme1600,2033_C,Sakurako's Field Trip,"dp,greedy,two pointers",1177,1400,-223,0.7555555555555555,12.0,1
+1780815359,plsmakeme1600,1945_D,Seraphim the Owl,"dp,greedy",1177,1300,-123,0.7840909090909092,11.0,1
+1780843309,plsmakeme1600,2234_A,"Euclid, Sequence and Two Numbers","math,number theory,sortings",1177,800,377,0.8472222222222223,14.0,1
+1780845956,plsmakeme1600,2234_C,"Vessels, Heights and Two Versions (Easy Version)","dfs and similar,dsu,greedy,implementation,two pointers",1177,1200,-23,0.6888888888888889,21.0,1
+1780849929,plsmakeme1600,2234_B,"Palindrome, Twelve and Two Terms","brute force,constructive algorithms,math",1177,800,377,0.674074074074074,11.0,1
+1780893821,plsmakeme1600,1931_E,Anna and the Valentine's Day Gift,"games,greedy,math,sortings",1177,1400,-223,0.7758241758241758,24.0,1
+1780900242,plsmakeme1600,1883_G1,Dances (Easy version),"binary search,greedy,two pointers",1177,1400,-223,0.8492063492063492,21.0,1
+1780904555,plsmakeme1600,1771_B,Hossam and Friends,"binary search,constructive algorithms,dp,two pointers",1177,1400,-223,0.7580357142857144,16.0,1
+1780984057,plsmakeme1600,2229_C2,We Be Flipping (Hard Version),"constructive algorithms,dp,greedy",1177,1400,-223,0.7666666666666666,20.0,0
+1781349204,plsmakeme1600,2236_E,Friendly Gifts,"brute force,dp",1177,1700,-523,0.7738095238095238,9.0,1
+1781374913,Pritam_19,2232_A,Convergence,"greedy,sortings",2004,800,1204,0.8545454545454545,12.0,1
+1781375283,Pritam_19,2232_B,Cake Leveling,"binary search,greedy,math",2004,900,1104,0.8910256410256411,25.0,1
+1781765318,plsmakeme1600,2223_A,Zhily and Bracket Swapping,"constructive algorithms,greedy",1177,1300,-123,0.65625,18.0,1
+1781788230,plsmakeme1600,2222_C,Median Partition,"dp,math",1177,1500,-323,0.8295454545454546,15.0,0
+1781793350,tourist,2237_A,Destroying Towers,"games,greedy,schedules",3382,800,2582,0.7036124794745485,32.0,1
+1781793511,tourist,2237_B,Annoying the Ghost,"brute force,greedy",3382,1000,2382,0.8730769230769231,39.0,1
+1781793818,tourist,2237_C,Duck Surplus,"binary search,greedy",3382,1000,2382,0.9099462365591398,39.0,1
+1781794932,tourist,2237_D,Fullmetal Bitchemist,"constructive algorithms,greedy,math",3382,1600,1782,0.9243055555555556,70.0,1
+1781795728,tourist,2237_E,Permutation Commutation,"data structures,graphs,greedy",3382,2100,1282,0.9151160730108098,55.0,1
+1781796917,tourist,2237_F,Paint the Array,"data structures,dp,greedy",3382,2400,982,0.9405882352941176,73.0,1
+1781797891,tourist,2237_G,Send GCDs,"communication,constructive algorithms,interactive,math,number theory",3382,2900,482,0.8059047619047618,50.0,1
+1781848231,plsmakeme1600,2237_A,Destroying Towers,"games,greedy,schedules",1177,800,377,0.6633986928104575,16.0,1
+1781971226,plsmakeme1600,2093_E,Min Max MEX,"binary search,brute force,greedy",1177,1500,-323,0.8551587301587302,27.0,1
+1782197214,plsmakeme1600,2236_D,Brand New Tatar TV Show,"binary search,constructive algorithms,dp,games,math",1177,1300,-123,0.7420634920634921,31.0,1
+1782371394,plsmakeme1600,2185_E,The Robotic Rush,"binary search,greedy,implementation,two pointers",1177,1500,-323,0.8577485380116959,40.0,1
+1782387621,plsmakeme1600,2192_C,All-in-one Gun,"binary search,greedy,math",1177,1300,-123,0.8684149184149184,38.0,1
+1782459166,plsmakeme1600,2171_C2,Renako Amaori and XOR Game (hard version),"bitmasks,games,greedy",1177,1400,-223,0.7746031746031746,23.0,1
+1782571104,tourist,2239_A,Nim Game Is XOR Game,"constructive algorithms,games,greedy,math",3382,1300,2082,0.885477022977023,83.0,1
+1782571295,tourist,2239_B,Decidophobia,"greedy,math,sortings,two pointers",3382,1600,1782,0.7892195767195768,67.0,1
+1782572659,tourist,2239_C,Revival,"binary search,data structures,math,two pointers",3382,2200,1182,0.8676739926739926,60.0,1
+1782574973,tourist,2239_D,Hunting the Beast,"combinatorics,dp,graphs,math",3382,2500,882,0.9254159633469978,68.0,1
+1782671795,SecondThread,2239_A,Nim Game Is XOR Game,"constructive algorithms,games,greedy,math",2412,1300,1112,0.8536962365591397,75.0,1
+1782753071,plsmakeme1600,2205_C,Simons and Posting Blogs,"greedy,sortings",1177,1500,-323,0.8693181818181819,26.0,1
+1782830290,1703056,2241_A,Divide and Conquer,"greedy,math,number theory",1544,800,744,0.8041239094507859,114.0,1
+1782831096,1703056,2241_B,Good times Good times,"constructive algorithms,dfs and similar,math",1544,1100,444,0.7197101449275362,72.0,1
+1782832271,1703056,2241_C,RemovevomeR,greedy,1544,1000,544,0.7666666666666667,58.0,1
+1782833846,1703056,2241_D,An Alternative Way,"dp,greedy,math",1544,1100,444,0.7862423657987785,123.0,1
+1782921964,MartinezMiners,2236_A,Games on the Train,"greedy,math",1357,800,557,0.5,0.0,1
+1782922476,MartinezMiners,2236_B,Tatar TV Show,"greedy,math,strings",1357,800,557,0.611111111111111,2.0,1
+1782923383,MartinezMiners,2236_C,Omsk Programmers,"brute force,greedy,math",1357,1000,357,0.6666666666666666,4.0,1
+1782925143,MartinezMiners,2236_D,Brand New Tatar TV Show,"binary search,constructive algorithms,dp,games,math",1357,1300,57,0.5599999999999999,3.0,1
+1782930644,MartinezMiners,2236_E,Friendly Gifts,"brute force,dp",1357,1700,-343,0.6666666666666666,2.0,1
+1783011270,MartinezMiners,2227_A,Koshary,"implementation,math",1357,800,557,0.6666666666666667,4.0,1
+1783011418,MartinezMiners,2227_B,Party Monster,greedy,1357,800,557,0.8,3.0,1
+1783011781,MartinezMiners,2227_C,Snowfall,"constructive algorithms,math",1357,800,557,0.7619047619047619,6.0,1
+1783012702,MartinezMiners,2227_D,Palindromex,"binary search,brute force,constructive algorithms,data structures,greedy,implementation,two pointers",1357,1200,157,0.6666666666666667,10.0,1
+1783014316,MartinezMiners,2227_E,It All Went Sideways,"binary search,data structures,dp,greedy",1357,1400,-43,0.7559523809523809,10.0,1
+1783059162,plsmakeme1600,580_C,Kefa and Park,"dfs and similar,graphs,trees",1177,1500,-323,0.5555555555555555,1.0,1
+1783071942,plsmakeme1600,1830_A,Copil Copac Draws Trees,"dfs and similar,dp,graphs,trees",1177,1400,-223,0.6958333333333333,12.0,1
+1783099626,MartinezMiners,2117_A,False Alarm,"greedy,implementation",1357,800,557,0.8125,8.0,1
+1783099947,MartinezMiners,2117_B,Shrink,constructive algorithms,1357,800,557,0.8,3.0,1
+1783101617,MartinezMiners,2117_C,Cool Partition,"data structures,greedy",1357,1200,157,0.8194444444444444,9.0,1
+1783103720,MartinezMiners,2117_D,Retaliation,"binary search,math,number theory",1357,1200,157,0.725,9.0,1
+1783151931,plsmakeme1600,2183_C,War Strategy,"binary search,greedy,math,two pointers",1177,1500,-323,0.885843685300207,51.0,1
+1783194726,MartinezMiners,2117_E,Lost Soul,"brute force,greedy",1357,1600,-243,0.8500000000000001,11.0,1
+1783196680,MartinezMiners,2227_F,It Just Keeps Going Sideways,"binary search,data structures,dp,greedy,math",1357,1700,-343,0.8462626262626263,26.0,1
+1783281563,MartinezMiners,2238_C,Village Guilds,"dfs and similar,dp,trees",1357,1400,-43,0.6111111111111112,4.0,1
+1783286270,MartinezMiners,2238_D,Storming Arasaka,"greedy,math,number theory",1357,1500,-143,0.8277777777777778,19.0,1
+1783299484,SecondThread,2238_A,Another Puzzle from Papyrus,"greedy,math,sortings",2412,800,1612,0.8682048984468339,66.0,1
+1783348799,MartinezMiners,2242_A,Bigrams,"sortings,strings",1357,800,557,0.5833333333333333,1.0,1
+1783349646,MartinezMiners,2242_B,Predominant Frequency Division,"data structures,greedy,implementation,math",1357,1000,357,0.8663752913752913,27.0,1
+1783351657,MartinezMiners,2242_C,Unstable Elements,"brute force,data structures,implementation,sortings,two pointers",1357,1300,57,0.7714285714285714,15.0,1
+1783355299,MartinezMiners,2242_D,Two Digit Strings,"dp,strings",1357,1600,-243,0.8035714285714286,7.0,1
+1783413772,plsmakeme1600,2242_C,Unstable Elements,"brute force,data structures,implementation,sortings,two pointers",1177,1300,-123,0.7982323232323233,33.0,1
+1783450523,plsmakeme1600,1325_C,Ehab and Path-etic MEXs,"constructive algorithms,dfs and similar,greedy,trees",1177,1500,-323,0.7625,33.0,1
+1783531924,MartinezMiners,2234_D,"XOR, Expression and Two Binary Numbers","bitmasks,divide and conquer,dp,math,number theory",1357,1500,-143,0.7083333333333333,18.0,1
+1783535295,MartinezMiners,2232_C2,Seating Arrangement (Hard Version),"binary search,greedy,math,two pointers",1357,1600,-243,0.8646978021978022,30.0,1
+1783619424,MartinezMiners,2231_A,Construct an Array,constructive algorithms,1357,800,557,0.8333333333333334,4.0,1
+1783620509,MartinezMiners,2231_B,Another Sorting Problem,constructive algorithms,1357,1100,257,0.8571428571428571,5.0,1
+1783627707,MartinezMiners,2231_C,Chipmunk Theo and Equality,"implementation,sortings",1357,1400,-43,0.8035714285714286,7.0,1
+1783708164,MartinezMiners,2233_A,AI Project Development,"brute force,math",1357,800,557,0.8928571428571428,17.0,1
+1783708742,MartinezMiners,2233_B,Different Distances,constructive algorithms,1357,900,457,0.875,6.0,1
+1783710026,MartinezMiners,2233_C,Cost of a Bracket Sequence,"brute force,dp,greedy",1357,1400,-43,0.899074074074074,26.0,1
+1783783198,muzermat,2238_A,Another Puzzle from Papyrus,"greedy,math,sortings",2226,800,1426,0.8252525252525252,53.0,1
+1783783946,muzermat,2238_B,Crimson Triples,"dp,math,number theory",2226,900,1326,0.8333333333333334,35.0,1
+1783784770,muzermat,2238_C,Village Guilds,"dfs and similar,dp,trees",2226,1400,826,0.8444444444444444,19.0,1
+1783797204,MartinezMiners,2091_A,Olympiad Date,"greedy,strings",1357,800,557,0.86875,17.0,1
+1783797767,MartinezMiners,2091_B,Team Training,"dp,greedy,sortings",1357,800,557,0.8803921568627452,26.0,1
+1783799810,MartinezMiners,2091_C,Combination Lock,"constructive algorithms,greedy",1357,1000,357,0.9166666666666666,23.0,1
+1783800500,MartinezMiners,2091_D,Place of the Olympiad,"binary search,greedy,math",1357,1200,157,0.9185672514619881,36.0,1
+1783801739,MartinezMiners,2091_E,Interesting Ratio,"brute force,math,number theory,two pointers",1357,1300,57,0.8565972222222222,27.0,1
+1783804729,MartinezMiners,2091_F,Igor and Mountain,"binary search,brute force,dp",1357,1800,-443,0.8993265993265993,24.0,1
+1783867139,plsmakeme1600,2246_A,farmpiggie and Subset Sum,constructive algorithms,1177,800,377,0.6666666666666666,7.0,1
+1783868271,plsmakeme1600,2246_B,ezraft and Array,"constructive algorithms,number theory",1177,900,277,0.7785714285714285,13.0,1
+1783888694,MartinezMiners,2246_A,farmpiggie and Subset Sum,constructive algorithms,1357,800,557,0.9,8.0,1
+1783891095,MartinezMiners,2246_B,ezraft and Array,"constructive algorithms,number theory",1357,900,457,0.8712121212121212,13.0,1
+1783892423,MartinezMiners,2246_C,0mar and Alternating Sums,"combinatorics,dp,math",1357,1400,-43,0.7859477124183005,25.0,1
+1784030062,plsmakeme1600,2223_B,Zhily and Barknights,"binary search,data structures,dp,math,sortings,two pointers",1177,1600,-423,0.8222804972804973,54.0,1
+1784039952,MartinezMiners,2244_A,Iskander and Drawings,"dp,games,greedy,strings",1357,800,557,0.8432692307692308,34.0,1
+1784040060,1703056,2244_A,Iskander and Drawings,"dp,games,greedy,strings",1544,800,744,0.7629928315412186,87.0,1
+1784040471,MartinezMiners,2244_B,Nikita and Books,"greedy,math,sortings",1357,800,557,0.9100529100529101,39.0,1
+1784040490,1703056,2244_B,Nikita and Books,"greedy,math,sortings",1544,800,744,0.7571225071225071,121.0,1
+1784042110,MartinezMiners,2244_C,Stepan and Permutation,"constructive algorithms,dfs and similar,dsu,greedy,math,number theory,sortings",1357,1100,257,0.814218989031019,58.0,1
+1784042810,MartinezMiners,2244_D,Yaroslav and Productivity,"constructive algorithms,dp,greedy,math,number theory",1357,1200,157,0.9266340181557574,68.0,1
+1784043253,1703056,2244_C,Stepan and Permutation,"constructive algorithms,dfs and similar,dsu,greedy,math,number theory,sortings",1544,1100,444,0.7237952691962126,161.0,1
+1784044389,1703056,2244_D,Yaroslav and Productivity,"constructive algorithms,dp,greedy,math,number theory",1544,1200,344,0.8049130518604203,167.0,1
+1784045381,1703056,2244_E,Masha and the Garland,"data structures,dp,greedy,implementation,math,number theory,strings",1544,1400,144,0.8131336405529954,192.0,1
+1784047275,MartinezMiners,2244_F,Anya Loves Trees!,"dfs and similar,dp,greedy,trees",1357,1700,-343,0.8270833333333333,38.0,1
+1784062915,MartinezMiners,2244_E,Masha and the Garland,"data structures,dp,greedy,implementation,math,number theory,strings",1357,1400,-43,0.9065589569160997,80.0,1
+1784115688,plsmakeme1600,2244_D,Yaroslav and Productivity,"constructive algorithms,dp,greedy,math,number theory",1177,1200,-23,0.8214545454545454,62.0,1
+1784197606,plsmakeme1600,845_C,Two TVs,"data structures,greedy,sortings",1177,1500,-323,0.8201243201243201,37.0,1
+1784213176,tourist,2245_A,Who Watches the Watchpig?,greedy,3382,800,2582,0.918918918918919,35.0,1
+1784213261,Petr,2245_A,Who Watches the Watchpig?,greedy,2831,800,2031,0.96875,30.0,1
+1784213303,tourist,2245_B,Delete and Concatenate,greedy,3382,1100,2282,0.9210526315789473,36.0,1
+1784213435,Petr,2245_B,Delete and Concatenate,greedy,2831,1100,1731,0.9696969696969697,31.0,1
+1784213454,MartinezMiners,2245_A,Who Watches the Watchpig?,greedy,1357,800,557,0.9615384615384616,24.0,1
+1784213787,Petr,2245_C,MEXOR,"bitmasks,constructive algorithms,math",2831,1400,1431,0.8895502645502645,40.0,1
+1784213814,tourist,2245_C,MEXOR,"bitmasks,constructive algorithms,math",3382,1400,1982,0.9262479871175523,56.0,1
+1784214021,1703056,2245_A,Who Watches the Watchpig?,greedy,1544,800,744,0.7910447761194029,65.0,1
+1784214214,tourist,2245_D2,Construct an Array (Hard Version),"2-sat,constructive algorithms,dfs and similar,graphs,implementation",3382,2000,1382,0.7913419913419915,42.0,1
+1784214238,tourist,2245_D1,Construct an Array (Easy Version),"dfs and similar,implementation,sortings",3382,1700,1682,0.7962962962962963,19.0,1
+1784215278,Petr,2245_D2,Construct an Array (Hard Version),"2-sat,constructive algorithms,dfs and similar,graphs,implementation",2831,2000,831,0.7726854844501904,38.0,1
+1784215305,Petr,2245_D1,Construct an Array (Easy Version),"dfs and similar,implementation,sortings",2831,1700,1131,0.8690476190476191,24.0,1
+1784215564,MartinezMiners,2245_B,Delete and Concatenate,greedy,1357,1100,257,0.9629629629629629,25.0,1
+1784215787,tourist,2245_E,Tom and Jerry,"dfs and similar,dsu,games,trees",3382,2300,1082,0.8559523809523809,27.0,1
+1784216544,1703056,2245_B,Delete and Concatenate,greedy,1544,1100,444,0.7941176470588235,66.0,1
+1784216755,tourist,2245_F,Familiar?,"brute force,combinatorics,dp",3382,2800,582,0.9122574955908288,47.0,1
+1784217357,Petr,2245_E,Tom and Jerry,"dfs and similar,dsu,games,trees",2831,2300,531,0.8097222222222222,23.0,1
+1784218670,MartinezMiners,2245_C,MEXOR,"bitmasks,constructive algorithms,math",1357,1400,-43,0.84992784992785,33.0,1
+1784218808,1703056,2245_C,MEXOR,"bitmasks,constructive algorithms,math",1544,1400,144,0.7445054945054945,84.0,1
+1784219741,Petr,2245_F,Familiar?,"brute force,combinatorics,dp",2831,2800,31,0.8979365079365079,45.0,1
+1784221332,MartinezMiners,2245_D1,Construct an Array (Easy Version),"dfs and similar,implementation,sortings",1357,1700,-343,0.8546296296296297,16.0,1
+1784221884,tourist,2245_G,NPC Challenge,"divide and conquer,interactive",3382,3000,382,0.8660714285714286,11.0,1
+1784275666,plsmakeme1600,2245_C,MEXOR,"bitmasks,constructive algorithms,math",1177,1400,-223,0.7941176470588235,27.0,0
+1784363114,plsmakeme1600,2121_E,Sponsor of Your Problems,"dp,greedy,implementation,strings",1177,1500,-323,0.7895299145299145,47.0,1
+1784495217,SecondThread,2238_B,Crimson Triples,"dp,math,number theory",2412,900,1512,0.8854166666666666,50.0,1
+1784806486,plsmakeme1600,1920_C,Partitioning the Array,"brute force,math,number theory",1177,1600,-423,0.8703703703703703,30.0,1
+1784904307,MartinezMiners,2247_B,Yet Another Constructive,constructive algorithms,1357,900,457,0.9333333333333333,13.0,1
+1784904759,MartinezMiners,2247_A,Zero Sum,"constructive algorithms,dp,number theory",1357,800,557,0.9262254901960785,37.0,1
+1785077169,1703056,2250_A,Threshold Movement,"brute force,implementation,math",1544,800,744,0.7973684210526315,108.0,1
+1785080212,1703056,2250_B,String Construction,constructive algorithms,1544,1000,544,0.7777777777777778,25.0,1
+1785185580,MartinezMiners,2247_C,Inversion of a Subsequence,"greedy,math",1357,1100,257,0.9604037267080745,47.0,0
+1785237114,kyzum_king,2233_B,Different Distances,constructive algorithms,982,900,82,0.5,0.0,1
+1785243262,Timmyliuyunxi,2055_E,Haystacks,"brute force,constructive algorithms,data structures,greedy,sortings",2212,2800,-588,0.5,0.0,1
+1785244534,Timmyliuyunxi,813_F,Bipartite Checking,"data structures,dsu,graphs",2212,2500,-288,0.5555555555555555,1.0,1
+1785249563,kyzum_king,2209_B,Array,greedy,982,900,82,0.5,0.0,1
+1785293966,Timmyliuyunxi,1681_F,Unique Occurrences,"data structures,dfs and similar,divide and conquer,dp,dsu,trees",2212,2300,-88,0.5694444444444444,3.0,1
+1785299825,plsmakeme1600,1886_C,Decreasing String,"implementation,strings",1177,1600,-423,0.7980769230769231,13.0,0
+1785335871,kyzum_king,2210_B,Simply Sitting on Chairs,"data structures,greedy",982,900,82,0.5833333333333333,1.0,0
+1785395984,Timmyliuyunxi,2211_E,Minimum Path Cover,"brute force,dp,greedy,interactive,math,number theory,trees",2212,2500,-288,0.5952380952380952,4.0,1
+1785396508,Timmyliuyunxi,2134_E,Power Boxes,"constructive algorithms,dp,implementation,interactive",2212,2300,-88,0.6458333333333333,4.0,1
+1785401457,Timmyliuyunxi,1839_E,Decreasing Game,"constructive algorithms,dfs and similar,dp,greedy,interactive",2212,2400,-188,0.7433333333333334,10.0,1
+1785403900,Timmyliuyunxi,2156_D,Find the Last Number,"binary search,bitmasks,constructive algorithms,interactive",2212,1900,312,0.65,6.0,1
+1785404097,Timmyliuyunxi,2022_D1,Asesino (Easy Version),"binary search,brute force,constructive algorithms,implementation,interactive",2212,1900,312,0.75,12.0,1
+1785405298,Timmyliuyunxi,2077_B,Finding OR Sum,"bitmasks,constructive algorithms,implementation,interactive,math",2212,1900,312,0.7595238095238095,14.0,1
+1785407706,Timmyliuyunxi,1063_C,"Dwarves, Hats and Extrasensory Abilities","binary search,constructive algorithms,geometry,interactive",2212,1900,312,0.75,14.0,1
+1785408195,Timmyliuyunxi,2038_G,Guess One Character,"constructive algorithms,implementation,interactive",2212,1900,312,0.8592592592592592,17.0,1
+1785409617,kyzum_king,2195_B,Heapify 1,"implementation,sortings",982,900,82,0.5,0.0,1
+1785410366,Timmyliuyunxi,1451_E2,Bitwise Queries (Hard Version),"bitmasks,constructive algorithms,interactive,math",2212,2300,-88,0.825,20.0,1
+1785410536,Timmyliuyunxi,1451_E1,Bitwise Queries (Easy Version),"bitmasks,constructive algorithms,interactive,math",2212,2000,212,0.8545454545454545,24.0,1
+1785412576,Timmyliuyunxi,1634_D,Finding Zero,"constructive algorithms,interactive,math",2212,2000,212,0.8888888888888888,24.0,1
+1785503957,kyzum_king,2185_C,Shifted MEX,"implementation,sortings",982,900,82,0.6666666666666666,2.0,0
+1785518153,kyzum_king,2169_A,Alice and Bob,"greedy,implementation",982,900,82,0.5,4.0,1
+1785580103,kyzum_king,2166_B,Tab Closing,math,982,900,82,0.5,0.0,1
+1785585111,kyzum_king,2157_B,Expansion Plan 2,"implementation,math",982,900,82,0.6333333333333333,4.0,1
+1785598010,kyzum_king,2248_A,"You Delete, I Delete",greedy,982,800,182,0.6,3.0,1
+1785608463,Pritam_19,2248_A,"You Delete, I Delete",greedy,2004,800,1204,0.9230769230769231,11.0,1
+1785639759,Timmyliuyunxi,995_F,Cowmpany Cowmpensation,"combinatorics,dp,math,trees",2212,2700,-488,0.7351190476190477,11.0,1
+1785646688,kyzum_king,2248_B,Merge to Match,"greedy,sortings",982,1000,-18,0.5833333333333333,6.0,1
+1785663293,Timmyliuyunxi,997_C,Sky Full of Stars,"combinatorics,math",2212,2500,-288,0.7708333333333333,7.0,1
+1785671772,kyzum_king,2149_C,MEX rose,greedy,982,900,82,0.7142857142857143,5.0,1
+1785805710,SecondThread,10_C,Digital Root,number theory,2412,2000,412,0.8888888888888888,7.0,1
+1785840677,kyzum_king,2247_B,Yet Another Constructive,constructive algorithms,982,900,82,0.6666666666666666,1.0,1
+1785854306,MartinezMiners,2254_A,Riptide,"implementation,sortings",1357,800,557,0.8944444444444444,15.0,1
+1785854803,MartinezMiners,2254_B,Evanescent,"implementation,strings,two pointers",1357,900,457,0.8724747474747475,19.0,1
+1785855299,kyzum_king,2254_A,Riptide,"implementation,sortings",982,800,182,0.6333333333333333,7.0,1
+1785855734,MartinezMiners,2254_C1,Marenol (easy version),greedy,1357,1000,357,0.9310344827586207,27.0,1
+1785856618,MartinezMiners,2254_C2,Marenol (hard version),"greedy,sortings",1357,1200,157,0.9166666666666667,36.0,1
+1785857862,MartinezMiners,2254_D,Silhouette,"constructive algorithms,math,sortings",1357,1300,57,0.9223113487819371,46.0,1
+1785859098,kyzum_king,2254_B,Evanescent,"implementation,strings,two pointers",982,900,82,0.5714285714285715,5.0,1
+1785887220,MartinezMiners,2254_E,Chronostasis,"binary search,data structures,greedy",1357,1500,-143,0.9081242532855436,44.0,1
+1785909943,plsmakeme1600,2254_C1,Marenol (easy version),greedy,1177,1000,177,0.8928571428571429,26.0,1
+1785932946,plsmakeme1600,2248_C,Maximize the Score,"dp,greedy",1177,1300,-123,0.8411330049261083,39.0,0
+1785998961,plsmakeme1600,2254_C2,Marenol (hard version),"greedy,sortings",1177,1200,-23,0.8916666666666666,38.0,1
+1785999039,plsmakeme1600,2254_D,Silhouette,"constructive algorithms,math,sortings",1177,1300,-123,0.8191632928475033,39.0,0
+1786027422,Pritam_19,2252_A,Boss Fight,"data structures,greedy",2004,800,1204,0.7976190476190477,13.0,1
+1786028329,Pritam_19,2252_B,Always Changing,"dp,greedy,math,strings",2004,1100,904,0.8047619047619048,30.0,1
+1786029147,Pritam_19,2252_C,Risky Tower,"binary search,brute force,data structures,greedy,sortings",2004,1400,604,0.8470238095238095,30.0,1
+1786032818,Pritam_19,2252_D,Array Replacement,"greedy,sortings",2004,1700,304,0.8991596638655461,20.0,1
+1786110368,Errichto,2254_A,Riptide,"implementation,sortings",2642,800,1842,0.9,16.0,1
+1786110850,Errichto,2254_B,Evanescent,"implementation,strings,two pointers",2642,900,1742,0.8030303030303031,14.0,1
+1786111443,Errichto,2254_D,Silhouette,"constructive algorithms,math,sortings",2642,1300,1342,0.9048821548821548,47.0,1
+1786113122,Errichto,2254_F,Whiplash,"bitmasks,constructive algorithms,math,sortings",2642,1900,742,0.9050730994152046,57.0,1
+1786172621,kyzum_king,2246_B,ezraft and Array,"constructive algorithms,number theory",982,900,82,0.625,2.0,1
+1786200395,kyzum_king,2232_B,Cake Leveling,"binary search,greedy,math",982,900,82,0.6666666666666666,8.0,1
+1786256302,Pritam_19,2253_A,The Best Card,"greedy,math,number theory",2004,800,1204,0.8759259259259259,31.0,1
+1786257540,Pritam_19,2253_B,Hypercarp and the Control Panel,"brute force,data structures,two pointers",2004,1100,904,0.8083333333333332,11.0,1
+1786270443,kyzum_king,2171_B,Yuu Koito and Minimum Absolute Sum,math,982,900,82,0.8,3.0,1
+1786286339,Errichto,2255_A,Hot Potatoes at the Fairy Warehouse,"games,greedy,implementation",2642,1200,1442,0.8444444444444444,29.0,1
+1786286735,kyzum_king,2256_A,Three Numbers on the Blackboard,"math,sortings",982,800,182,0.75,8.0,1
+1786287139,Errichto,2255_B,A Ribbon for Tomorrow,"combinatorics,math",2642,1600,1042,0.8615384615384616,27.0,1
+1786287498,plsmakeme1600,2256_A,Three Numbers on the Blackboard,"math,sortings",1177,800,377,0.8285714285714285,30.0,1
+1786288319,plsmakeme1600,2256_B,Domino Tiles,"implementation,math",1177,1000,177,0.7976190476190477,31.0,1
+1786288344,Errichto,2255_D,How Long Until Nothing Remains?,"binary search,bitmasks,data structures,greedy,math,sortings",2642,2300,342,0.8761565594898929,74.0,1
+1786363854,Errichto,2256_A,Three Numbers on the Blackboard,"math,sortings",2642,800,1842,0.9285714285714286,38.0,1
+1786364389,Errichto,2256_B,Domino Tiles,"implementation,math",2642,1000,1642,0.927055702917772,38.0,1
+1786371400,Errichto,2255_C,Even If the World Turns,"communication,constructive algorithms,expression parsing,greedy,interactive,math,number theory",2642,2100,542,0.7730364873222016,80.0,1
+1786457775,kyzum_king,2148_C,Pacer,"greedy,math",982,900,82,0.8174603174603174,12.0,1
+1786528051,Timmyliuyunxi,1178_G,The Awesomest Vertex,"data structures,dfs and similar",2212,3000,-788,0.775,5.0,1
+1786534485,kyzum_king,2132_B,The Secret Number,math,982,900,82,0.875,6.0,1
+1786544137,kyzum_king,2125_B,Left and Down,"math,number theory",982,900,82,0.7777777777777777,8.0,1
+1786554760,kyzum_king,2102_A,Dinner Time,"constructive algorithms,math",982,900,82,0.8500000000000001,11.0,1
+1786595940,Pritam_19,2253_D,Hypercarp and Interdimensional Jumps,"binary search,brute force,geometry,greedy,implementation,math",2004,1800,204,0.8303484405458089,48.0,1
+1786597109,Pritam_19,2253_C,Sum of Distinct Values in a Matrix,"greedy,sortings,two pointers",2004,1500,504,0.875,27.0,1
+1786597736,Pritam_19,2255_A,Hot Potatoes at the Fairy Warehouse,"games,greedy,implementation",2004,1200,804,0.7698412698412698,24.0,1
+1786603985,_avinash06_,490_A,Team Olympiad,"greedy,implementation,sortings",1328,800,528,0.5,0.0,1
+1786604427,_avinash06_,1692_A,Marathon,implementation,1328,800,528,0.6666666666666666,1.0,1
+1786604656,_avinash06_,1367_A,Short Substrings,"implementation,strings",1328,800,528,0.625,2.0,1
+1786605390,_avinash06_,1560_A,Dislike of Threes,implementation,1328,800,528,0.8,3.0,1
+1786605602,_avinash06_,1343_B,Balanced Array,"constructive algorithms,math",1328,800,528,0.5,0.0,1
+1786628989,kyzum_king,2093_B,Expensive Number,"greedy,math",982,900,82,0.8545454545454545,17.0,1
+1786644466,kyzum_king,2094_C,Brr Brrr Patapim,math,982,900,82,0.9166666666666666,10.0,1
+1786702748,Timmyliuyunxi,802_M3,April Fools' Problem (hard),"binary search,data structures,flows",2212,2900,-688,0.7111111111111111,7.0,1
+1786702915,Timmyliuyunxi,865_D,Buy Low Sell High,"constructive algorithms,data structures,greedy",2212,2400,-188,0.86007326007326,19.0,1
+1786707215,Timmyliuyunxi,730_I,Olympiad in Programming and Sports,"dp,flows,graphs,greedy",2212,2000,212,0.7559523809523809,11.0,1
+1786721047,kyzum_king,2062_B,Clockwork,"greedy,math",982,900,82,0.8706293706293706,20.0,1
+1786731379,_avinash06_,703_A,Mishka and Game,implementation,1328,800,528,0.8333333333333334,4.0,1
+1786731743,_avinash06_,1676_A,Lucky?,implementation,1328,800,528,0.8571428571428571,5.0,1
+1786732087,_avinash06_,1669_A,Division?,implementation,1328,800,528,0.875,6.0,1
+1786732555,_avinash06_,1374_A,Required Remainder,math,1328,800,528,0.6666666666666666,1.0,1
+1786732828,_avinash06_,9_A,Die Roll,"math,probabilities",1328,800,528,0.625,2.0,1
+1786797877,Timmyliuyunxi,958_E2,Guard Duty (medium),"binary search,dp,greedy,sortings",2212,2200,12,0.8080357142857143,16.0,1
+1786799800,kyzum_king,2060_C,Game of Mathletes,"games,greedy,sortings,two pointers",982,900,82,0.6785714285714286,16.0,1
+1786814523,kyzum_king,2047_B,Replace Character,"brute force,combinatorics,greedy,strings",982,900,82,0.6282051282051282,12.0,1
+1786879276,Timmyliuyunxi,280_D,k-Maximum Subsequence Sum,"data structures,flows,graphs,implementation",2212,2800,-588,0.8020833333333334,14.0,1
+1786902614,_avinash06_,431_A,Black Square,implementation,1328,800,528,0.8888888888888888,7.0,1
+1786902892,_avinash06_,1367_B,Even Array,"greedy,math",1328,800,528,0.7333333333333334,4.0,1
+1786903016,_avinash06_,1791_A,Codeforces Checking,"implementation,strings",1328,800,528,0.7833333333333333,9.0,1
+1786935888,Timmyliuyunxi,878_D,Magic Breeding,bitmasks,2212,2900,-688,0.8333333333333334,4.0,1
+1786940444,kyzum_king,2042_B,Game with Colored Marbles,"games,greedy",982,900,82,0.7619047619047619,13.0,1
+1786977838,MartinezMiners,2257_A,Creating Abbreviations,"brute force,strings",1357,800,557,0.898989898989899,16.0,1
+1786978212,MartinezMiners,2257_B,Gigantomachy,math,1357,800,557,0.92,23.0,1
+1786979451,MartinezMiners,2257_C,Spying on the Beaver,"constructive algorithms,dfs and similar,dsu,graphs,trees",1357,1200,157,0.7388888888888888,23.0,1
+1786980537,kyzum_king,2257_B,Gigantomachy,math,982,800,182,0.9285714285714286,12.0,1
+1786982226,MartinezMiners,2257_D,Bermuda Rectangle,"binary search,implementation,math,number theory,two pointers",1357,1600,-243,0.9030136530136529,57.0,1
+1786984177,kyzum_king,2257_A,Creating Abbreviations,"brute force,strings",982,800,182,0.7083333333333333,3.0,1
+1786986359,Pritam_19,2257_A,Creating Abbreviations,"brute force,strings",2004,800,1204,0.7833333333333333,9.0,1
+1786986870,Pritam_19,2257_B,Gigantomachy,math,2004,800,1204,0.9411764705882353,15.0,1
+1786987319,Pritam_19,2257_C,Spying on the Beaver,"constructive algorithms,dfs and similar,dsu,graphs,trees",2004,1200,804,0.6484848484848484,11.0,1
+1786988430,_avinash06_,1520_A,Do Not Be Distracted!,"brute force,implementation",1328,800,528,0.7045454545454546,9.0,1
+1787045715,Timmyliuyunxi,1249_F,Maximum Weight Subset,"dp,trees",2212,2200,12,0.8444444444444444,10.0,1
+1787053988,kyzum_king,2035_B,Everyone Loves Tres,"constructive algorithms,greedy,math,number theory",982,900,82,0.8458333333333334,32.0,1
+1787075580,_avinash06_,2254_A,Riptide,"implementation,sortings",1328,800,528,0.7916666666666666,11.0,1
+1787137489,Timmyliuyunxi,1534_G,A New Beginning,"data structures,dp,geometry,sortings",2212,3300,-1088,0.8013888888888888,18.0,1
+1787141442,kyzum_king,2033_A,Sakurako and Kosuke,"constructive algorithms,implementation,math",982,800,182,0.8482142857142857,25.0,0
+1787141487,kyzum_king,2033_B,Sakurako and Water,"brute force,constructive algorithms,greedy",982,900,82,0.7916666666666666,22.0,1
+1787163984,_avinash06_,2252_A,Boss Fight,"data structures,greedy",1328,800,528,0.625,2.0,1
+1787215917,kyzum_king,2031_B,Penchick and Satay Sticks,"brute force,greedy,sortings",982,900,82,0.8107843137254903,24.0,1
+1787291791,_avinash06_,2256_A,Three Numbers on the Blackboard,"math,sortings",1328,800,528,0.7916666666666667,6.0,1
+1787292755,_avinash06_,12_A,Super Agent,implementation,1328,800,528,0.9230769230769231,11.0,1
+1787294348,_avinash06_,1760_A,Medium Number,"implementation,sortings",1328,800,528,0.8642857142857143,15.0,1
+1787295378,_avinash06_,1624_A,Plus One on the Subset,math,1328,800,528,0.8571428571428571,5.0,1
+1787295600,_avinash06_,1807_A,Plus or Minus,implementation,1328,800,528,0.9333333333333333,13.0,1
+1787296255,_avinash06_,1433_A,Boring Apartments,"implementation,math",1328,800,528,0.90625,20.0,1
+1787296560,_avinash06_,1360_A,Minimal Square,"greedy,math",1328,800,528,0.8444444444444444,10.0,1
+1787296699,_avinash06_,1370_A,Maximum GCD,"greedy,implementation,math,number theory",1328,800,528,0.7936274509803921,27.0,1
+1787296858,_avinash06_,1353_B,Two Arrays And Swaps,"greedy,sortings",1328,800,528,0.8452380952380952,9.0,1
+1787300860,Timmyliuyunxi,1238_E,Keyboard Purchase,"bitmasks,dp",2212,2200,12,0.8831168831168831,14.0,1
+1787382614,Timmyliuyunxi,1268_C,K Integers,"binary search,data structures",2212,2300,-88,0.8785714285714286,13.0,1
+1787384600,Timmyliuyunxi,1257_F,Make Them Similar,"bitmasks,brute force,hashing,meet-in-the-middle",2212,2400,-188,0.66875,9.0,1
+1787421149,_avinash06_,2247_A,Zero Sum,"constructive algorithms,dp,number theory",1328,800,528,0.611111111111111,2.0,1
+1787508809,_avinash06_,59_A,Word,"implementation,strings",1328,800,528,0.8472222222222222,18.0,1
+1787524235,Pritam_19,2240_A,Another Popcount Problem,greedy,2004,800,1204,0.9545454545454546,20.0,1
+1787593420,_avinash06_,1899_A,Game with Integers,"games,math,number theory",1328,800,528,0.7196969696969697,11.0,1
+1787594271,MartinezMiners,2256_A,Three Numbers on the Blackboard,"math,sortings",1357,800,557,0.9212962962962963,35.0,1
+1787652526,Timmyliuyunxi,1156_E,Special Segments of Permutation,"data structures,divide and conquer,dsu,two pointers",2212,2200,12,0.7064393939393939,12.0,1
+1787653283,Timmyliuyunxi,2048_F,Kevin and Math Class,"brute force,data structures,divide and conquer,dp,implementation,math,trees",2212,2500,-288,0.8565759637188208,42.0,1
+1787675796,_avinash06_,1903_A,Halloumi Boxes,"brute force,greedy,sortings",1328,800,528,0.7996031746031745,12.0,1
+1787732015,tvdan,519_A,A and B and Chess,implementation,1832,900,932,0.5,0.0,1
+1787732525,tvdan,515_A,Drazil and Date,math,1832,1000,832,0.5,0.0,1
+1787733341,tvdan,513_A,Game,"constructive algorithms,math",1832,800,1032,0.5833333333333333,1.0,1
+1787740410,Timmyliuyunxi,1200_F,Graph Traveler,"brute force,data structures,dfs and similar,dp,graphs,implementation,math,number theory",2212,2300,-88,0.8431204212454213,48.0,1
+1787740628,Timmyliuyunxi,2257_F2,Beaver's Jumping Track (Hard Version),"data structures,dp,matrices",2212,2700,-488,0.7857142857142857,24.0,0
+1787742082,Timmyliuyunxi,1251_E2,Voting (Hard Version),"binary search,data structures,greedy",2212,2400,-188,0.8722222222222222,25.0,1
+1787746268,Timmyliuyunxi,1398_F,Controversial Rounds,"binary search,data structures,dp,greedy,two pointers",2212,2500,-288,0.8372222222222222,42.0,1
+1787763950,_avinash06_,1999_A,A+B Again?,"implementation,math",1328,800,528,0.9320175438596491,27.0,1
+1787795926,Timmyliuyunxi,1354_F,Summoning Minions,"constructive algorithms,dp,flows,graph matchings,greedy,sortings",2212,2500,-288,0.8005952380952381,40.0,1
+1787805639,rb_1218,888_E,Maximum Subsequence,"bitmasks,divide and conquer,meet-in-the-middle",1424,1800,-376,0.5555555555555555,1.0,1
+1787833592,Timmyliuyunxi,1363_F,Rotating Substrings,"dp,strings",2212,2600,-388,0.6911764705882353,15.0,1
+1787835815,tvdan,510_A,Fox And Snake,implementation,1832,800,1032,0.6666666666666666,1.0,1
+1787836064,tvdan,509_A,Maximum in Table,"brute force,implementation",1832,800,1032,0.625,2.0,1
+1787836317,tvdan,507_A,Amr and Music,"greedy,implementation,sortings",1832,1000,832,0.6,3.0,1
+1787842375,tvdan,501_A,Contest,implementation,1832,900,932,0.8333333333333334,4.0,1
+1787853970,_avinash06_,581_A,Vasya the Hipster,"implementation,math",1328,800,528,0.9365384615384615,29.0,1
+1787894994,rb_1218,2027_C,Add Zeros,"brute force,data structures,dfs and similar,dp,graphs,greedy",1424,1500,-76,0.8693568858042542,56.0,1
+1787932525,tvdan,500_A,New Year Transportation,"dfs and similar,graphs,implementation",1832,1000,832,0.6190476190476191,5.0,1
+1787935969,_avinash06_,1878_A,How Much Does Daytona Cost?,greedy,1328,800,528,0.8888888888888888,7.0,1
+1787936306,_avinash06_,1857_A,Array Coloring,"greedy,math",1328,800,528,0.9142857142857144,20.0,1
+1787978483,_avinash06_,1829_B,Blank Space,implementation,1328,800,528,0.9523809523809523,19.0,1
+1787997162,tvdan,499_A,Watching a movie,"greedy,implementation",1832,1000,832,0.7708333333333333,7.0,1
+1787997173,tvdan,499_B,Lecture,"implementation,strings",1832,1000,832,0.6944444444444444,7.0,1
+1788000014,tvdan,1783_B,Matrix of Differences,"constructive algorithms,math",1832,1100,732,0.7083333333333333,3.0,1
+1788004316,tvdan,999_D,Equalize the Remainders,"data structures,greedy,implementation",1832,1900,-68,0.7166666666666667,10.0,1
+1788014429,Pritam_19,2258_A,Odd Eraser,math,2004,800,1204,0.9444444444444444,16.0,1
+1788014453,tvdan,2258_A,Odd Eraser,math,1832,800,1032,0.8,3.0,1
+1788014817,tvdan,2258_B1,Carrot Chopdown (Easy Version),"brute force,games,math",1832,900,932,0.6666666666666666,5.0,1
+1788014979,Pritam_19,2258_B1,Carrot Chopdown (Easy Version),"brute force,games,math",2004,900,1104,0.8410419989367357,27.0,1
+1788016154,tvdan,2258_B2,Carrot Chopdown (Hard Version),"brute force,greedy,implementation,math",1832,1600,232,0.8290584415584416,19.0,1
+1788018103,tvdan,2258_C,Far Cities,"interactive,trees,two pointers",1832,1600,232,0.5,0.0,1
+1788018255,Pritam_19,2258_C,Far Cities,"interactive,trees,two pointers",2004,1600,404,0.7944444444444444,9.0,1
+1788020394,Pritam_19,2258_B2,Carrot Chopdown (Hard Version),"brute force,greedy,implementation,math",2004,1600,404,0.9245471014492754,55.0,1
+1788071378,_avinash06_,1901_A,Line Trip,"greedy,math",1328,800,528,0.9212121212121211,22.0,1
+1788183373,Timmyliuyunxi,1234_F,Yet Another Substring Reverse,"bitmasks,dp",2212,2200,12,0.8888888888888888,23.0,1
+1788196398,_avinash06_,1915_A,Odd One Out,"bitmasks,implementation",1328,800,528,0.7272727272727273,20.0,1
+1788235886,muzermat,4_A,Watermelon,"brute force,math",2226,800,1426,0.8434343434343434,27.0,1
+1788236295,muzermat,50_A,Domino piling,"greedy,math",2226,800,1426,0.9124040920716112,53.0,1
+1788236641,muzermat,71_A,Way Too Long Words,strings,2226,800,1426,0.5,0.0,1
+1788239954,muzermat,96_A,Football,"implementation,strings",2226,900,1326,0.7666666666666666,14.0,1
+1788240194,muzermat,112_A,Petya and Strings,"implementation,strings",2226,800,1426,0.8125,16.0,1
+1788240400,muzermat,116_A,Tram,implementation,2226,800,1426,0.8823529411764706,15.0,1
+1788243599,muzermat,118_A,String Task,"implementation,strings",2226,1000,1226,0.8444444444444444,19.0,1
+1788244298,muzermat,122_A,Lucky Division,"brute force,number theory",2226,1000,1226,0.7571428571428571,13.0,1
+1788259528,Timmyliuyunxi,1245_F,Daniel and Spring Cleaning,"bitmasks,brute force,combinatorics,dp",2212,2300,-88,0.8549342105263158,33.0,1
+1788260914,Timmyliuyunxi,1239_D,Catowice City,"2-sat,dfs and similar,graph matchings,graphs",2212,2400,-188,0.7083333333333334,9.0,1
+1788261658,tvdan,496_A,Minimum Difficulty,"brute force,implementation,math",1832,900,932,0.8638888888888889,19.0,1
+1788261732,Timmyliuyunxi,2255_D,How Long Until Nothing Remains?,"binary search,bitmasks,data structures,greedy,math,sortings",2212,2300,-88,0.8904931669637551,54.0,1
+1788262173,tvdan,492_A,Vanya and Cubes,implementation,1832,800,1032,0.9230769230769231,11.0,1
+1788263639,Timmyliuyunxi,1305_F,Kuroni and the Punishment,"math,number theory,probabilities",2212,2500,-288,0.7222222222222222,12.0,1
+1788267415,Timmyliuyunxi,955_F,Heaps,"dp,trees",2212,2600,-388,0.8785714285714286,23.0,1
+1788269021,tvdan,491_A,Up the hill,"constructive algorithms,implementation",1832,1000,832,0.8392857142857143,14.0,1
+1788284225,_avinash06_,1791_C,Prepend and Append,"implementation,two pointers",1328,800,528,0.7282608695652174,21.0,1
+1788315816,muzermat,144_A,Arrival of the General,implementation,2226,800,1426,0.8947368421052632,17.0,1
+1788316138,muzermat,158_A,Next Round,"*special,implementation",2226,800,1426,0.7,18.0,1
+1788318746,muzermat,160_A,Twins,"greedy,sortings",2226,900,1326,0.8142857142857143,38.0,1
+1788319522,muzermat,231_A,Team,"brute force,greedy",2226,800,1426,0.8674242424242424,43.0,1
+1788354231,Timmyliuyunxi,1369_F,BareLee,"dfs and similar,dp,games",2212,2700,-488,0.753968253968254,24.0,1
+1788441527,NickRodeo,2258_A,Odd Eraser,math,1102,800,302,0.8181818181818182,9.0,1
+1788443304,NickRodeo,2258_B1,Carrot Chopdown (Easy Version),"brute force,games,math",1102,900,202,0.7857142857142857,16.0,0
+1788533193,_avinash06_,1873_C,Target Practice,"implementation,math",1328,800,528,0.9479166666666667,36.0,1
+1788604193,_avinash06_,1850_A,To My Critics,"implementation,sortings",1328,800,528,0.9175,29.0,1
+1788604346,_avinash06_,2009_A,Minimize!,"brute force,math",1328,800,528,0.8455882352941176,17.0,1
+1788604570,_avinash06_,1985_A,Creating Words,"implementation,strings",1328,800,528,0.8807692307692307,27.0,1
+1788604869,_avinash06_,1873_A,Short Sort,"brute force,implementation",1328,800,528,0.8814814814814815,28.0,1
+1788609059,juruo123123,708_D,Incorrect Flow,flows,1553,2900,-1347,0.5,0.0,1
+1788619889,NickRodeo,2259_A,Moo Language School,"brute force,greedy,two pointers",1102,800,302,0.7944444444444446,19.0,1
+1788620336,NickRodeo,2259_B,Minus Two,"math,number theory",1102,800,302,0.717948717948718,12.0,1
+1788620930,NickRodeo,2259_C,101,"constructive algorithms,greedy",1102,1000,102,0.6730769230769231,13.0,1
+1788624658,NickRodeo,2259_E,Treasure Map Destruction (Constructive Version),"2-sat,constructive algorithms,greedy",1102,1500,-398,0.6523809523809524,15.0,0
+1788626558,NickRodeo,2259_D,MEX Multiset,"constructive algorithms,greedy",1102,1200,-98,0.65,17.0,1
+1788666066,_avinash06_,1829_A,Love Story,"implementation,strings",1328,800,528,0.8988095238095238,30.0,1
+1788695524,juruo123123,2258_A,Odd Eraser,math,1553,800,753,0.8571428571428571,5.0,1
+1788695820,rb_1218,1904_C,Array Game,"binary search,brute force,data structures,sortings,two pointers",1424,1400,24,0.8728621378621378,41.0,1
+1788697299,juruo123123,2258_B1,Carrot Chopdown (Easy Version),"brute force,games,math",1553,900,653,0.7638888888888888,9.0,1
+1788699464,rb_1218,1692_G,2^Sort,"data structures,dp,sortings,two pointers",1424,1400,24,0.8832866479925304,38.0,1
+1788699743,juruo123123,2258_B2,Carrot Chopdown (Hard Version),"brute force,greedy,implementation,math",1553,1600,-47,0.8555555555555556,22.0,1
+1788701841,juruo123123,2258_C,Far Cities,"interactive,trees,two pointers",1553,1600,-47,0.5555555555555555,1.0,0
+1788702910,rb_1218,1143_C,Queen,"dfs and similar,trees",1424,1400,24,0.7619047619047619,6.0,0
+1788705496,juruo123123,2257_A,Creating Abbreviations,"brute force,strings",1553,800,753,0.75,5.0,1
+1788706141,juruo123123,2257_B,Gigantomachy,math,1553,800,753,0.9,8.0,1
+1788707611,juruo123123,2257_C,Spying on the Beaver,"constructive algorithms,dfs and similar,dsu,graphs,trees",1553,1200,353,0.6,7.0,1
+1788775136,muzermat,266_A,Stones on the Table,implementation,2226,800,1426,0.9047619047619048,19.0,1
+1788784348,Timmyliuyunxi,1197_E,Culture Code,"binary search,combinatorics,data structures,dp,shortest paths,sortings",2212,2300,-88,0.8107022607022606,53.0,1
+1788789045,Timmyliuyunxi,1301_F,Super Jaber,"dfs and similar,graphs,implementation,shortest paths",2212,2600,-388,0.8219246031746031,19.0,1
+1788799201,_avinash06_,1900_A,Cover in Water,"constructive algorithms,greedy,implementation,strings",1328,800,528,0.8723316912972086,44.0,1
+1788840125,juruo123123,687_A,NP-Hard Problem,"dfs and similar,graphs",1553,1500,53,0.6666666666666666,2.0,1
+1788856699,juruo123123,1609_D,Social Network,"dsu,graphs,greedy,implementation,trees",1553,1600,-47,0.7732467532467533,21.0,1
+1788878321,Pritam_19,2260_A,Monocarp's Contest,implementation,2004,800,1204,0.8888888888888888,7.0,1
+1788878419,tvdan,2260_A,Monocarp's Contest,implementation,1832,800,1032,0.9333333333333333,13.0,1
+1788878841,Pritam_19,2260_B,Monocarp and Projects,"brute force,math,number theory",2004,900,1104,0.8918192918192919,33.0,1
+1788879027,tvdan,2260_B,Monocarp and Projects,"brute force,math,number theory",1832,900,932,0.7407407407407408,11.0,1
+1788879310,Pritam_19,2260_C,"Maximize XOR, Minimize Operations","bitmasks,greedy",2004,1300,704,0.8791666666666667,25.0,1
+1788879898,tvdan,2260_C,"Maximize XOR, Minimize Operations","bitmasks,greedy",1832,1300,532,0.6666666666666667,4.0,1
+1788880590,Pritam_19,2260_D,Signs of Prefix Sums,"brute force,constructive algorithms,dfs and similar,dp,implementation",2004,1700,304,0.8740476190476191,38.0,1
+1788881728,tvdan,2260_D,Signs of Prefix Sums,"brute force,constructive algorithms,dfs and similar,dp,implementation",1832,1700,132,0.7522619047619047,23.0,1
+1788882049,_avinash06_,2260_A,Monocarp's Contest,implementation,1328,800,528,0.9666666666666667,28.0,1
+1788882831,_avinash06_,2260_B,Monocarp and Projects,"brute force,math,number theory",1328,900,428,0.8592592592592592,23.0,0
+1788883210,Pritam_19,2260_E,Cyclic Balance,"binary search,constructive algorithms,dp,math",2004,2000,4,0.9138500388500389,45.0,1
+1788883747,_avinash06_,2260_C,"Maximize XOR, Minimize Operations","bitmasks,greedy",1328,1300,28,0.7948717948717949,12.0,0
+1788883886,_avinash06_,2260_D,Signs of Prefix Sums,"brute force,constructive algorithms,dfs and similar,dp,implementation",1328,1700,-372,0.7297388632872503,38.0,0
+1788976023,_avinash06_,1858_A,Buttons,"games,greedy,math",1328,800,528,0.8061821219715957,30.0,1
+1789021133,tourist,484_E,Sign on Fence,"binary search,constructive algorithms,data structures",3382,2500,882,0.9477056277056276,55.0,1
+1789061152,_avinash06_,1950_A,"Stair, Peak, or Neither?",implementation,1328,800,528,0.9375,30.0,1
+1789187961,tourist,1736_C2,Good Subarrays (Hard Version),"binary search,data structures,dp,two pointers",3382,2400,982,0.8921066252587992,65.0,1
+1789223969,Petr,2262_A1,Floor of MEX (Easy Version),"constructive algorithms,greedy",2831,1200,1631,0.9297385620915033,48.0,1
+1789224069,tourist,2262_A1,Floor of MEX (Easy Version),"constructive algorithms,greedy",3382,1200,2182,0.9423076923076923,61.0,1
+1789224203,tourist,2262_A2,Floor of MEX (Hard Version),"dp,implementation,math",3382,1800,1582,0.8929262967082767,63.0,1
+1789224207,Timmyliuyunxi,2262_A1,Floor of MEX (Easy Version),"constructive algorithms,greedy",2212,1200,1012,0.925,23.0,1
+1789225061,tourist,2262_B,Culling Game,"binary search,data structures,implementation,two pointers",3382,2000,1382,0.8614583333333334,50.0,1
+1789225622,Timmyliuyunxi,2262_A2,Floor of MEX (Hard Version),"dp,implementation,math",2212,1800,412,0.9120401337792643,40.0,1
+1789226435,Petr,2262_C,Traveling the World,"combinatorics,constructive algorithms,graphs,greedy,math",2831,2300,531,0.8996666491403333,89.0,1
+1789227928,Petr,2262_B,Culling Game,"binary search,data structures,implementation,two pointers",2831,2000,831,0.8953525641025641,40.0,1
+1789228239,Timmyliuyunxi,2262_B,Culling Game,"binary search,data structures,implementation,two pointers",2212,2000,212,0.8676236044657097,38.0,1
+1789228631,tourist,2262_C,Traveling the World,"combinatorics,constructive algorithms,graphs,greedy,math",3382,2300,1082,0.9330413105413106,114.0,1
+1789229619,Timmyliuyunxi,2262_C,Traveling the World,"combinatorics,constructive algorithms,graphs,greedy,math",2212,2300,-88,0.899496336996337,47.0,1
+1789230092,Petr,2262_D,PLUSworld,"constructive algorithms,graphs,greedy",2831,2900,-69,0.8968013468013468,61.0,0
+1789231150,Petr,2262_A2,Floor of MEX (Hard Version),"dp,implementation,math",2831,1800,1031,0.9037068004459309,59.0,1
+1789233528,Petr,2262_E,Paired Bracket Sequences,"combinatorics,math",2831,3100,-269,0.9226190476190477,34.0,1
+1789233628,_avinash06_,2263_A,Min Max Game,games,1328,800,528,0.75,2.0,1
+1789233778,_avinash06_,2263_B,Min Matrices,constructive algorithms,1328,900,428,0.6666666666666666,4.0,0
+1789300692,rb_1218,2252_B,Always Changing,"dp,greedy,math,strings",1424,1100,324,0.8886437908496733,53.0,1
+1789325575,tourist,1401_F,Reverse and Swap,"binary search,bitmasks,data structures",3382,2400,982,0.9337254901960784,46.0,1
+1789358069,Pritam_19,2263_A,Min Max Game,games,2004,800,1204,0.75,2.0,1
+1789358787,Pritam_19,2263_B,Min Matrices,constructive algorithms,2004,900,1104,0.9285714285714286,12.0,1
+1789379902,_avinash06_,1703_A,YES or YES?,"brute force,implementation,strings",1328,800,528,0.8131313131313131,43.0,0
+1789380455,_avinash06_,1703_B,ICPC Balloons,"data structures,implementation",1328,800,528,0.7892156862745098,33.0,1
+1789421472,MartinezMiners,4_C,Registration System,"data structures,hashing,implementation",1357,1300,57,0.7743589743589743,19.0,1
+1789422457,MartinezMiners,706_B,Interesting drink,"binary search,dp,implementation",1357,1100,257,0.9298941798941799,38.0,1
+1789432557,MartinezMiners,208_A,Dubstep,strings,1357,900,457,0.9,8.0,1
+1789432780,MartinezMiners,339_A,Helpful Maths,"greedy,implementation,sortings,strings",1357,800,557,0.9257502913752914,63.0,1
+1789433117,MartinezMiners,520_A,Pangram,"implementation,strings",1357,800,557,0.9270833333333333,24.0,1
+1789433493,MartinezMiners,443_A,Anton and Letters,"constructive algorithms,implementation",1357,800,557,0.9442724458204335,32.0,1
+1789434553,MartinezMiners,236_A,Boy or Girl,"brute force,implementation,strings",1357,800,557,0.9280626780626781,37.0,1
+1789435369,MartinezMiners,279_B,Books,"binary search,brute force,implementation,two pointers",1357,1400,-43,0.9171305668016194,45.0,1
+1789435656,MartinezMiners,433_B,Kuriyama Mirai's Stones,"dp,implementation,sortings",1357,1200,157,0.9419799498746867,47.0,1
+1789435922,MartinezMiners,469_A,I Wanna Be the Guy,"greedy,implementation",1357,800,557,0.9458874458874459,50.0,1
+1789436675,MartinezMiners,455_A,Boredom,dp,1357,1500,-143,0.95,18.0,1
+1789495457,_avinash06_,80_A,Panoramix's Prediction,brute force,1328,800,528,0.5555555555555556,7.0,1
+1789534560,tourist,920_F,SUM and REPLACE,"brute force,data structures,dsu,number theory",3382,2000,1382,0.8841346153846155,47.0,1
+1789571201,_avinash06_,1722_A,Spell Check,implementation,1328,800,528,0.9142857142857143,33.0,1
+1789589400,MartinezMiners,474_D,Flowers,dp,1357,1700,-343,0.9523809523809523,19.0,1
+1789591275,MartinezMiners,189_A,Cut Ribbon,"brute force,dp",1357,1300,57,0.9415584415584416,32.0,1
+1789593728,MartinezMiners,1249_E,By Elevator or Stairs?,"dp,shortest paths",1357,1700,-343,0.7282608695652174,21.0,1
+1789667816,_avinash06_,1881_A,Don't Try to Count,"brute force,strings",1328,800,528,0.6888888888888889,15.0,1
+1789723358,tvdan,420_A,Start Up,implementation,1832,1000,832,0.9411764705882353,15.0,1
+1789723518,Timmyliuyunxi,1746_F,Kazaee,"data structures,hashing,probabilities",2212,2800,-588,0.7444444444444445,20.0,1
+1789723670,Timmyliuyunxi,1187_E,Tree Painting,"dfs and similar,dp,trees",2212,2100,112,0.8935185185185185,35.0,1
+1789723753,tvdan,349_A,Cinema Line,"greedy,implementation",1832,1100,732,0.9007936507936507,21.0,1
+1789754617,_avinash06_,1896_A,Jagged Swaps,sortings,1328,800,528,0.8888888888888888,7.0,1
+1789822492,_avinash06_,492_A,Vanya and Cubes,implementation,1328,800,528,0.9166666666666666,34.0,1
+1789894049,tvdan,2259_A,Moo Language School,"brute force,greedy,two pointers",1832,800,1032,0.8055555555555555,13.0,1
+1789894360,tvdan,2259_B,Minus Two,"math,number theory",1832,800,1032,0.7833333333333333,9.0,1
+1789895696,tvdan,2259_C,101,"constructive algorithms,greedy",1832,1000,832,0.8611111111111112,11.0,1
+1789897984,tvdan,2259_D,MEX Multiset,"constructive algorithms,greedy",1832,1200,632,0.8785714285714286,13.0,1
+1789902024,tvdan,2259_E,Treasure Map Destruction (Constructive Version),"2-sat,constructive algorithms,greedy",1832,1500,332,0.7613636363636364,15.0,1
+1789914172,tvdan,2259_F,Binary Bubble Sort Inversions,"data structures,math,two pointers",1832,1800,32,0.7752525252525252,12.0,1
+1789917902,_avinash06_,1890_A,Doremy's Paint 3,constructive algorithms,1328,800,528,0.5714285714285714,5.0,1
+1789918087,tvdan,2259_G,Index Removal,"binary search,data structures,math",1832,1900,-68,0.7222222222222222,12.0,1
+1789927285,_avinash06_,1873_B,Good Kid,"brute force,greedy,math",1328,800,528,0.801010101010101,40.0,1
+1789928235,_avinash06_,1926_A,Vlad and the Best of Five,implementation,1328,800,528,0.918918918918919,35.0,1
+1789929809,_avinash06_,1619_A,Square String?,"implementation,strings",1328,800,528,0.8605263157894737,44.0,1
+1789930057,_avinash06_,2044_A,Easy Problem,"brute force,math",1328,800,528,0.7857142857142857,29.0,1
+1789930616,_avinash06_,1742_B,Increasing,"greedy,implementation,sortings",1328,800,528,0.8993589743589744,59.0,1
+1789980505,tvdan,242_E,XOR on Segment,"bitmasks,data structures",1832,2000,-168,0.7333333333333334,4.0,1
+1789980561,tvdan,339_D,Xenia and Bit Operations,"data structures,trees",1832,1700,132,0.75,5.0,1
+1789980683,tvdan,380_C,Sereja and Brackets,"data structures,schedules",1832,2000,-168,0.6785714285714286,5.0,1
+1789980708,tvdan,522_D,Closest Equals,"*special,data structures",1832,2000,-168,0.6875,6.0,1
+1789980724,tvdan,1234_D,Distinct Characters Queries,data structures,1832,1600,232,0.8888888888888888,7.0,1
+1789980740,tvdan,1439_C,Greedy Shopping,"binary search,data structures,divide and conquer,greedy,implementation",1832,2600,-768,0.7861403508771929,36.0,1
+1789980753,tvdan,1555_E,Boring Segments,"data structures,sortings,trees,two pointers",1832,2100,-268,0.781439393939394,15.0,1
+1789983966,santo_boi,2160_C,Reverse XOR,bitmasks,1873,1300,573,0.5,0.0,1
+1789985146,santo_boi,2129_A,Double Perspective,"constructive algorithms,dp,dsu,graphs,greedy,sortings",1873,1300,573,0.5,0.0,1
+1789992581,Timmyliuyunxi,1882_E1,Two Permutations (Easy Version),"brute force,constructive algorithms,greedy,number theory",2212,2400,-188,0.8896591970121381,37.0,1
+1789994870,plsmakeme1600,2259_A,Moo Language School,"brute force,greedy,two pointers",1177,800,377,0.8980148883374689,48.0,1
+1789995706,plsmakeme1600,2259_B,Minus Two,"math,number theory",1177,800,377,0.8590909090909091,28.0,1
+1790000059,plsmakeme1600,2259_D,MEX Multiset,"constructive algorithms,greedy",1177,1200,-23,0.7589285714285714,42.0,1
+1790001203,tvdan,2259_H,Treasure Map Destruction (Counting Version),"dfs and similar,dp,dsu,graphs,math",1832,2200,-368,0.7012820512820512,15.0,1
+1790001397,tvdan,2266_A,Good Contest,greedy,1832,800,1032,0.9230769230769231,11.0,1
+1790001600,tvdan,2266_B,Three Piles,"games,greedy,math",1832,800,1032,0.8412698412698413,25.0,1
+1790002198,tvdan,2266_C,"AND, OR, Sort!","greedy,strings",1832,1000,832,0.8,14.0,1
+1790002714,tvdan,2266_D,Falling Concrete,"constructive algorithms,data structures,math,sortings",1832,1400,432,0.8722222222222222,32.0,1
+1790003013,santo_boi,2266_A,Good Contest,greedy,1873,800,1073,0.6666666666666666,1.0,1
+1790003242,santo_boi,2266_B,Three Piles,"games,greedy,math",1873,800,1073,0.5833333333333334,2.0,1
+1790003739,tvdan,2266_E,Prime Destruction,"brute force,dp,math,number theory",1832,1400,432,0.8315972222222222,25.0,1
+1790004178,santo_boi,2266_C,"AND, OR, Sort!","greedy,strings",1873,1000,873,0.65,3.0,1
+1790004788,santo_boi,2266_D,Falling Concrete,"constructive algorithms,data structures,math,sortings",1873,1400,473,0.6249999999999999,3.0,0
+1790012898,_avinash06_,2167_A,Square?,"math,sortings",1328,800,528,0.9090909090909091,29.0,1
+1790071749,kyzum_king,2263_A,Min Max Game,games,982,800,182,0.75,2.0,1
+1790077087,Timmyliuyunxi,1720_E,Misha and Paintings,"constructive algorithms,data structures,greedy,implementation,math",2212,2700,-488,0.9265079365079364,71.0,1
+1790078703,kyzum_king,2028_A,Alice's Adventures in ''Chess'',"brute force,implementation,math",982,900,82,0.7941176470588235,26.0,1
+1790078985,santo_boi,2121_D,1709,"implementation,sortings",1873,1300,573,0.5,2.0,1
+1790079434,Timmyliuyunxi,804_E,The same permutation ,constructive algorithms,2212,3100,-888,0.9473684210526315,17.0,1
+1790080914,Timmyliuyunxi,715_D,Create a Maze,constructive algorithms,2212,3100,-888,0.95,18.0,1
+1790086704,Timmyliuyunxi,1364_E,X-OR,"bitmasks,constructive algorithms,divide and conquer,interactive,probabilities",2212,2700,-488,0.8684249084249085,45.0,1
+1790092748,santo_boi,2094_F,Trulimero Trulicina,constructive algorithms,1873,1600,273,0.5,2.0,1
+1790093729,kyzum_king,2260_B,Monocarp and Projects,"brute force,math,number theory",982,900,82,0.8486772486772486,24.0,1
+1790093752,santo_boi,2181_F,Fragmented Nim,games,1873,1600,273,0.6666666666666666,1.0,1
+1790101322,_avinash06_,1676_B,Equal Candies,"greedy,math,sortings",1328,800,528,0.9040210287013356,46.0,1
+1790148452,santo_boi,2069_C,Beautiful Sequence,"combinatorics,dp,greedy,two pointers",1873,1500,373,0.625,5.0,1
+1790150842,santo_boi,2082_B,Floor or Ceil,"brute force,greedy",1873,1600,273,0.6785714285714286,5.0,1
+1790155384,santo_boi,2052_A,Adrenaline Rush,constructive algorithms,1873,1600,273,0.6,3.0,1
+1790164863,Timmyliuyunxi,2150_E2,Hidden Single (Version 2),"binary search,divide and conquer,interactive,math,probabilities",2212,2800,-588,0.884496336996337,44.0,0
+1790184919,santo_boi,2051_E,Best Price,"binary search,brute force,data structures,greedy,sortings",1873,1600,273,0.595,11.0,1
+1790187198,_avinash06_,1772_A,A+B?,implementation,1328,800,528,0.925,38.0,1
+1790193778,MartinezMiners,706_C,Hard problem,"dp,strings",1357,1600,-243,0.9434523809523809,34.0,1
+1790218685,tvdan,2266_F,MEX Replacement,"binary search,brute force,greedy,implementation,math,sortings",1832,2000,-168,0.8797794117647059,60.0,1
+1790220955,tvdan,598_E,Chocolate Bar,"brute force,dp",1832,2000,-168,0.8545454545454545,12.0,1
+1790227119,santo_boi,1978_D,Elections,"data structures,greedy,implementation,math",1873,1600,273,0.6388888888888888,12.0,1
+1790228195,santo_boi,1985_F,Final Boss,"binary search,data structures",1873,1500,373,0.6333333333333333,4.0,1
+1790230404,santo_boi,2128_C,Leftmost Below,"greedy,math",1873,1200,673,0.75,11.0,1
+1790239868,kyzum_king,2264_B,Knife's Pill Farm,"data structures,greedy,math",982,1000,-18,0.7056530214424951,34.0,1
+1790241328,tvdan,2266_G,Modular Tree,"dfs and similar,dp,greedy,math,number theory,trees",1832,2200,-368,0.8531590413943354,44.0,1
+1790262423,kyzum_king,2259_C,101,"constructive algorithms,greedy",982,1000,-18,0.8362573099415205,24.0,1
+1790270908,kyzum_king,2237_C,Duck Surplus,"binary search,greedy",982,1000,-18,0.7833333333333333,19.0,1
+1790270980,santo_boi,2093_E,Min Max MEX,"binary search,brute force,greedy",1873,1500,373,0.8030303030303031,13.0,1
+1790275633,kyzum_king,2237_B,Annoying the Ghost,"brute force,greedy",982,1000,-18,0.8898809523809523,25.0,1
+1790305043,Timmyliuyunxi,1764_G3,Doremy's Perfect DS Class (Hard Version),"binary search,interactive",2212,3300,-1088,0.861904761904762,25.0,1
+1790333270,santo_boi,2195_D,Absolute Cinema,math,1873,1300,573,0.6666666666666666,4.0,1
+1790347134,Pritam_19,2267_A,Turn Into a Palindrome,"greedy,strings",2004,800,1204,0.855,25.0,1
+1790347209,tvdan,2267_A,Turn Into a Palindrome,"greedy,strings",1832,800,1032,0.8472222222222222,18.0,1
+1790347290,1703056,2267_A,Turn Into a Palindrome,"greedy,strings",1544,800,744,0.8568840579710144,77.0,1
+1790347472,Pritam_19,2267_B,Fashionable Array,"brute force,constructive algorithms,sortings",2004,800,1204,0.9185185185185185,33.0,1
+1790347651,1703056,2267_B,Fashionable Array,"brute force,constructive algorithms,sortings",1544,800,744,0.7692307692307693,62.0,1
+1790347816,tvdan,2267_B,Fashionable Array,"brute force,constructive algorithms,sortings",1832,800,1032,0.8833333333333333,22.0,1
+1790348040,ningjingzhiyuan1216,2267_A,Turn Into a Palindrome,"greedy,strings",1335,800,535,0.45833333333333337,24.0,1
+1790348110,kyzum_king,2267_A,Turn Into a Palindrome,"greedy,strings",982,800,182,0.8545454545454545,23.0,1
+1790348239,Pritam_19,2267_C,GCD Treasury,"greedy,math,number theory",2004,1200,804,0.9171311780007433,49.0,1
+1790348267,ningjingzhiyuan1216,2267_B,Fashionable Array,"brute force,constructive algorithms,sortings",1335,800,535,0.6686507936507936,15.0,1
+1790348680,tvdan,2267_C,GCD Treasury,"greedy,math,number theory",1832,1200,632,0.9093567251461988,38.0,1
+1790349300,kyzum_king,2267_B,Fashionable Array,"brute force,constructive algorithms,sortings",982,800,182,0.8222222222222223,22.0,0
+1790350093,ningjingzhiyuan1216,2267_C,GCD Treasury,"greedy,math,number theory",1335,1200,135,0.4985185185185185,41.0,1
+1790350410,1703056,2267_C,GCD Treasury,"greedy,math,number theory",1544,1200,344,0.8399425287356322,138.0,1
+1790350646,tvdan,2267_D,Backrooms Hill,"constructive algorithms,dp,greedy,sortings,two pointers",1832,1400,432,0.8813419913419913,41.0,1
+1790350795,Pritam_19,2267_D,Backrooms Hill,"constructive algorithms,dp,greedy,sortings,two pointers",2004,1400,604,0.9115211640211639,60.0,1
+1790351065,_avinash06_,2267_A,Turn Into a Palindrome,"greedy,strings",1328,800,528,0.8535353535353536,25.0,1
+1790351435,ningjingzhiyuan1216,2267_D,Backrooms Hill,"constructive algorithms,dp,greedy,sortings,two pointers",1335,1400,-65,0.5742124542124543,44.0,1
+1790352588,ningjingzhiyuan1216,2267_E,Clean Substrings,"combinatorics,data structures,math",1335,2000,-665,0.42155388471177946,25.0,1
+1790353032,tvdan,2267_F1,XOR Transformations (Easy Version),"bitmasks,brute force,implementation,sortings",1832,1700,132,0.8751144688644689,38.0,1
+1790353085,_avinash06_,2267_B,Fashionable Array,"brute force,constructive algorithms,sortings",1328,800,528,0.7467948717948718,28.0,1
+1790353208,_avinash06_,2267_C,GCD Treasury,"greedy,math,number theory",1328,1200,128,0.8260233918128654,43.0,0
+1790354060,ningjingzhiyuan1216,2267_F1,XOR Transformations (Easy Version),"bitmasks,brute force,implementation,sortings",1335,1700,-365,0.59375,20.0,1
+1790354332,Pritam_19,2267_E,Clean Substrings,"combinatorics,data structures,math",2004,2000,4,0.763888888888889,26.0,1
+1790359605,_avinash06_,1283_A,Minutes Before the New Year,math,1328,800,528,0.88,23.0,1
+1790359939,santo_boi,2245_C,MEXOR,"bitmasks,constructive algorithms,math",1873,1400,473,0.6825396825396824,10.0,1
+1790393866,Timmyliuyunxi,1167_F,Scalar Queries,"combinatorics,data structures,math,sortings",2212,2300,-88,0.8808966768525592,46.0,1
+1790394061,Timmyliuyunxi,1270_G,Subset with Zero Sum,"constructive algorithms,dfs and similar,graphs,math",2212,2700,-488,0.908080808080808,51.0,1
+1790402952,Timmyliuyunxi,2267_E,Clean Substrings,"combinatorics,data structures,math",2212,2000,212,0.8942601067887109,44.0,1
+1790404577,Timmyliuyunxi,2267_F2,XOR Transformations (Hard Version),"bitmasks,brute force,data structures,dfs and similar,greedy,math,sortings,strings,trees",2212,2300,-88,0.881197660364327,97.0,1
+1790404605,Timmyliuyunxi,2267_F1,XOR Transformations (Easy Version),"bitmasks,brute force,implementation,sortings",2212,1700,512,0.9151848151848151,40.0,1
+1790405641,santo_boi,2267_A,Turn Into a Palindrome,"greedy,strings",1873,800,1073,0.7916666666666666,11.0,1
+1790406047,santo_boi,2267_B,Fashionable Array,"brute force,constructive algorithms,sortings",1873,800,1073,0.726984126984127,12.0,1
+1790407260,santo_boi,2267_C,GCD Treasury,"greedy,math,number theory",1873,1200,673,0.7243589743589745,17.0,1
+1790414281,tvdan,1779_C,Least Prefix Sum,"data structures,greedy",1832,1600,232,0.9377289377289377,30.0,1
+1790415173,kyzum_king,2236_C,Omsk Programmers,"brute force,greedy,math",982,1000,-18,0.8710144927536231,47.0,1
+1790428720,kyzum_king,2204_C,Spring,"math,number theory",982,1000,-18,0.8690476190476191,23.0,1
+1790429991,plsmakeme1600,2259_E,Treasure Map Destruction (Constructive Version),"2-sat,constructive algorithms,greedy",1177,1500,-323,0.6818181818181818,44.0,1
+1790433425,santo_boi,2269_A,SauSaGe Bank,"greedy,math",1873,800,1073,0.8531746031746033,19.0,1
+1790433641,rb_1218,2269_A,SauSaGe Bank,"greedy,math",1424,800,624,0.9206349206349206,35.0,1
+1790433657,tourist,2268_A,K Is Important,"constructive algorithms,greedy",3382,1200,2182,0.9455574912891986,65.0,1
+1790433931,tvdan,2269_A,SauSaGe Bank,"greedy,math",1832,800,1032,0.9522727272727273,38.0,1
+1790434008,Timmyliuyunxi,2268_A,K Is Important,"constructive algorithms,greedy",2212,1200,1012,0.948849104859335,36.0,1
+1790434169,tourist,2268_B,What a SauSaGe! It's All Meat,"bitmasks,brute force,data structures,math",3382,1500,1882,0.9216119528619529,79.0,1
+1790434212,tvdan,2269_B,KiaKio and Squared Numbers,"brute force,implementation",1832,1000,832,0.9415584415584416,32.0,1
+1790434351,santo_boi,2269_B,KiaKio and Squared Numbers,"brute force,implementation",1873,1000,873,0.7916666666666667,6.0,1
+1790434706,Timmyliuyunxi,2268_B,What a SauSaGe! It's All Meat,"bitmasks,brute force,data structures,math",2212,1500,712,0.9186904761904762,65.0,1
+1790434846,Pritam_19,2268_A,K Is Important,"constructive algorithms,greedy",2004,1200,804,0.9527310924369747,41.0,1
+1790434883,kyzum_king,2203_B,Beautiful Numbers,"bitmasks,dp,fft,greedy,math",982,1000,-18,0.6651515151515152,42.0,1
+1790435799,rb_1218,2269_B,KiaKio and Squared Numbers,"brute force,implementation",1424,1000,424,0.8898550724637682,34.0,1
+1790435937,tourist,2268_E,Kia Kio and Tree of Life,"data structures,fft,math,trees",3382,2700,682,0.868032212885154,67.0,1
+1790436611,Pritam_19,2268_B,What a SauSaGe! It's All Meat,"bitmasks,brute force,data structures,math",2004,1500,504,0.8969940476190477,46.0,1
+1790437169,tourist,2268_C,KiaKio and Energy Intervals,"binary search,bitmasks,data structures,divide and conquer,dsu,greedy,trees,two pointers",3382,2300,1082,0.9007446696024282,122.0,1
+1790438553,tourist,2268_D,AghaBalaSar and Hamed,"data structures,dp,trees",3382,2600,782,0.9500000000000001,66.0,1
+1790439568,Timmyliuyunxi,2268_C,KiaKio and Energy Intervals,"binary search,bitmasks,data structures,divide and conquer,dsu,greedy,trees,two pointers",2212,2300,-88,0.8607467185592186,86.0,1
+1790441947,Timmyliuyunxi,2268_E,Kia Kio and Tree of Life,"data structures,fft,math,trees",2212,2700,-488,0.8110269360269361,54.0,0
+1790448901,Kairm_Zaf,2264_D,Dr. Agos's Dark Mode,"brute force,chinese remainder theorem,constructive algorithms,math,strings",1874,1900,-26,0.5,0.0,0
+1790489668,kyzum_king,2199_A,Game,*special,982,1000,-18,0.5,0.0,0
+1790491709,santo_boi,2229_D,Me When Median Problem,"binary search,greedy",1873,1700,173,0.8666666666666667,16.0,1
+1790491887,santo_boi,2120_B,Square Pool,geometry,1873,1000,873,0.5,0.0,1
+1790515698,rb_1218,1542_B,Plus and Multiply,"constructive algorithms,math,number theory",1424,1500,-76,0.8506265664160401,25.0,1
+1790524405,_avinash06_,1853_A,Desorting,"brute force,greedy,math",1328,800,528,0.8163003663003664,54.0,1
+1790525875,kyzum_king,2194_B,Offshores,"greedy,implementation,math",982,1000,-18,0.8443478260869566,52.0,1
+1790528314,kyzum_king,2193_C,Replace and Sum,"data structures,greedy",982,1000,-18,0.7115384615384616,26.0,1
+1790532613,santo_boi,1400_B,RPG Protagonist,"brute force,greedy,math",1873,1700,173,0.8648809523809525,27.0,1
+1790572719,rb_1218,1891_C,Smilo and Monsters,"binary search,constructive algorithms,greedy,sortings,two pointers",1424,1500,-76,0.9073376623376623,54.0,1
+1790574131,rb_1218,1646_C,Factorials and Powers of Two,"bitmasks,brute force,constructive algorithms,dp,math",1424,1500,-76,0.8617251461988304,58.0,1
+1790587487,santo_boi,1715_C,Monoblock,"combinatorics,data structures,implementation,math",1873,1700,173,0.7378787878787879,17.0,1
+1790588517,santo_boi,1467_B,Hills And Valleys,"brute force,implementation",1873,1700,173,0.8541666666666667,10.0,1
+1790592047,santo_boi,1896_D,Ones and Twos,"binary search,data structures,divide and conquer,math,two pointers",1873,1700,173,0.7095238095238094,20.0,0
+1790603551,rb_1218,1399_D,Binary String To Subsequences,"constructive algorithms,data structures,greedy,implementation",1424,1500,-76,0.9182971014492753,59.0,1
+1790605783,rb_1218,2222_C,Median Partition,"dp,math",1424,1500,-76,0.9023809523809524,37.0,1
+1790612083,santo_boi,2090_B,Pushing Balls,"brute force,dp,implementation",1873,1000,873,0.832010582010582,14.0,1
+1790613627,kyzum_king,2188_B,Seats,greedy,982,1000,-18,0.9259259259259259,25.0,1
+1790614890,kyzum_king,2167_D,Yet Another Array Problem,"brute force,implementation,math,number theory",982,1000,-18,0.8298160173160173,45.0,1
+1790614938,rb_1218,2247_D1,XOR Sorting (Easy Version),"bitmasks,greedy",1424,1500,-76,0.8791666666666667,25.0,1
+1790616234,_avinash06_,1862_B,Sequence Game,constructive algorithms,1328,800,528,0.6666666666666666,7.0,1
+1790645511,tvdan,2266_H,Deque Malfunction,"binary search,data structures,dp,greedy",1832,2400,-568,0.8900232919254658,42.0,1
+1790654628,rb_1218,1610_C,Keshi Is Throwing a Party,"binary search,greedy",1424,1600,-176,0.9415384615384615,34.0,1
+1790659088,kyzum_king,2164_B,Even Modulo Pair,"brute force,math,number theory",982,1000,-18,0.8761111111111112,39.0,1
+1790674112,rb_1218,1623_C,Balanced Stone Heaps,"binary search,greedy",1424,1600,-176,0.945054945054945,36.0,1
+1790674745,santo_boi,2148_E,Split,"binary search,data structures,two pointers",1873,1200,673,0.6130952380952381,13.0,1
+1790675386,santo_boi,2057_B,Gorilla and the Exam,"greedy,sortings",1873,1000,873,0.8277310924369747,20.0,0
+1790682924,Timmyliuyunxi,2085_F2,Serval and Colorful Array (Hard Version),"data structures,greedy",2212,2900,-688,0.9201127819548872,43.0,1
+1790687810,santo_boi,2231_B,Another Sorting Problem,constructive algorithms,1873,1100,773,0.75,6.0,1
+1790688739,tvdan,490_A,Team Olympiad,"greedy,implementation,sortings",1832,800,1032,0.9345813204508856,50.0,1
+1790689825,santo_boi,2055_B,Crafting,"constructive algorithms,greedy,sortings",1873,1000,873,0.7638888888888888,29.0,1
+1790694508,tvdan,2258_E,DivMEX,"data structures,math,number theory",1832,2400,-568,0.9142857142857143,37.0,1
+1790698328,kyzum_king,2148_D,Destruction of the Dandelion Fields,"constructive algorithms,greedy,sortings",982,1000,-18,0.7852813852813852,43.0,1
+1790698812,_avinash06_,1971_A,My First Sorting Problem,"implementation,sortings",1328,800,528,0.9277003484320558,51.0,1
+1790705413,santo_boi,2038_C,DIY,"data structures,geometry,greedy,sortings",1873,1400,473,0.7236842105263157,32.0,1
+1790740026,tvdan,715_C,Digit Tree,"dfs and similar,divide and conquer,dsu,trees",1832,2700,-868,0.75,10.0,1
+1790763428,kyzum_king,2147_B,Multiple Construction,constructive algorithms,982,1000,-18,0.75,10.0,1
+1790764388,Timmyliuyunxi,1634_E,Fair Share,"constructive algorithms,data structures,dfs and similar,graph matchings,graphs",2212,2400,-188,0.8843103448275862,69.0,1
+1790764553,Timmyliuyunxi,723_E,One-Way Reform,"constructive algorithms,dfs and similar,flows,graphs,greedy",2212,2200,12,0.9151002331002331,65.0,1
+1790765356,Timmyliuyunxi,126_B,Password,"binary search,dp,hashing,string suffix structures,strings",2212,1700,512,0.759,41.0,1
+1790765392,Timmyliuyunxi,1137_B,Camp Schedule,"greedy,hashing,strings",2212,1600,612,0.8507936507936508,25.0,1
+1790765588,Timmyliuyunxi,1200_E,Compress Words,"brute force,hashing,implementation,string suffix structures,strings",2212,2000,212,0.836996336996337,32.0,1
+1790765679,Timmyliuyunxi,25_E,Test,"hashing,strings",2212,2200,12,0.8571428571428571,10.0,1
+1790765790,Timmyliuyunxi,1003_F,Abbreviation,"dp,hashing,strings",2212,2200,12,0.8910256410256411,36.0,1
+1790766935,Timmyliuyunxi,432_D,Prefixes and Suffixes,"dp,string suffix structures,strings,two pointers",2212,2000,212,0.8495370370370371,38.0,1
+1790767026,Timmyliuyunxi,1015_F,Bracket Substring,"dp,strings",2212,2300,-88,0.9142857142857144,34.0,1
+1790768584,kyzum_king,2145_B,Deck of Cards,"greedy,implementation",982,1000,-18,0.8405172413793103,37.0,1
+1790768904,santo_boi,1582_D,"Vupsen, Pupsen and 0","constructive algorithms,math",1873,1600,273,0.7846153846153847,19.0,1
+1790769689,santo_boi,2149_C,MEX rose,greedy,1873,900,973,0.9,18.0,1
+1790770853,santo_boi,371_C,Hamburgers,"binary search,brute force",1873,1600,273,0.825,14.0,1
+1790776094,kyzum_king,2269_A,SauSaGe Bank,"greedy,math",982,800,182,0.9282051282051282,52.0,1
+1790783761,plsmakeme1600,2260_C,"Maximize XOR, Minimize Operations","bitmasks,greedy",1177,1300,-123,0.7411764705882353,35.0,1
+1790786182,kyzum_king,2256_B,Domino Tiles,"implementation,math",982,1000,-18,0.8475783475783476,36.0,1
+1790786667,juruo123123,51_F,Caterpillar,"dfs and similar,dp,graphs,trees",1553,2800,-1247,0.7541666666666667,12.0,1
+1790789991,_avinash06_,1472_B,Fair Division,"dp,greedy,math",1328,800,528,0.7486772486772487,46.0,1
+1790795159,Kairm_Zaf,2267_F2,XOR Transformations (Hard Version),"bitmasks,brute force,data structures,dfs and similar,greedy,math,sortings,strings,trees",1874,2300,-426,0.4444444444444444,3.0,1
+1790798329,Kairm_Zaf,475_D,CGCDSSQ,"brute force,data structures,math",1874,2000,-126,0.5555555555555555,5.0,1
+1790818346,Timmyliuyunxi,1400_E,Clear the Multiset,"data structures,divide and conquer,dp,greedy",2212,2200,12,0.8838949843260188,81.0,1
+1790833356,kyzum_king,2254_C1,Marenol (easy version),greedy,982,1000,-18,0.9354838709677419,29.0,1
+1790844688,santo_boi,1677_A,Tokitsukaze and Strange Inequality,"brute force,data structures,dp",1873,1600,273,0.8030303030303031,20.0,1
+1790845529,santo_boi,1537_E1,Erase and Extend (Easy Version),"binary search,brute force,dp,greedy,hashing,implementation,string suffix structures,strings,two pointers",1873,1600,273,0.7397266313932981,51.0,1
+1790845581,tvdan,2267_E,Clean Substrings,"combinatorics,data structures,math",1832,2000,-168,0.7973484848484849,34.0,1
+1790850272,santo_boi,2032_C,Trinity,"binary search,math,sortings,two pointers",1873,1400,473,0.738095238095238,32.0,1
+1790862106,tvdan,2267_F2,XOR Transformations (Hard Version),"bitmasks,brute force,data structures,dfs and similar,greedy,math,sortings,strings,trees",1832,2300,-468,0.8894796952597464,96.0,1
+1790876432,_avinash06_,2269_A,SauSaGe Bank,"greedy,math",1328,800,528,0.8782467532467533,46.0,1
+1790876969,Kairm_Zaf,1140_F,Extending Set of Points,"data structures,divide and conquer,dsu",1874,2600,-726,0.5833333333333334,2.0,1
+1790880506,Kairm_Zaf,1721_E,Prefix Function Queries,"dfs and similar,dp,hashing,string suffix structures,strings,trees",1874,2200,-326,0.5555555555555555,4.0,1
+1790880773,kyzum_king,2143_B,Discounts,"greedy,sortings,two pointers",982,1000,-18,0.8049242424242425,41.0,1
+1790909371,tvdan,2267_G,New LRT,"divide and conquer,dp,fft",1832,2600,-768,0.7129629629629629,9.0,1
+1790911925,tvdan,486_A,Calculating Function,"implementation,math",1832,800,1032,0.9583333333333334,44.0,1
+1790912339,tvdan,479_A,Expression,"brute force,math",1832,1000,832,0.94875,37.0,1
+1790913248,tvdan,476_A,Dreamoon and Stairs,"implementation,math",1832,1000,832,0.9607692307692308,47.0,1
+1790938127,kyzum_king,2124_B,Minimise Sum,greedy,982,1000,-18,0.9393939393939394,31.0,1
+1790948702,kyzum_king,2266_A,Good Contest,greedy,982,800,182,0.9411764705882353,32.0,1
+1790950469,kyzum_king,2266_B,Three Piles,"games,greedy,math",982,800,182,0.8904761904761905,62.0,1
+1790957531,Kairm_Zaf,2268_C,KiaKio and Energy Intervals,"binary search,bitmasks,data structures,divide and conquer,dsu,greedy,trees,two pointers",1874,2300,-426,0.6520833333333333,9.0,1
+1790959423,_avinash06_,2268_A,K Is Important,"constructive algorithms,greedy",1328,1200,128,0.7847826086956522,29.0,1
+1790968150,kyzum_king,2266_C,"AND, OR, Sort!","greedy,strings",982,1000,-18,0.8888888888888888,38.0,1
+1791007344,santo_boi,2267_D,Backrooms Hill,"constructive algorithms,dp,greedy,sortings,two pointers",1873,1400,473,0.8051948051948052,48.0,1
+1791009751,kyzum_king,2132_C1,The Cunning Seller (easy version),"greedy,math",982,1000,-18,0.9384902143522833,62.0,1
+1791033794,kyzum_king,2120_B,Square Pool,geometry,982,1000,-18,0.5,0.0,1
+1791043638,Kairm_Zaf,2233_E2,Permutation Transmission (Difficult Version),"bitmasks,combinatorics,sortings",1874,2300,-426,0.6388888888888888,3.0,1

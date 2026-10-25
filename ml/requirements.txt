@@ -1,0 +1,6 @@
+# NextProblem - ML Pipeline Requirements
+# Kept strictly minimal, reproducible, and explainable
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+requests>=2.31.0

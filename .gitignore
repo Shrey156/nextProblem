@@ -1,0 +1,22 @@
+# Dependencies & Build Outputs
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python Environments & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# ML raw cache (keep bundled offline snapshots in web/public/data)
+ml/data/raw/*.tmp

@@ -1,0 +1,5464 @@
+[
+  {
+    "id": 395863871,
+    "contestId": 2277,
+    "creationTimeSeconds": 1792846233,
+    "relativeTimeSeconds": 6333,
+    "problem": {
+      "contestId": 2277,
+      "index": "D2",
+      "name": "Number Operating (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "tags": [
+        "brute force",
+        "divide and conquer",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2277,
+      "participantId": 249086664,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 518,
+      "startTimeSeconds": 1792839900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 17,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395851988,
+    "contestId": 2277,
+    "creationTimeSeconds": 1792843405,
+    "relativeTimeSeconds": 3505,
+    "problem": {
+      "contestId": 2277,
+      "index": "D1",
+      "name": "Number Operating (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2277,
+      "participantId": 249086664,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 518,
+      "startTimeSeconds": 1792839900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 27,
+    "timeConsumedMillis": 250,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395842242,
+    "contestId": 2277,
+    "creationTimeSeconds": 1792841791,
+    "relativeTimeSeconds": 1891,
+    "problem": {
+      "contestId": 2277,
+      "index": "C",
+      "name": "Edge Addeleting",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2277,
+      "participantId": 249086664,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 518,
+      "startTimeSeconds": 1792839900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 640,
+    "memoryConsumedBytes": 56422400
+  },
+  {
+    "id": 395834939,
+    "contestId": 2277,
+    "creationTimeSeconds": 1792840879,
+    "relativeTimeSeconds": 979,
+    "problem": {
+      "contestId": 2277,
+      "index": "B",
+      "name": "Sequence Decreasing",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2277,
+      "participantId": 249086664,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 518,
+      "startTimeSeconds": 1792839900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395831462,
+    "contestId": 2277,
+    "creationTimeSeconds": 1792840511,
+    "relativeTimeSeconds": 611,
+    "problem": {
+      "contestId": 2277,
+      "index": "A",
+      "name": "Subset Selecting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "tags": []
+    },
+    "author": {
+      "contestId": 2277,
+      "participantId": 249086664,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 518,
+      "startTimeSeconds": 1792839900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395829128,
+    "contestId": 2277,
+    "creationTimeSeconds": 1792840234,
+    "relativeTimeSeconds": 334,
+    "problem": {
+      "contestId": 2277,
+      "index": "A",
+      "name": "Subset Selecting",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "tags": []
+    },
+    "author": {
+      "contestId": 2277,
+      "participantId": 249086664,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 518,
+      "startTimeSeconds": 1792839900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "RUNTIME_ERROR",
+    "testset": "PRETESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395066697,
+    "contestId": 2157,
+    "creationTimeSeconds": 1792298457,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2157,
+      "index": "D",
+      "name": "Billion Players Game",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "sortings",
+        "ternary search",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2157,
+      "participantId": 225047768,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1763890500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 12,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395065767,
+    "contestId": 2157,
+    "creationTimeSeconds": 1792296951,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2157,
+      "index": "C",
+      "name": "Meximum Array 2",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2157,
+      "participantId": 225047768,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1763890500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395065128,
+    "contestId": 2157,
+    "creationTimeSeconds": 1792295807,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2157,
+      "index": "B",
+      "name": "Expansion Plan 2",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2157,
+      "participantId": 225047768,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1763890500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 512000
+  },
+  {
+    "id": 395064788,
+    "contestId": 2157,
+    "creationTimeSeconds": 1792295175,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2157,
+      "index": "A",
+      "name": "Dungeon Equilibrium",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2157,
+      "participantId": 225047768,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1763890500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395045917,
+    "contestId": 2261,
+    "creationTimeSeconds": 1792265535,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2261,
+      "index": "D1",
+      "name": "Come Be My Friend, Don't Be So Scared (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2261,
+      "participantId": 248802669,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1792247700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 8,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395043579,
+    "contestId": 2261,
+    "creationTimeSeconds": 1792264174,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2261,
+      "index": "C",
+      "name": "I Know About a Million Things",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2261,
+      "participantId": 248802669,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1792247700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 11,
+    "timeConsumedMillis": 171,
+    "memoryConsumedBytes": 4300800
+  },
+  {
+    "id": 395042516,
+    "contestId": 2261,
+    "creationTimeSeconds": 1792263409,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2261,
+      "index": "B",
+      "name": "What's the Capital of France?",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2261,
+      "participantId": 248802669,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1792247700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395041900,
+    "contestId": 2261,
+    "creationTimeSeconds": 1792263012,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2261,
+      "index": "A",
+      "name": "Hey, It's Me, Souvlakity",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2261,
+      "participantId": 248802669,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1792247700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395041726,
+    "contestId": 2261,
+    "creationTimeSeconds": 1792262911,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2261,
+      "index": "A",
+      "name": "Hey, It's Me, Souvlakity",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2261,
+      "participantId": 248802669,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1792247700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395041693,
+    "contestId": 2261,
+    "creationTimeSeconds": 1792262895,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2261,
+      "index": "A",
+      "name": "Hey, It's Me, Souvlakity",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2261,
+      "participantId": 248802669,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1792247700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 395041592,
+    "contestId": 2261,
+    "creationTimeSeconds": 1792262821,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2261,
+      "index": "A",
+      "name": "Hey, It's Me, Souvlakity",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2261,
+      "participantId": 248802669,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1792247700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 394769429,
+    "contestId": 2276,
+    "creationTimeSeconds": 1792125519,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2276,
+      "index": "E",
+      "name": "Good Substrings",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2276,
+      "participantId": 248671259,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1791988500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 26,
+    "timeConsumedMillis": 125,
+    "memoryConsumedBytes": 9216000
+  },
+  {
+    "id": 394721426,
+    "contestId": 2276,
+    "creationTimeSeconds": 1792081535,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2276,
+      "index": "D",
+      "name": "Caveman",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "graphs"
+      ]
+    },
+    "author": {
+      "contestId": 2276,
+      "participantId": 248671259,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1791988500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 40,
+    "timeConsumedMillis": 187,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 394721298,
+    "contestId": 2276,
+    "creationTimeSeconds": 1792081476,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2276,
+      "index": "C",
+      "name": "Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2276,
+      "participantId": 248671259,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1791988500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "RUNTIME_ERROR",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 394718923,
+    "contestId": 2276,
+    "creationTimeSeconds": 1792080383,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2276,
+      "index": "D",
+      "name": "Caveman",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "graphs"
+      ]
+    },
+    "author": {
+      "contestId": 2276,
+      "participantId": 248671259,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1791988500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 394715947,
+    "contestId": 2276,
+    "creationTimeSeconds": 1792078882,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2276,
+      "index": "C",
+      "name": "Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2276,
+      "participantId": 248671259,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1791988500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 18,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 1024000
+  },
+  {
+    "id": 394714711,
+    "contestId": 2276,
+    "creationTimeSeconds": 1792078281,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2276,
+      "index": "B",
+      "name": "Replace and Compress",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2276,
+      "participantId": 248671259,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1791988500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 6,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 3584000
+  },
+  {
+    "id": 394713090,
+    "contestId": 2276,
+    "creationTimeSeconds": 1792077525,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2276,
+      "index": "A",
+      "name": "Perfect Sandwiches",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2276,
+      "participantId": 248671259,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1791988500
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 393762531,
+    "contestId": 2238,
+    "creationTimeSeconds": 1791485353,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2238,
+      "index": "D",
+      "name": "Storming Arasaka",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2238,
+      "participantId": 248114040,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1782657300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 30,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 393666123,
+    "contestId": 2238,
+    "creationTimeSeconds": 1791436704,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2238,
+      "index": "C",
+      "name": "Village Guilds",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2238,
+      "participantId": 248114040,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1782657300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 93,
+    "memoryConsumedBytes": 14950400
+  },
+  {
+    "id": 393664530,
+    "contestId": 2238,
+    "creationTimeSeconds": 1791435143,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2238,
+      "index": "B",
+      "name": "Crimson Triples",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2238,
+      "participantId": 248114040,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1782657300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 393664040,
+    "contestId": 2238,
+    "creationTimeSeconds": 1791434630,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2238,
+      "index": "A",
+      "name": "Another Puzzle from Papyrus",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2238,
+      "participantId": 248114040,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1782657300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392205218,
+    "contestId": 2268,
+    "creationTimeSeconds": 1790436611,
+    "relativeTimeSeconds": 3311,
+    "problem": {
+      "contestId": 2268,
+      "index": "B",
+      "name": "What a SauSaGe! It's All Meat",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2268,
+      "participantId": 247391569,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 11,
+      "startTimeSeconds": 1790433300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 15,
+    "timeConsumedMillis": 171,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392191815,
+    "contestId": 2268,
+    "creationTimeSeconds": 1790434846,
+    "relativeTimeSeconds": 1546,
+    "problem": {
+      "contestId": 2268,
+      "index": "A",
+      "name": "K Is Important",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2268,
+      "participantId": 247391569,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 11,
+      "startTimeSeconds": 1790433300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 16,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392163467,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790427194,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2267,
+      "index": "E",
+      "name": "Clean Substrings",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247338052,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 30,
+    "timeConsumedMillis": 93,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392066653,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790354332,
+    "relativeTimeSeconds": 7432,
+    "problem": {
+      "contestId": 2267,
+      "index": "E",
+      "name": "Clean Substrings",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 30,
+    "timeConsumedMillis": 109,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392043875,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790350795,
+    "relativeTimeSeconds": 3895,
+    "problem": {
+      "contestId": 2267,
+      "index": "D",
+      "name": "Backrooms Hill",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 24,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 1433600
+  },
+  {
+    "id": 392029387,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790349216,
+    "relativeTimeSeconds": 2316,
+    "problem": {
+      "contestId": 2267,
+      "index": "C",
+      "name": "GCD Treasury",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 109,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392027440,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790349033,
+    "relativeTimeSeconds": 2133,
+    "problem": {
+      "contestId": 2267,
+      "index": "C",
+      "name": "GCD Treasury",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "PRETESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392025240,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790348835,
+    "relativeTimeSeconds": 1935,
+    "problem": {
+      "contestId": 2267,
+      "index": "C",
+      "name": "GCD Treasury",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "PRETESTS",
+    "passedTestCount": 2,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392024538,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790348776,
+    "relativeTimeSeconds": 1876,
+    "problem": {
+      "contestId": 2267,
+      "index": "C",
+      "name": "GCD Treasury",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "TIME_LIMIT_EXCEEDED",
+    "testset": "PRETESTS",
+    "passedTestCount": 2,
+    "timeConsumedMillis": 2000,
+    "memoryConsumedBytes": 409600
+  },
+  {
+    "id": 392017932,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790348239,
+    "relativeTimeSeconds": 1339,
+    "problem": {
+      "contestId": 2267,
+      "index": "C",
+      "name": "GCD Treasury",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "TIME_LIMIT_EXCEEDED",
+    "testset": "PRETESTS",
+    "passedTestCount": 2,
+    "timeConsumedMillis": 2000,
+    "memoryConsumedBytes": 409600
+  },
+  {
+    "id": 392006477,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790347472,
+    "relativeTimeSeconds": 572,
+    "problem": {
+      "contestId": 2267,
+      "index": "B",
+      "name": "Fashionable Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 5,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 392000292,
+    "contestId": 2267,
+    "creationTimeSeconds": 1790347134,
+    "relativeTimeSeconds": 234,
+    "problem": {
+      "contestId": 2267,
+      "index": "A",
+      "name": "Turn Into a Palindrome",
+      "type": "PROGRAMMING",
+      "points": 250.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2267,
+      "participantId": 247242213,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 228,
+      "startTimeSeconds": 1790346900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 3,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 390671899,
+    "contestId": 2263,
+    "creationTimeSeconds": 1789360973,
+    "relativeTimeSeconds": 3173,
+    "problem": {
+      "contestId": 2263,
+      "index": "C1",
+      "name": "Floor of MEX (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2263,
+      "participantId": 246613698,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1789357800
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 14,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 390671742,
+    "contestId": 2263,
+    "creationTimeSeconds": 1789360768,
+    "relativeTimeSeconds": 2968,
+    "problem": {
+      "contestId": 2263,
+      "index": "C1",
+      "name": "Floor of MEX (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2263,
+      "participantId": 246613698,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1789357800
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 390671024,
+    "contestId": 2263,
+    "creationTimeSeconds": 1789359754,
+    "relativeTimeSeconds": 1954,
+    "problem": {
+      "contestId": 2263,
+      "index": "C1",
+      "name": "Floor of MEX (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2263,
+      "participantId": 246613698,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1789357800
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 390670822,
+    "contestId": 2263,
+    "creationTimeSeconds": 1789359440,
+    "relativeTimeSeconds": 1640,
+    "problem": {
+      "contestId": 2263,
+      "index": "C1",
+      "name": "Floor of MEX (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2263,
+      "participantId": 246613698,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1789357800
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 390670317,
+    "contestId": 2263,
+    "creationTimeSeconds": 1789358787,
+    "relativeTimeSeconds": 987,
+    "problem": {
+      "contestId": 2263,
+      "index": "B",
+      "name": "Min Matrices",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    "author": {
+      "contestId": 2263,
+      "participantId": 246613698,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1789357800
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 5017600
+  },
+  {
+    "id": 390669911,
+    "contestId": 2263,
+    "creationTimeSeconds": 1789358069,
+    "relativeTimeSeconds": 269,
+    "problem": {
+      "contestId": 2263,
+      "index": "A",
+      "name": "Min Max Game",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "games"
+      ]
+    },
+    "author": {
+      "contestId": 2263,
+      "participantId": 246613698,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1789357800
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 389936589,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788883210,
+    "relativeTimeSeconds": 5110,
+    "problem": {
+      "contestId": 2260,
+      "index": "E",
+      "name": "Cyclic Balance",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 26,
+    "timeConsumedMillis": 187,
+    "memoryConsumedBytes": 6860800
+  },
+  {
+    "id": 389917810,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788881013,
+    "relativeTimeSeconds": 2913,
+    "problem": {
+      "contestId": 2260,
+      "index": "D",
+      "name": "Signs of Prefix Sums",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 15,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 389913663,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788880590,
+    "relativeTimeSeconds": 2490,
+    "problem": {
+      "contestId": 2260,
+      "index": "D",
+      "name": "Signs of Prefix Sums",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 389904355,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788879693,
+    "relativeTimeSeconds": 1593,
+    "problem": {
+      "contestId": 2260,
+      "index": "C",
+      "name": "Maximize XOR, Minimize Operations",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 12,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 389900072,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788879310,
+    "relativeTimeSeconds": 1210,
+    "problem": {
+      "contestId": 2260,
+      "index": "C",
+      "name": "Maximize XOR, Minimize Operations",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 389894514,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788878841,
+    "relativeTimeSeconds": 741,
+    "problem": {
+      "contestId": 2260,
+      "index": "B",
+      "name": "Monocarp and Projects",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 389886903,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788878378,
+    "relativeTimeSeconds": 278,
+    "problem": {
+      "contestId": 2260,
+      "index": "A",
+      "name": "Monocarp's Contest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 3,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 389885480,
+    "contestId": 2260,
+    "creationTimeSeconds": 1788878321,
+    "relativeTimeSeconds": 221,
+    "problem": {
+      "contestId": 2260,
+      "index": "A",
+      "name": "Monocarp's Contest",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2260,
+      "participantId": 246232136,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1788878100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 388829042,
+    "contestId": 2258,
+    "creationTimeSeconds": 1788020394,
+    "relativeTimeSeconds": 6294,
+    "problem": {
+      "contestId": 2258,
+      "index": "B2",
+      "name": "Carrot Chopdown (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2258,
+      "participantId": 245636976,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 446,
+      "startTimeSeconds": 1788014100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 156,
+    "memoryConsumedBytes": 2560000
+  },
+  {
+    "id": 388817886,
+    "contestId": 2258,
+    "creationTimeSeconds": 1788018463,
+    "relativeTimeSeconds": 4363,
+    "problem": {
+      "contestId": 2258,
+      "index": "C",
+      "name": "Far Cities",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "interactive",
+        "trees",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2258,
+      "participantId": 245636976,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 446,
+      "startTimeSeconds": 1788014100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 388816531,
+    "contestId": 2258,
+    "creationTimeSeconds": 1788018255,
+    "relativeTimeSeconds": 4155,
+    "problem": {
+      "contestId": 2258,
+      "index": "C",
+      "name": "Far Cities",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1600,
+      "tags": [
+        "interactive",
+        "trees",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2258,
+      "participantId": 245636976,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 446,
+      "startTimeSeconds": 1788014100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "PRETESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 388788711,
+    "contestId": 2258,
+    "creationTimeSeconds": 1788014979,
+    "relativeTimeSeconds": 879,
+    "problem": {
+      "contestId": 2258,
+      "index": "B1",
+      "name": "Carrot Chopdown (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "games",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2258,
+      "participantId": 245636976,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 446,
+      "startTimeSeconds": 1788014100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 388781132,
+    "contestId": 2258,
+    "creationTimeSeconds": 1788014429,
+    "relativeTimeSeconds": 329,
+    "problem": {
+      "contestId": 2258,
+      "index": "A",
+      "name": "Odd Eraser",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2258,
+      "participantId": 245636976,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 446,
+      "startTimeSeconds": 1788014100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 388186531,
+    "contestId": 2240,
+    "creationTimeSeconds": 1787524235,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2240,
+      "index": "A",
+      "name": "Another Popcount Problem",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2240,
+      "participantId": 245322031,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1782570900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 387470414,
+    "contestId": 2257,
+    "creationTimeSeconds": 1786987319,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2257,
+      "index": "C",
+      "name": "Spying on the Beaver",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2257,
+      "participantId": 244958483,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786977300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 387469331,
+    "contestId": 2257,
+    "creationTimeSeconds": 1786986870,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2257,
+      "index": "B",
+      "name": "Gigantomachy",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2257,
+      "participantId": 244958483,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786977300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 387468059,
+    "contestId": 2257,
+    "creationTimeSeconds": 1786986359,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2257,
+      "index": "A",
+      "name": "Creating Abbreviations",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2257,
+      "participantId": 244958483,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786977300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 386853323,
+    "contestId": 2255,
+    "creationTimeSeconds": 1786597736,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2255,
+      "index": "A",
+      "name": "Hot Potatoes at the Fairy Warehouse",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1200,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2255,
+      "participantId": 244403433,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786286100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 12,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 386852752,
+    "contestId": 2253,
+    "creationTimeSeconds": 1786597109,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2253,
+      "index": "C",
+      "name": "Sum of Distinct Values in a Matrix",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2253,
+      "participantId": 244229395,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786113300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 13,
+    "timeConsumedMillis": 109,
+    "memoryConsumedBytes": 6758400
+  },
+  {
+    "id": 386851981,
+    "contestId": 2253,
+    "creationTimeSeconds": 1786596353,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2253,
+      "index": "D",
+      "name": "Hypercarp and Interdimensional Jumps",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2253,
+      "participantId": 244229395,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786113300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 12,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 386851580,
+    "contestId": 2253,
+    "creationTimeSeconds": 1786595940,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2253,
+      "index": "D",
+      "name": "Hypercarp and Interdimensional Jumps",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "brute force",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2253,
+      "participantId": 244229395,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786113300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "TIME_LIMIT_EXCEEDED",
+    "testset": "TESTS",
+    "passedTestCount": 3,
+    "timeConsumedMillis": 2000,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 386286559,
+    "contestId": 2253,
+    "creationTimeSeconds": 1786257540,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2253,
+      "index": "B",
+      "name": "Hypercarp and the Control Panel",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2253,
+      "participantId": 244229395,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786113300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 12,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 2048000
+  },
+  {
+    "id": 386284755,
+    "contestId": 2253,
+    "creationTimeSeconds": 1786256302,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2253,
+      "index": "A",
+      "name": "The Best Card",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2253,
+      "participantId": 244229395,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1786113300
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 385960390,
+    "contestId": 2252,
+    "creationTimeSeconds": 1786032818,
+    "relativeTimeSeconds": 5918,
+    "problem": {
+      "contestId": 2252,
+      "index": "D",
+      "name": "Array Replacement",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 1700,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2252,
+      "participantId": 243839471,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 18,
+      "startTimeSeconds": 1786026900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 15,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 2048000
+  },
+  {
+    "id": 385931915,
+    "contestId": 2252,
+    "creationTimeSeconds": 1786029603,
+    "relativeTimeSeconds": 2703,
+    "problem": {
+      "contestId": 2252,
+      "index": "C",
+      "name": "Risky Tower",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2252,
+      "participantId": 243839471,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 18,
+      "startTimeSeconds": 1786026900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 968,
+    "memoryConsumedBytes": 46387200
+  },
+  {
+    "id": 385926807,
+    "contestId": 2252,
+    "creationTimeSeconds": 1786029147,
+    "relativeTimeSeconds": 2247,
+    "problem": {
+      "contestId": 2252,
+      "index": "C",
+      "name": "Risky Tower",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2252,
+      "participantId": 243839471,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 18,
+      "startTimeSeconds": 1786026900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "TIME_LIMIT_EXCEEDED",
+    "testset": "PRETESTS",
+    "passedTestCount": 15,
+    "timeConsumedMillis": 3000,
+    "memoryConsumedBytes": 49971200
+  },
+  {
+    "id": 385916408,
+    "contestId": 2252,
+    "creationTimeSeconds": 1786028329,
+    "relativeTimeSeconds": 1429,
+    "problem": {
+      "contestId": 2252,
+      "index": "B",
+      "name": "Always Changing",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2252,
+      "participantId": 243839471,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 18,
+      "startTimeSeconds": 1786026900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 13,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 385909260,
+    "contestId": 2252,
+    "creationTimeSeconds": 1786027816,
+    "relativeTimeSeconds": 916,
+    "problem": {
+      "contestId": 2252,
+      "index": "A",
+      "name": "Boss Fight",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2252,
+      "participantId": 243839471,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 18,
+      "startTimeSeconds": 1786026900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 5,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 385907900,
+    "contestId": 2252,
+    "creationTimeSeconds": 1786027723,
+    "relativeTimeSeconds": 823,
+    "problem": {
+      "contestId": 2252,
+      "index": "A",
+      "name": "Boss Fight",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2252,
+      "participantId": 243839471,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 18,
+      "startTimeSeconds": 1786026900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "PRETESTS",
+    "passedTestCount": 2,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 385903644,
+    "contestId": 2252,
+    "creationTimeSeconds": 1786027422,
+    "relativeTimeSeconds": 522,
+    "problem": {
+      "contestId": 2252,
+      "index": "A",
+      "name": "Boss Fight",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2252,
+      "participantId": 243839471,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "room": 18,
+      "startTimeSeconds": 1786026900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "PRETESTS",
+    "passedTestCount": 2,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 385195340,
+    "contestId": 2248,
+    "creationTimeSeconds": 1785608463,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2248,
+      "index": "A",
+      "name": "You Delete, I Delete",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2248,
+      "participantId": 243409665,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1785594900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 378548247,
+    "contestId": 2232,
+    "creationTimeSeconds": 1781375283,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2232,
+      "index": "B",
+      "name": "Cake Leveling",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2232,
+      "participantId": 238925594,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1780151700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 78,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 378547589,
+    "contestId": 2232,
+    "creationTimeSeconds": 1781374913,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2232,
+      "index": "A",
+      "name": "Convergence",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2232,
+      "participantId": 238925594,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1780151700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 377542320,
+    "contestId": 2219,
+    "creationTimeSeconds": 1780779343,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "C",
+      "name": "Coloring a Red Black Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 203,
+    "memoryConsumedBytes": 51507200
+  },
+  {
+    "id": 377542151,
+    "contestId": 2219,
+    "creationTimeSeconds": 1780779072,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "C",
+      "name": "Coloring a Red Black Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "RUNTIME_ERROR",
+    "testset": "TESTS",
+    "passedTestCount": 12,
+    "timeConsumedMillis": 171,
+    "memoryConsumedBytes": 51507200
+  },
+  {
+    "id": 377542091,
+    "contestId": 2219,
+    "creationTimeSeconds": 1780778994,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "C",
+      "name": "Coloring a Red Black Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 377541621,
+    "contestId": 2219,
+    "creationTimeSeconds": 1780778361,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "C",
+      "name": "Coloring a Red Black Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "RUNTIME_ERROR",
+    "testset": "TESTS",
+    "passedTestCount": 12,
+    "timeConsumedMillis": 218,
+    "memoryConsumedBytes": 48332800
+  },
+  {
+    "id": 377442284,
+    "contestId": 2231,
+    "creationTimeSeconds": 1780707312,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2231,
+      "index": "D",
+      "name": "Maximum Prefix Sums",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2231,
+      "participantId": 237564980,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1779374100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 15,
+    "timeConsumedMillis": 109,
+    "memoryConsumedBytes": 1536000
+  },
+  {
+    "id": 377440612,
+    "contestId": 2231,
+    "creationTimeSeconds": 1780702574,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2231,
+      "index": "C",
+      "name": "Chipmunk Theo and Equality",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1400,
+      "tags": [
+        "implementation",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2231,
+      "participantId": 237564980,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1779374100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 376410844,
+    "contestId": 2231,
+    "creationTimeSeconds": 1779974137,
+    "relativeTimeSeconds": 1537,
+    "problem": {
+      "contestId": 2231,
+      "index": "B",
+      "name": "Another Sorting Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    "author": {
+      "contestId": 2231,
+      "participantId": 237868501,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1779972600
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 376408741,
+    "contestId": 2231,
+    "creationTimeSeconds": 1779973044,
+    "relativeTimeSeconds": 444,
+    "problem": {
+      "contestId": 2231,
+      "index": "B",
+      "name": "Another Sorting Problem",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    "author": {
+      "contestId": 2231,
+      "participantId": 237868501,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1779972600
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 376408321,
+    "contestId": 2231,
+    "creationTimeSeconds": 1779972827,
+    "relativeTimeSeconds": 227,
+    "problem": {
+      "contestId": 2231,
+      "index": "A",
+      "name": "Construct an Array",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    "author": {
+      "contestId": 2231,
+      "participantId": 237868501,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1779972600
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 374648338,
+    "contestId": 2222,
+    "creationTimeSeconds": 1778869311,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "E",
+      "name": "Seek the Truth",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 26,
+    "timeConsumedMillis": 343,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 374647889,
+    "contestId": 2222,
+    "creationTimeSeconds": 1778869048,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "E",
+      "name": "Seek the Truth",
+      "type": "PROGRAMMING",
+      "points": 2250.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "IDLENESS_LIMIT_EXCEEDED",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 374627781,
+    "contestId": 2222,
+    "creationTimeSeconds": 1778858522,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "D",
+      "name": "Permutation Construction",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 30,
+    "timeConsumedMillis": 109,
+    "memoryConsumedBytes": 4300800
+  },
+  {
+    "id": 373231342,
+    "contestId": 2222,
+    "creationTimeSeconds": 1777641363,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "D",
+      "name": "Permutation Construction",
+      "type": "PROGRAMMING",
+      "points": 2000.0,
+      "rating": 1800,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 373001437,
+    "contestId": 2222,
+    "creationTimeSeconds": 1777508402,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "C",
+      "name": "Median Partition",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 22,
+    "timeConsumedMillis": 93,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 373001297,
+    "contestId": 2222,
+    "creationTimeSeconds": 1777507969,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "C",
+      "name": "Median Partition",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 373001076,
+    "contestId": 2222,
+    "creationTimeSeconds": 1777507357,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "B",
+      "name": "Artistic Balance Tree",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 373000713,
+    "contestId": 2222,
+    "creationTimeSeconds": 1777506261,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2222,
+      "index": "A",
+      "name": "A Wonderful Contest",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "dp",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2222,
+      "participantId": 236192431,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1777127700
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 5,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 372279577,
+    "contestId": 2225,
+    "creationTimeSeconds": 1776967941,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2225,
+      "index": "D",
+      "name": "Exceptional Segments",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2225,
+      "participantId": 235835839,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776782100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 140,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 372279297,
+    "contestId": 2225,
+    "creationTimeSeconds": 1776967769,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2225,
+      "index": "D",
+      "name": "Exceptional Segments",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2225,
+      "participantId": 235835839,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776782100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 5,
+    "timeConsumedMillis": 140,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 372277253,
+    "contestId": 2225,
+    "creationTimeSeconds": 1776966510,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2225,
+      "index": "C",
+      "name": "Red-Black Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2225,
+      "participantId": 235835839,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776782100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 372276471,
+    "contestId": 2225,
+    "creationTimeSeconds": 1776965979,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2225,
+      "index": "B",
+      "name": "Alternating String",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2225,
+      "participantId": 235835839,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776782100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 9,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 372276345,
+    "contestId": 2225,
+    "creationTimeSeconds": 1776965904,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2225,
+      "index": "B",
+      "name": "Alternating String",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    "author": {
+      "contestId": 2225,
+      "participantId": 235835839,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776782100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 372275239,
+    "contestId": 2225,
+    "creationTimeSeconds": 1776965198,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2225,
+      "index": "A",
+      "name": "A Number Between Two Others",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2225,
+      "participantId": 235835839,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776782100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 372275155,
+    "contestId": 2225,
+    "creationTimeSeconds": 1776965142,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2225,
+      "index": "A",
+      "name": "A Number Between Two Others",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2225,
+      "participantId": 235835839,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776782100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 371579476,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776466810,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "C",
+      "name": "Coloring a Red Black Tree",
+      "type": "PROGRAMMING",
+      "points": 1750.0,
+      "rating": 2300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math",
+        "probabilities",
+        "trees"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 187,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 371578174,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776464816,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "B2",
+      "name": "Unique Values (Hard version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 11,
+    "timeConsumedMillis": 171,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 371577738,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776464325,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "B2",
+      "name": "Unique Values (Hard version)",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "TIME_LIMIT_EXCEEDED",
+    "testset": "TESTS",
+    "passedTestCount": 3,
+    "timeConsumedMillis": 2000,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 371577674,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776464261,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "B1",
+      "name": "Unique Values (Easy version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "divide and conquer",
+        "interactive",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 11,
+    "timeConsumedMillis": 109,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 371577535,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776464089,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "B1",
+      "name": "Unique Values (Easy version)",
+      "type": "PROGRAMMING",
+      "points": 750.0,
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "divide and conquer",
+        "interactive",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 371574962,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776461597,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "A",
+      "name": "Grid L",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 14,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 371574815,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776461475,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "A",
+      "name": "Grid L",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 3,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 371574757,
+    "contestId": 2219,
+    "creationTimeSeconds": 1776461423,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2219,
+      "index": "A",
+      "name": "Grid L",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2219,
+      "participantId": 235491648,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1776090900
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "MEMORY_LIMIT_EXCEEDED",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 268390400
+  },
+  {
+    "id": 370281453,
+    "contestId": 2217,
+    "creationTimeSeconds": 1775654064,
+    "relativeTimeSeconds": 5064,
+    "problem": {
+      "contestId": 2217,
+      "index": "C",
+      "name": "Grid Covering",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "chinese remainder theorem",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2217,
+      "participantId": 234838693,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775649000
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 370280116,
+    "contestId": 2217,
+    "creationTimeSeconds": 1775653456,
+    "relativeTimeSeconds": 4456,
+    "problem": {
+      "contestId": 2217,
+      "index": "C",
+      "name": "Grid Covering",
+      "type": "PROGRAMMING",
+      "points": 1500.0,
+      "rating": 1300,
+      "tags": [
+        "chinese remainder theorem",
+        "math",
+        "number theory"
+      ]
+    },
+    "author": {
+      "contestId": 2217,
+      "participantId": 234838693,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775649000
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 370277009,
+    "contestId": 2217,
+    "creationTimeSeconds": 1775651979,
+    "relativeTimeSeconds": 2979,
+    "problem": {
+      "contestId": 2217,
+      "index": "B",
+      "name": "Flip the Bit (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2217,
+      "participantId": 234838693,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775649000
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 10,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 370275988,
+    "contestId": 2217,
+    "creationTimeSeconds": 1775651469,
+    "relativeTimeSeconds": 2469,
+    "problem": {
+      "contestId": 2217,
+      "index": "B",
+      "name": "Flip the Bit (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2217,
+      "participantId": 234838693,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775649000
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 370275572,
+    "contestId": 2217,
+    "creationTimeSeconds": 1775651252,
+    "relativeTimeSeconds": 2251,
+    "problem": {
+      "contestId": 2217,
+      "index": "B",
+      "name": "Flip the Bit (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000.0,
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2217,
+      "participantId": 234838693,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775649000
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 370271669,
+    "contestId": 2217,
+    "creationTimeSeconds": 1775649211,
+    "relativeTimeSeconds": 211,
+    "problem": {
+      "contestId": 2217,
+      "index": "A",
+      "name": "The Equalizer",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2217,
+      "participantId": 234838693,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775649000
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369397227,
+    "contestId": 2211,
+    "creationTimeSeconds": 1775162042,
+    "relativeTimeSeconds": 2942,
+    "problem": {
+      "contestId": 2211,
+      "index": "C1",
+      "name": "Equal Multisets (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2211,
+      "participantId": 234388342,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775159100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 20,
+    "timeConsumedMillis": 93,
+    "memoryConsumedBytes": 4300800
+  },
+  {
+    "id": 369397190,
+    "contestId": 2211,
+    "creationTimeSeconds": 1775161980,
+    "relativeTimeSeconds": 2880,
+    "problem": {
+      "contestId": 2211,
+      "index": "C1",
+      "name": "Equal Multisets (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    "author": {
+      "contestId": 2211,
+      "participantId": 234388342,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775159100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369395715,
+    "contestId": 2211,
+    "creationTimeSeconds": 1775160564,
+    "relativeTimeSeconds": 1464,
+    "problem": {
+      "contestId": 2211,
+      "index": "B",
+      "name": "Mickey Mouse Constructive",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2211,
+      "participantId": 234388342,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775159100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 9,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 3584000
+  },
+  {
+    "id": 369394923,
+    "contestId": 2211,
+    "creationTimeSeconds": 1775159775,
+    "relativeTimeSeconds": 675,
+    "problem": {
+      "contestId": 2211,
+      "index": "B",
+      "name": "Mickey Mouse Constructive",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2211,
+      "participantId": 234388342,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775159100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 46,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 369394874,
+    "contestId": 2211,
+    "creationTimeSeconds": 1775159730,
+    "relativeTimeSeconds": 630,
+    "problem": {
+      "contestId": 2211,
+      "index": "B",
+      "name": "Mickey Mouse Constructive",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2211,
+      "participantId": 234388342,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775159100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369394846,
+    "contestId": 2211,
+    "creationTimeSeconds": 1775159700,
+    "relativeTimeSeconds": 600,
+    "problem": {
+      "contestId": 2211,
+      "index": "B",
+      "name": "Mickey Mouse Constructive",
+      "type": "PROGRAMMING",
+      "points": 1250.0,
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2211,
+      "participantId": 234388342,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775159100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369394382,
+    "contestId": 2211,
+    "creationTimeSeconds": 1775159259,
+    "relativeTimeSeconds": 159,
+    "problem": {
+      "contestId": 2211,
+      "index": "A",
+      "name": "Antimedian Deletion",
+      "type": "PROGRAMMING",
+      "points": 500.0,
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ]
+    },
+    "author": {
+      "contestId": 2211,
+      "participantId": 234388342,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "VIRTUAL",
+      "ghost": false,
+      "startTimeSeconds": 1775159100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369263381,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775062057,
+    "relativeTimeSeconds": 2147483647,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234302205,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "PRACTICE",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 7,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 369251577,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775060609,
+    "relativeTimeSeconds": 6509,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 7,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369250234,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775060507,
+    "relativeTimeSeconds": 6407,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 7,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 369249609,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775060460,
+    "relativeTimeSeconds": 6360,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 7,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369223807,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775058657,
+    "relativeTimeSeconds": 4557,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 7,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369222931,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775058591,
+    "relativeTimeSeconds": 4491,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369221078,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775058451,
+    "relativeTimeSeconds": 4351,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 7,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 369220350,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775058397,
+    "relativeTimeSeconds": 4297,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 5,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369219295,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775058332,
+    "relativeTimeSeconds": 4232,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 4,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369210168,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775057806,
+    "relativeTimeSeconds": 3706,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 3,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369206980,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775057641,
+    "relativeTimeSeconds": 3541,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 1,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369204320,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775057514,
+    "relativeTimeSeconds": 3414,
+    "problem": {
+      "contestId": 2214,
+      "index": "E",
+      "name": "Shortest Paths",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "shortest paths"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 2,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369197491,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775057193,
+    "relativeTimeSeconds": 3093,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369196508,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775057147,
+    "relativeTimeSeconds": 3047,
+    "problem": {
+      "contestId": 2214,
+      "index": "D",
+      "name": "Neural Feud",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 102400
+  },
+  {
+    "id": 369189168,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056813,
+    "relativeTimeSeconds": 2713,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369188260,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056771,
+    "relativeTimeSeconds": 2671,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369187440,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056734,
+    "relativeTimeSeconds": 2634,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369178242,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056320,
+    "relativeTimeSeconds": 2220,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369176169,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056222,
+    "relativeTimeSeconds": 2122,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 0,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369175876,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056209,
+    "relativeTimeSeconds": 2109,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369174655,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056154,
+    "relativeTimeSeconds": 2054,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369173201,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775056089,
+    "relativeTimeSeconds": 1989,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369170826,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775055985,
+    "relativeTimeSeconds": 1885,
+    "problem": {
+      "contestId": 2214,
+      "index": "B",
+      "name": "Are You Smiling?",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "strings"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 31,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369168504,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775055887,
+    "relativeTimeSeconds": 1787,
+    "problem": {
+      "contestId": 2214,
+      "index": "A",
+      "name": "Odd One Out",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "graph matchings",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369168257,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775055876,
+    "relativeTimeSeconds": 1776,
+    "problem": {
+      "contestId": 2214,
+      "index": "A",
+      "name": "Odd One Out",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "graph matchings",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  },
+  {
+    "id": 369167782,
+    "contestId": 2214,
+    "creationTimeSeconds": 1775055855,
+    "relativeTimeSeconds": 1755,
+    "problem": {
+      "contestId": 2214,
+      "index": "A",
+      "name": "Odd One Out",
+      "type": "PROGRAMMING",
+      "tags": [
+        "*special",
+        "graph matchings",
+        "implementation"
+      ]
+    },
+    "author": {
+      "contestId": 2214,
+      "participantId": 234277546,
+      "members": [
+        {
+          "handle": "Pritam_19"
+        }
+      ],
+      "participantType": "CONTESTANT",
+      "ghost": false,
+      "startTimeSeconds": 1775054100
+    },
+    "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+    "verdict": "WRONG_ANSWER",
+    "testset": "TESTS",
+    "passedTestCount": 0,
+    "timeConsumedMillis": 15,
+    "memoryConsumedBytes": 0
+  }
+]
